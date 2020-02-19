@@ -19,25 +19,25 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "助教"
-  company = "新潟大学"
+  company = "新潟大学 理学部 理学科 数学プログラム"
   company_url = ""
-  location = "新潟市"
+  location = "新潟"
   date_start = "2020-03-01"
   date_end = ""
 
 [[experience]]
   title = "非常勤助手"
-  company = "青山学院大学"
+  company = "青山学院大学 理工学部 物理・数理学科"
   company_url = ""
-  location = "相模原市"
+  location = "神奈川"
   date_start = "2019-04-01"
   date_end = "2020-02-29"
 
 [[experience]]
   title = "日本学術振興会 特別研究員 (PD)"
-  company = "首都大学東京"
+  company = "首都大学東京 大学院理学研究科 数理科学専攻"
   company_url = ""
-  location = "八王子市"
+  location = "東京"
   date_start = "2018-04-01"
   date_end = "2020-02-29"
 
@@ -45,23 +45,23 @@ date_format = "January 2006"
   title = "Postdoctoral Fellow"
   company = "國立台灣大學 國家理論科學研究中心 (NCTS)"
   company_url = ""
-  location = "台北市"
+  location = "台北"
   date_start = "2017-08-01"
   date_end = "2018-03-31"
 
 [[experience]]
   title = "博士研究員"
-  company = "九州大学"
+  company = "九州大学 マス・フォア・インダストリ研究所 (IMI)"
   company_url = ""
-  location = "福岡市"
+  location = "福岡"
   date_start = "2017-04-01"
   date_end = "2017-07-31"
 
 [[experience]]
   title = "日本学術振興会 特別研究員 (DC1)"
-  company = "東京大学"
+  company = "東京大学 大学院数理科学研究科 数理科学専攻"
   company_url = ""
-  location = "東京都目黒区"
+  location = "東京"
   date_start = "2014-04-01"
   date_end = "2017-03-01"
 +++

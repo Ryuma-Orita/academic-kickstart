@@ -21,3 +21,6 @@ subtitle = ""
   *Tokyo J. Math.* **41** (2018), no. 1, 113–130 [{{< icon name="arxiv" pack="ai" >}}](https://arxiv.org/abs/1609.02381) [{{< icon name="book" pack="fas" >}}](https://projecteuclid.org/euclid.tjm/1513566016)
 
 ## Non-refereed
+
+1. **Application of fragmentation norms to transported points by Hamiltonian isotopies** (with Morimichi Kawasaki)<br>
+  *RIMS Kôkyûroku* **2098** (2018), 57–59 [{{< icon name="book" pack="fas" >}}](http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/2098.html)

@@ -2,7 +2,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
 title = "Journal Articles"
 subtitle = ""
@@ -12,7 +12,7 @@ subtitle = ""
 1. **Rigid fibers of spinning tops** (with Morimichi Kawasaki)<br>
 	Preprint (2019) [{{< icon name="arxiv" pack="ai" >}}](https://arxiv.org/abs/1905.13112)
 1. **Existence of pseudo-heavy fibers of moment maps** (with Morimichi Kawasaki)<br>
-	Preprint (2019) [{{< icon name="arxiv" pack="ai" >}}](https://arxiv.org/abs/1905.13112)
+	Preprint (2019) [{{< icon name="arxiv" pack="ai" >}}](https://arxiv.org/abs/1901.09395)
 
 ## Journal Articles (refereed)
 

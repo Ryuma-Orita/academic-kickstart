@@ -73,4 +73,4 @@ user_groups:
 ---
 
 Ryuma ORITA is an assistant professor at Niigata University.
-His research interests include  Hamiltonian dynamics in Symplectic Geometry.
+His research interests include Hamiltonian dynamics in Symplectic Geometry.

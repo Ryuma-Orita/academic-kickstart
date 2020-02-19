@@ -7,7 +7,7 @@ weight = 70  # Order that this section will appear.
 title = "論文"
 subtitle = ""
 +++
-## Preprints
+## プレプリント
 
 1. **Rigid fibers of spinning tops** (川﨑 盛通氏との共著)<br>
 	プレプリント (2019) [{{< icon name="arxiv" pack="ai" >}}](https://arxiv.org/abs/1905.13112)

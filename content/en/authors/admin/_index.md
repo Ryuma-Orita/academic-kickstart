@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:ryuma.orita@gmail.com".
+  link: mailto:ryuma.orita@gmail.com
 - icon: arxiv
   icon_pack: ai
   link: https://arxiv.org/search/?searchtype=author&query=Orita%2C+R

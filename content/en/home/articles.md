@@ -7,7 +7,7 @@ weight = 90  # Order that this section will appear.
 title = "Journal Articles"
 subtitle = ""
 +++
-***Refereed***
+## Refereed
 
 1. **Disjoint superheavy subsets and fragmentation norms** (with Morimichi Kawasaki)<br>
 	*J. Topol. Anal.* (2020), Online Ready [{{< icon name="arxiv" pack="ai" >}}](https://arxiv.org/abs/1901.01647) [{{< icon name="book" pack="fas" >}}](https://doi.org/10.1142/S179352532050017X)
@@ -19,3 +19,5 @@ subtitle = ""
   *J. Mod. Dyn.* **11** (2017), 313–339 [{{< icon name="arxiv" pack="ai" >}}](https://arxiv.org/abs/1703.01730) [{{< icon name="book" pack="fas" >}}](https://dx.doi.org/10.3934/jmd.2017013)
 1. **Morse–Bott inequalities for manifolds with boundary**<br>
   *Tokyo J. Math.* **41** (2018), no. 1, 113–130 [{{< icon name="arxiv" pack="ai" >}}](https://arxiv.org/abs/1609.02381) [{{< icon name="book" pack="fas" >}}](https://projecteuclid.org/euclid.tjm/1513566016)
+
+## Non-refereed

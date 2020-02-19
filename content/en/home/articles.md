@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Journal Articles"
 subtitle = ""
 
 [content]
@@ -66,6 +66,5 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+1. Disjoint superheavy subsets and fragmentation norms (with Morimichi Kawasaki)<br>
+J. Topol. Anal. (2020), Online Ready, doi:10.1142/S179352532050017X

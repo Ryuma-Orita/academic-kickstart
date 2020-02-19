@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ryuma ORITA
+name: 折田 龍馬
 
 # Username (this should match the folder name)
 authors:
@@ -10,23 +10,23 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: 助教
 
 # Organizations/Affiliations
 organizations:
-- name: Niigata University
+- name: 新潟大学理学部数学教室
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Differential Topology and Symplectic Geometry.
+bio: シンプレクティック多様体上のハミルトン力学系について研究しています。
 
 interests:
-- Differential Topology
-- Symplectic Geometry
+- 微分位相幾何学
+- シンプレクティック幾何学
 
 education:
   courses:
-  - course: Ph.D. in Mathematical Sciences
+  - course: 博士（数理科学）
     institution: The University of Tokyo
     year: 2017
   - course: M.S. in Mathematical Sciences

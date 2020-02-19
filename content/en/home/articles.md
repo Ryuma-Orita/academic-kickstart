@@ -7,7 +7,14 @@ weight = 90  # Order that this section will appear.
 title = "Journal Articles"
 subtitle = ""
 +++
-## Refereed
+## Preprints
+
+1. **Rigid fibers of spinning tops** (with Morimichi Kawasaki)<br>
+	Preprint (2019) [{{< icon name="arxiv" pack="ai" >}}](https://arxiv.org/abs/1905.13112)
+1. **Existence of pseudo-heavy fibers of moment maps** (with Morimichi Kawasaki)<br>
+	Preprint (2019) [{{< icon name="arxiv" pack="ai" >}}](https://arxiv.org/abs/1905.13112)
+
+## Journal Articles (refereed)
 
 1. **Disjoint superheavy subsets and fragmentation norms** (with Morimichi Kawasaki)<br>
 	*J. Topol. Anal.* (2020), Online Ready [{{< icon name="arxiv" pack="ai" >}}](https://arxiv.org/abs/1901.01647) [{{< icon name="book" pack="fas" >}}](https://doi.org/10.1142/S179352532050017X)
@@ -20,7 +27,7 @@ subtitle = ""
 1. **Morse–Bott inequalities for manifolds with boundary**<br>
   *Tokyo J. Math.* **41** (2018), no. 1, 113–130 [{{< icon name="arxiv" pack="ai" >}}](https://arxiv.org/abs/1609.02381) [{{< icon name="book" pack="fas" >}}](https://projecteuclid.org/euclid.tjm/1513566016)
 
-## Non-refereed
+## Journal Articles (non-refereed)
 
 1. **Application of fragmentation norms to transported points by Hamiltonian isotopies** (with Morimichi Kawasaki)<br>
   *RIMS Kôkyûroku* **2098** (2018), 57–59 [{{< icon name="book" pack="fas" >}}](http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/2098.html)

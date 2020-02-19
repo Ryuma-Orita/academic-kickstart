@@ -10,6 +10,7 @@
 [ja]
   languageCode = "ja"
   contentDir = "content/ja"
+  title = "折田 龍馬"
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]

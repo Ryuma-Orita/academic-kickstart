@@ -66,9 +66,9 @@ subtitle = ""
  css_class = ""
 +++
 
-1. Disjoint superheavy subsets and fragmentation norms (with Morimichi Kawasaki)<br>
-	J. Topol. Anal. (2020), Online Ready, doi:10.1142/S179352532050017X
-1. On the existence of infinitely many non-contractible periodic orbits of Hamiltonian diffeomorphisms of closed symplectic manifolds
-1. Non-contractible periodic orbits in Hamiltonian dynamics on tori
-1. Computation of annular capacity by Hamiltonian Floer theory of non-contractible periodic trajectories (with Morimichi Kawasaki)
-1. Morse–Bott inequalities for manifolds with boundary
+1. **Disjoint superheavy subsets and fragmentation norms** (with Morimichi Kawasaki)<br>
+	*J. Topol. Anal.* (2020), Online Ready
+1. **On the existence of infinitely many non-contractible periodic orbits of Hamiltonian diffeomorphisms of closed symplectic manifolds**
+1. **Non-contractible periodic orbits in Hamiltonian dynamics on tori**
+1. **Computation of annular capacity by Hamiltonian Floer theory of non-contractible periodic trajectories** (with Morimichi Kawasaki)
+1. **Morse–Bott inequalities for manifolds with boundary**

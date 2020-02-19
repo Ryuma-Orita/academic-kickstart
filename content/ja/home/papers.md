@@ -29,5 +29,5 @@ subtitle = ""
 
 ## 論文 (査読なし)
 
-1. **Application of fragmentation norms to transported points by Hamiltonian isotopies** (with Morimichi Kawasaki)<br>
+1. **Application of fragmentation norms to transported points by Hamiltonian isotopies** (川﨑 盛通氏との共著)<br>
   *RIMS Kôkyûroku* **2098** (2018), 57–59 [{{< icon name="book" pack="fas" >}}](http://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/2098.html)

@@ -14,26 +14,27 @@ role: 助教
 
 # Organizations/Affiliations
 organizations:
-- name: 新潟大学理学部数学教室
+- name: 新潟大学
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: シンプレクティック多様体上のハミルトン力学系について研究しています。
+bio: シンプレクティック多様体上のハミルトン力学系を研究しています。
 
 interests:
-- 微分位相幾何学
-- シンプレクティック幾何学
+- モース理論
+- フレアー理論
+- パーシステント加群
 
 education:
   courses:
-  - course: 博士（数理科学）
-    institution: The University of Tokyo
+  - course: 博士 (数理科学)
+    institution: 東京大学
     year: 2017
-  - course: M.S. in Mathematical Sciences
-    institution: The University of Tokyo
+  - course: 修士 (数理科学)
+    institution: 東京大学
     year: 2014
-  - course: B.S. in Mathematics
-    institution: Kyushu University
+  - course: 学士 (理学)
+    institution: 九州大学
     year: 2012
 
 # Social/Academic Networking
@@ -44,12 +45,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:ryuma.orita@gmail.com".
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=I417yJYAAAAJ
 - icon: arxiv
   icon_pack: ai
   link: https://arxiv.org/search/?searchtype=author&query=Orita%2C+R
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=I417yJYAAAAJ
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Ryuma_Orita
@@ -72,5 +73,5 @@ user_groups:
 # - Visitors
 ---
 
-Ryuma ORITA is an assistant professor at Niigata University.
-His research interests include Hamiltonian dynamics in Symplectic Geometry.
+新潟大学理学部数学教室の助教です。
+シンプレクティック多様体上のハミルトン力学系を研究しています。

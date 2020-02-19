@@ -9,7 +9,8 @@ subtitle = ""
 +++
 
 1. **Disjoint superheavy subsets and fragmentation norms** (with Morimichi Kawasaki)<br>
-	*J. Topol. Anal.* (2020), Online Ready
+	*J. Topol. Anal.* (2020), Online Ready<br>
+	[arXiv] [Journal Article]
 1. **On the existence of infinitely many non-contractible periodic orbits of Hamiltonian diffeomorphisms of closed symplectic manifolds**<br>
   *J. Symplectic Geom.* **17** (2019), no. 6, 1893–1927 
 1. **Non-contractible periodic orbits in Hamiltonian dynamics on tori**

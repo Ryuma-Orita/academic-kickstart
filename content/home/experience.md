@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Assistant Professor"
   company = "Niigata University"
-  company_url = "https://www.niigata-u.ac.jp/en/"
+  company_url = ""
   location = "Niigata"
   date_start = "2020-03-01"
   date_end = ""
@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Teaching Associate (adjunct)"
   company = "Aoyama Gakuin University"
-  company_url = "https://www.aoyama.ac.jp/en/"
+  company_url = ""
   location = "Kanagawa"
   date_start = "2019-04-01"
   date_end = "2020-02-29"
@@ -36,24 +36,32 @@ date_format = "Jan 2006"
 [[experience]]
   title = "JSPS Research Fellow (PD)"
   company = "Tokyo Metropolitan University"
-  company_url = "http://www.se.tmu.ac.jp/mis/english.html"
+  company_url = ""
   location = "Tokyo"
   date_start = "2018-04-01"
   date_end = "2020-02-29"
 
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Postdoctoral Fellow"
+  company = "National Center for Theoretical Sciences"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  location = "Taipei"
+  date_start = "2017-08-01"
+  date_end = "2018-03-31"
 
+[[experience]]
+  title = "Postdoctoral Researcher"
+  company = "Institute of Mathematics for Industry"
+  company_url = ""
+  location = "Fukuoka"
+  date_start = "2017-04-01"
+  date_end = "2017-07-31"
+
+[[experience]]
+  title = "JSPS Research Fellow (DC1)"
+  company = "The University of Tokyo"
+  company_url = ""
+  location = "Tokyo"
+  date_start = "2014-04-01"
+  date_end = "2017-03-01"
 +++

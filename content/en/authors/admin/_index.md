@@ -18,11 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Differential Topology and Symplectic Geometry.
+bio: My research interests include Hamiltonian dynamics in Symplectic Geometry.
 
 interests:
-- Differential Topology
-- Symplectic Geometry
+- Morse theory
+- Floer theory
+- Persistence modules
 
 education:
   courses:
@@ -44,12 +45,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:ryuma.orita@gmail.com".
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=I417yJYAAAAJ
 - icon: arxiv
   icon_pack: ai
   link: https://arxiv.org/search/?searchtype=author&query=Orita%2C+R
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=I417yJYAAAAJ
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Ryuma_Orita

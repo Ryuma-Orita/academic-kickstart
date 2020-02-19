@@ -18,11 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Assistant Professor"
+  company = "Niigata University"
+  company_url = "https://www.niigata-u.ac.jp/en/"
+  location = "Niigata"
+  date_start = "2020-03-01"
+  date_end = ""
+
+[[experience]]
   title = "Teaching Associate (adjunct)"
   company = "Aoyama Gakuin University"
   company_url = "https://www.aoyama.ac.jp/en/"
   location = "Kanagawa"
   date_start = "2019-04-01"
+  date_end = "2020-02-29"
+
+[[experience]]
+  title = "JSPS Research Fellow (PD)"
+  company = "Tokyo Metropolitan University"
+  company_url = "http://www.se.tmu.ac.jp/mis/english.html"
+  location = "Tokyo"
+  date_start = "2018-04-01"
   date_end = "2020-02-29"
 
 [[experience]]
@@ -39,14 +55,5 @@ date_format = "Jan 2006"
   * Modelling
   * Deploying
   """
-
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++

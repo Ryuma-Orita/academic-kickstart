@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "January 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -43,7 +43,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Postdoctoral Fellow"
-  company = "National Center for Theoretical Sciences"
+  company = "NCTS, National Taiwan University"
   company_url = ""
   location = "Taipei"
   date_start = "2017-08-01"
@@ -51,7 +51,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Postdoctoral Researcher"
-  company = "Institute of Mathematics for Industry"
+  company = "IMI, Kyushu University"
   company_url = ""
   location = "Fukuoka"
   date_start = "2017-04-01"

@@ -12,8 +12,14 @@ subtitle = ""
 	*J. Topol. Anal.* (2020), Online Ready<br>
 	[arXiv] [Journal Article]
 1. **On the existence of infinitely many non-contractible periodic orbits of Hamiltonian diffeomorphisms of closed symplectic manifolds**<br>
-  *J. Symplectic Geom.* **17** (2019), no. 6, 1893–1927 
-1. **Non-contractible periodic orbits in Hamiltonian dynamics on tori**
-  *Bull. Lond. Math. Soc.* **49** (2017), no. 4, 571–580
-1. **Computation of annular capacity by Hamiltonian Floer theory of non-contractible periodic trajectories** (with Morimichi Kawasaki)
-1. **Morse–Bott inequalities for manifolds with boundary**
+  *J. Symplectic Geom.* **17** (2019), no. 6, 1893–1927<br>
+	[arXiv] [Journal Article]
+1. **Non-contractible periodic orbits in Hamiltonian dynamics on tori**<br>
+  *Bull. Lond. Math. Soc.* **49** (2017), no. 4, 571–580<br>
+	[arXiv] [Journal Article]
+1. **Computation of annular capacity by Hamiltonian Floer theory of non-contractible periodic trajectories** (with Morimichi Kawasaki)<br>
+  J. Mod. Dyn. 11 (2017), 313–339<br>
+	[arXiv] [Journal Article]
+1. **Morse–Bott inequalities for manifolds with boundary**<br>
+  Tokyo J. Math. 41 (2018), no. 1, 113–130<br>
+ 	[arXiv] [Journal Article]

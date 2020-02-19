@@ -133,7 +133,7 @@ date_format = "2006-01-02"
 time_format = "15:04"
 
 # Address format (choose from the [address_formats] list below or add you own to the list).
-address_format = "en-us"
+address_format = "de"
 
 ############################
 ## Advanced
@@ -171,7 +171,11 @@ plugins_js  = []
 
 # Available address formats.
 [address_formats]
-  en-us = {order = ['street', 'city', 'postcode', 'country'], delimiters = [', ', ', ', ', ' '']}
+  en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
+  en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
+  de = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
+  fr-fr = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
+  zh = {order = ['postcode', 'region', 'city', 'street'], delimiters = [' ', ' ', ' ', '']}
 
 # Configuration of publication pages.
 [publications]

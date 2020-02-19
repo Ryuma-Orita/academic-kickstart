@@ -20,17 +20,10 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Teaching Associate (adjunct)"
   company = "Aoyama Gakuin University"
-  company_url = ""
-  location = "California"
+  company_url = "https://www.aoyama.ac.jp/en/"
+  location = "Kanagawa"
   date_start = "2019-04-01"
   date_end = "2020-02-29"
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
   title = "CEO"

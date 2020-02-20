@@ -1,4 +1,4 @@
----
++++
 title: "Disjoint superheavy subsets and fragmentation norms"
 date: "2018-06-28"
 publication_types: "2"
@@ -18,4 +18,4 @@ reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
----
++++

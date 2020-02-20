@@ -1,6 +1,5 @@
 ---
 title: "Disjoint superheavy subsets and fragmentation norms"
-authors: ["admin"]
 date: "2018-06-28T00:00:00Z"
 publication_types: "2"
 publication: "J. Topol. Anal."

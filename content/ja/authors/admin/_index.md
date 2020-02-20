@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: シンプレクティック多様体上のハミルトン力学系を研究しています。
+bio: シンプレクティック多様体上のハミルトン力学系について研究しています。
 
 interests:
 - モース理論
@@ -69,9 +69,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-# - Researchers
-# - Visitors
+- Researchers
+- Visitors
 ---
 
 新潟大学理学部理学科数学プログラムの助教です。
-モース理論の応用を主軸に，シンプレクティック多様体上のハミルトン力学系を研究しています。
+モース理論の応用を主軸に，シンプレクティック多様体上のハミルトン力学系について研究しています。

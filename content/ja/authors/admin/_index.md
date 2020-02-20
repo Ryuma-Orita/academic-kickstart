@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:ryuma.orita@gmail.com
+  link: '#contact'
 - icon: arxiv
   icon_pack: ai
   link: https://arxiv.org/search/?searchtype=author&query=Orita%2C+R

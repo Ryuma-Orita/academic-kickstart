@@ -1,7 +1,7 @@
 ---
 title: Rigid fibers of spinning tops
 event: International workshop on Geometry of Foliated Spaces
-event_url: ""
+event_url: "http://www.math.ritsumei.ac.jp/?p=1491&lang=en"
 
 location: Ritsumeikan University, Japan
 

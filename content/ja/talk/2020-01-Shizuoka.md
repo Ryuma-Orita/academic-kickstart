@@ -1,11 +1,11 @@
 ---
 title: Rigid fibers of spinning tops
-event: Contact Structures, Singular Points, and Related Topics
-event_url: ""
+event: 接触構造、特異点、微分方程式及びその周辺
+event_url: "https://sites.google.com/view/contsingdiff2020"
 
-location: Shizuoka, Japan
+location: 静岡
 
-summary: "Contact Structures, Singular Points, and Related Topics"
+summary: "接触構造、特異点、微分方程式及びその周辺"
 abstract: ""
 
 date: "2020-01-23T16:20:00Z"

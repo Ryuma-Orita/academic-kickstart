@@ -14,7 +14,7 @@ role: 助教
 
 # Organizations/Affiliations
 organizations:
-- name: 新潟大学
+- name: 新潟大学理学部理学科数学プログラム
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

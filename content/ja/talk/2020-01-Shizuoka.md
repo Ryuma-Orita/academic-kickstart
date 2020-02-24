@@ -3,7 +3,7 @@ title: Rigid fibers of spinning tops
 event: 接触構造、特異点、微分方程式及びその周辺
 event_url: "https://sites.google.com/view/contsingdiff2020"
 
-location: 静岡
+location: 静岡県静岡市
 
 summary: "接触構造、特異点、微分方程式及びその周辺"
 abstract: ""

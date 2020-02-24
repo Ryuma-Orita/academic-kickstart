@@ -29,7 +29,7 @@ date_format = "2006-01"
   title = "非常勤助手"
   company = "青山学院大学 理工学部 物理・数理学科"
   company_url = ""
-  location = "神奈川"
+  location = "相模原"
   date_start = "2019-04-01"
   date_end = "2020-02-29"
 

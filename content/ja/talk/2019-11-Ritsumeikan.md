@@ -12,7 +12,7 @@ date: "2019-11-30T09:00:00Z"
 date_end: "2019-11-30T09:50:00Z"
 all_day: false
 
-authors: ["admin"]
+authors: ["Ryuma Orita"]
 
 share: false  # Show social sharing links?
 profile: false  # Show author profile?

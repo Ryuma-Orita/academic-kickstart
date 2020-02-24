@@ -1,11 +1,11 @@
 ---
 title: Morse homology of Grassmann manifolds
-event: Geometry and Transformation Groups 2012
+event: 幾何学と変換群の諸相2012
 event_url: ""
 
-location: Tambara Institute, The University of Tokyo, Japan
+location: 東京大学 玉原国際セミナーハウス
 
-summary: "Geometry and Transformation Groups 2012"
+summary: "幾何学と変換群の諸相2012"
 abstract: ""
 
 date: "2012-07-27"

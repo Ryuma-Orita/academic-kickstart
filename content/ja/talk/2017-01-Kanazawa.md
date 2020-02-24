@@ -1,11 +1,11 @@
 ---
-title: On the existence of infinitely many non-contractible periodic trajectories in Hamiltonian dynamics on closed symplectic manifolds
-event: Contact Structures, Singular Points, and Related Topics
-event_url: ""
+title: 閉シンプレクティック多様体における非可縮なハミルトン周期軌道の無限個存在問題について
+event: 接触構造、特異点、微分方程式及びその周辺
+event_url: "http://www.math.tohoku.ac.jp/~ishikawa/contact2016/"
 
-location: Kanazawa University, Japan
+location: 金沢大学
 
-summary: "Contact Structures, Singular Points, and Related Topics"
+summary: "接触構造、特異点、微分方程式及びその周辺"
 abstract: ""
 
 date: "2017-01-18T14:00:00Z"

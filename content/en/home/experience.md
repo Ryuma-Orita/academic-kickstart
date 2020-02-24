@@ -29,7 +29,7 @@ date_format = "January 2006"
   title = "Teaching Associate (adjunct)"
   company = "Aoyama Gakuin University"
   company_url = ""
-  location = "Kanagawa"
+  location = "Sagamihara"
   date_start = "2019-04-01"
   date_end = "2020-02-29"
 

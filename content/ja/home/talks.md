@@ -5,9 +5,9 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 70  # Order that this section will appear.
 
-title = "直近の講演"
+title = "講演"
 subtitle = ""
 
 [content]

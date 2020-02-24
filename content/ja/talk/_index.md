@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: 講演
 
 # View.
 #   1 = List

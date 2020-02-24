@@ -3,7 +3,7 @@ title = "Existence of pseudoheavy fibers of moment maps"
 authors = ["Morimichi Kawasaki", "Ryuma Orita"]
 date = "2019-01-27"
 publication = "arXiv (2019)"
-publication_short = "Preprint"
+publication_short = "プレプリント"
 
 featured = false
 

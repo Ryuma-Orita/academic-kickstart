@@ -3,7 +3,7 @@ title = "Rigid fibers of spinning tops"
 authors = ["Morimichi Kawasaki", "Ryuma Orita"]
 date = "2019-05-30"
 publication = "arXiv (2019)"
-publication_short = "Preprint"
+publication_short = "プレプリント"
 
 featured = true
 

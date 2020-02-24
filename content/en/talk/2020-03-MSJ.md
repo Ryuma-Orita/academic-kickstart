@@ -14,6 +14,6 @@ all_day: false
 
 authors: ["admin"]
 
-share = false  # Show social sharing links?
-profile = false  # Show author profile?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
 ---

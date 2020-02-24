@@ -1,11 +1,11 @@
 ---
-title: Floer–Novikov theory and non-contractible periodic orbits
-event: 64th Geometry Symposium
-event_url: ""
+title: フレアー・ノビコフ理論と非可縮周期軌道
+event: 第64回幾何学シンポジウム
+event_url: "http://www.ed.kanazawa-u.ac.jp/~kazuhase/geometry_symposium_2017.html"
 
-location: Kanazawa University, Japan
+location: 金沢大学
 
-summary: "64th Geometry Symposium"
+summary: "第64回幾何学シンポジウム"
 abstract: ""
 
 date: "2017-08-30T13:30:00Z"

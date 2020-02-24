@@ -5,7 +5,7 @@ date = "2020-01-17"
 publication = "Journal of Symplectic Geometry, vol. **17** (2019), no. 6, pp. 1893–1927"
 publication_short = "*J. Symplectic Geom.*, vol. **17**, no. 6, pp. 1893–1927"
 
-featured = true
+featured = false
 
 reading_time = false  # Show estimated reading time?
 share = false  # Show social sharing links?

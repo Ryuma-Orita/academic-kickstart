@@ -1,15 +1,15 @@
 ---
 title: Rigid fibers of spinning tops
-event: MSJ Spring Meeting 2020
-event_url: https://mathsoc.jp/en/meeting/nichidai20mar/
+event: Contact Structures, Singular Points, and Related Topics
+event_url: ""
 
-location: Nihon University
+location: Shizuoka
 
-summary: "MSJ Spring Meeting 2020"
+summary: "Contact Structures, Singular Points, and Related Topics"
 abstract: ""
 
-date: "2020-03-16T14:35:00Z"
-date_end: "2020-03-16T14:50:00Z"
+date: "2020-01-23T16:20:00Z"
+date_end: "2020-01-23T17:10:00Z"
 all_day: false
 
 authors: ["admin"]

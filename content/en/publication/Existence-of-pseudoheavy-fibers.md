@@ -5,7 +5,7 @@ date = "2019-01-27"
 publication = "arXiv (2019)"
 publication_short = "Preprint"
 
-featured = true
+featured = false
 
 reading_time = false  # Show estimated reading time?
 share = false  # Show social sharing links?

@@ -4,12 +4,6 @@ event: MSJ Spring Meeting 2020
 event_url: https://mathsoc.jp/en/meeting/nichidai20mar/
 
 location: Nihon University
-address:
-  street: 8-14, Kanda-Surugadai 1-chome,  Chiyoda-ku
-  city: Tokyo
-#  region: ""
-  postcode: '101-8308'
-  country: Japan
 
 summary: ""
 abstract: ""
@@ -21,7 +15,7 @@ date_end: "2020-03-16T14:50:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 authors: ["admin"]
 #tags: []

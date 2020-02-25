@@ -1,6 +1,6 @@
 +++
 title = "Morse–Bott inequalities for manifolds with boundary"
-authors = ["Ryuma Orita"]
+authors = ["admin"]
 date = "2017-12-18"
 publication = "Tokyo Journal of Mathematics, vol. **41** (2018), no. 1, pp. 113–130"
 publication_short = "*Tokyo J. Math.*, vol. **41**, no. 1, pp. 113–130"

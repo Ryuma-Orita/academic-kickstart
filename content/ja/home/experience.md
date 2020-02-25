@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "職歴"
+title = "経歴"
 subtitle = ""
 
 # Date format for experience
@@ -24,14 +24,6 @@ date_format = "2006-01"
   location = "新潟県新潟市"
   date_start = "2020-03-01"
   date_end = ""
-
-[[experience]]
-  title = "非常勤助手"
-  company = "青山学院大学 理工学部 物理・数理学科"
-  company_url = ""
-  location = "神奈川県相模原市"
-  date_start = "2019-04-01"
-  date_end = "2020-02-29"
 
 [[experience]]
   title = "日本学術振興会 特別研究員 (PD)"

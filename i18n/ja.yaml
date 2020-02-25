@@ -108,6 +108,8 @@
   translation: 論文
 - id: talks
   translation: 講演
+- id: lectures
+  translation: 授業関連
 - id: projects
   translation: プロジェクト
 - id: search

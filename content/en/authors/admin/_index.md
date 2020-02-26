@@ -15,7 +15,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name: Niigata University
-  url: ""
+  url: "https://www.niigata-u.ac.jp/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Hamiltonian dynamics in Symplectic Geometry.

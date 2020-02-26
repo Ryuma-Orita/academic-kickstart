@@ -14,8 +14,8 @@ role: 助教
 
 # Organizations/Affiliations
 organizations:
-- name: 新潟大学理学部
-  url: ""
+- name: 新潟大学
+  url: "https://www.niigata-u.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: シンプレクティック多様体上のハミルトン力学系について研究しています。

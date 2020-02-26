@@ -19,40 +19,40 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Assistant Professor"
-  company = "Niigata University"
-  company_url = ""
+  company = "Department of Mathematics, Niigata University"
+  company_url = "https://www.sc.niigata-u.ac.jp/sc/English/index.html"
   location = "Niigata"
   date_start = "2020-03-01"
   date_end = ""
 
 [[experience]]
   title = "JSPS Research Fellow (PD)"
-  company = "Tokyo Metropolitan University"
-  company_url = ""
+  company = "Department of Mathematical Sciences, Tokyo Metropolitan University"
+  company_url = "http://www.se.tmu.ac.jp/mis/english.html"
   location = "Tokyo"
   date_start = "2018-04-01"
   date_end = "2020-02-29"
 
 [[experience]]
   title = "Postdoctoral Fellow"
-  company = "NCTS, National Taiwan University"
-  company_url = ""
+  company = "National Center for Theoretical Sciences (NCTS), National Taiwan University"
+  company_url = "http://www.ncts.ntu.edu.tw/"
   location = "Taipei"
   date_start = "2017-08-01"
   date_end = "2018-03-31"
 
 [[experience]]
   title = "Postdoctoral Researcher"
-  company = "IMI, Kyushu University"
-  company_url = ""
+  company = "Institute of Mathematics for Industry (IMI), Kyushu University"
+  company_url = "https://www.imi.kyushu-u.ac.jp/eng/"
   location = "Fukuoka"
   date_start = "2017-04-01"
   date_end = "2017-07-31"
 
 [[experience]]
   title = "JSPS Research Fellow (DC1)"
-  company = "The University of Tokyo"
-  company_url = ""
+  company = "Graduate School of Mathematicsl Sciences, The University of Tokyo"
+  company_url = "https://www.ms.u-tokyo.ac.jp/index.html"
   location = "Tokyo"
   date_start = "2014-04-01"
   date_end = "2017-03-01"

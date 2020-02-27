@@ -51,7 +51,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "JSPS Research Fellow (DC1)"
-  company = "Graduate School of Mathematicsl Sciences, The University of Tokyo"
+  company = "Graduate School of Mathematical Sciences, The University of Tokyo"
   company_url = "https://www.ms.u-tokyo.ac.jp/index.html"
   location = "Tokyo"
   date_start = "2014-04-01"

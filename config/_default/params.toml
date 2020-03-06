@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "ryuma.orita@gmail.com"
+email = "orita@math.sc.niigata-u.ac.jp"
 phone = "+81-25-262-6129"
 
 # Address
@@ -93,11 +93,11 @@ address = {street = "8050 Ikarashi 2-no-cho, Nishi-ku", city = "Niigata", postco
 #coordinates = {latitude = "37.867415", longitude = "138.941186"}
 
 # Directions for visitors to locate you.
-#directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+#directions = "Enter Building A and take the stairs to Office 512 on Floor 5"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-#office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+office_hours = ["Friday 12:55 to 14:25"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"

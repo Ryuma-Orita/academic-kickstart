@@ -93,7 +93,7 @@ address = {street = "8050 Ikarashi 2-no-cho, Nishi-ku", city = "Niigata", postco
 #coordinates = {latitude = "37.867415", longitude = "138.941186"}
 
 # Directions for visitors to locate you.
-#directions = "Enter Building A and take the stairs to Office 512 on Floor 5"
+directions = "Enter Building N1 and take the stairs to Office 512 on Floor 5"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

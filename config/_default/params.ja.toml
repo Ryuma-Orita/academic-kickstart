@@ -93,7 +93,7 @@ address = {street = "西区五十嵐2の町8050番地", city = "新潟県新潟�
 #coordinates = {latitude = "37.867415", longitude = "138.941186"}
 
 # Directions for visitors to locate you.
-directions = "理学部棟5階512室"
+directions = "理学部棟5階A512室"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

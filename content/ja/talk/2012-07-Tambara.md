@@ -9,7 +9,7 @@ summary: "幾何学と変換群の諸相2012"
 abstract: ""
 
 date: "2012-07-27"
-all_day: false
+all_day: true
 
 authors: ["admin"]
 

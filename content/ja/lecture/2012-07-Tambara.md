@@ -10,7 +10,7 @@ summary: "ティーチング・アシスタントとしての補助"
 
 date: "2013-04-01"
 # date_end: "2013-09-31"
-# all_day: false
+all_day: true
 
 # authors: ["admin"]
 

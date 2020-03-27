@@ -1,6 +1,7 @@
 +++
 title = "Computation of annular capacity by Hamiltonian Floer theory of non-contractible periodic trajectories"
 authors = ["Morimichi Kawasaki", "Ryuma Orita"]
+doi = "10.3934/jmd.2017013"
 date = "2017-04-20"
 publication = "Journal of Modern Dynamics, vol. **11** (2017), pp. 313–339"
 publication_short = "*J. Mod. Dyn.*, vol. **11**, pp. 313–339"

@@ -9,7 +9,7 @@ location: 東京大学 理学部
 # abstract: ""
 
 date: "2012-07-27"
-# all_day: false
+all_day: false
 
 # authors: ["admin"]
 

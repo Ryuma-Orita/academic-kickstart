@@ -20,6 +20,8 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
 
+参考文献: Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*
+
 1. パラメータ曲線 (4/20)
 2. パラメータ曲線の応用 (4/23)
 3. 正則曲線 (4/27)

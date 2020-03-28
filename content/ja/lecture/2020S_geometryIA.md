@@ -5,7 +5,7 @@ title: 幾何学IA
 
 location: 新潟大学 理学部
 
-summary: "月曜3限，木曜2限"
+summary: "第1ターム月曜3限，木曜2限"
 # abstract: ""
 
 date: "2020-04-20"

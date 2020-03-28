@@ -5,7 +5,7 @@ title: 幾何学IIA
 
 location: 新潟大学 理学部
 
-summary: "月曜3限"
+summary: "第3ターム月曜3限"
 # abstract: ""
 
 date: "2020-10-05"

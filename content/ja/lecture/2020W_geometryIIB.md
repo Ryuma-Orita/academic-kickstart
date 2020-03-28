@@ -20,7 +20,11 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
 
-参考文献: Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publications
+**参考文献**
+
+Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publications
+
+**講義内容（予定）**
 
 1. 曲面のパラメータ変換
 2. 曲面上の微分可能関数

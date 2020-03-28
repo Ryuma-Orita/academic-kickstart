@@ -21,13 +21,16 @@ profile: false  # Show author profile?
 ---
 
 **テキスト**
+
 横田一郎著「多様体とモース理論」現代数学社
 
 **参考文献**
+
 1. 松本幸夫著「多様体の基礎」東京大学出版会
 2. John W. Milnor, *Morse Theory*, Princeton University Press
 
-**授業予定**
+**内容（予定）**
+
 1. ユークリッド空間とJacobi行列
 2. 可微分多様体の定義
 3. 可微分多様体の例

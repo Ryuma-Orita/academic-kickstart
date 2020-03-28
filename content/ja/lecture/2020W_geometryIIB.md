@@ -19,3 +19,12 @@ publishDate: "2020-01-01T00:00:00Z"
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
+
+1. 曲面のパラメータ変換
+2. 曲面上の微分可能関数
+3. 接平面，微分写像
+4. 第１基本形式（曲面上の曲線の長さ）
+5. 第１基本形式（曲面の面積）
+6. 第２基本形式，ガウス曲率
+7. ガウス・ボンネの定理
+8. 期末試験とまとめ

@@ -8,8 +8,8 @@ location: 新潟大学 理学部
 summary: "月曜3限，木曜2限"
 # abstract: ""
 
-date: "2020-07-01"
-date_end: "2020-09-30"
+date: "2020-06-18"
+date_end: "2020-08-10"
 all_day: true
 
 publishDate: "2020-01-01T00:00:00Z"

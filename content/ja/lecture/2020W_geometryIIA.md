@@ -19,3 +19,14 @@ publishDate: "2020-01-01T00:00:00Z"
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
+
+参考文献: Manfredo P. do Carmo, __Differential Geometry of Curves and Surfaces__
+
+1. 球面の座標と大円
+2. 陰関数定理
+3. 逆関数定理
+4. 正則曲面の定義
+5. 正則曲面の例
+6. 陰関数定理と正則曲面
+7. 回転面
+8. 期末試験とまとめ

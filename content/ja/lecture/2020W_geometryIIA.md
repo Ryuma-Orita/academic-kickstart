@@ -20,7 +20,7 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
 
-参考文献: Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*
+参考文献: Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publications
 
 1. 球面の座標と大円
 2. 陰関数定理

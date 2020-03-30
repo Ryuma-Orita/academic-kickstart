@@ -5,7 +5,7 @@ title: 微分位相幾何学特論
 
 location: 新潟大学 大学院自然科学研究科
 
-summary: "第2学期曜限未定"
+summary: "第3・第4ターム"
 # abstract: ""
 
 date: "2020-10-01"

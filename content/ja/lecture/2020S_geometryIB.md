@@ -5,7 +5,7 @@ title: 幾何学IB
 
 location: 新潟大学 理学部
 
-summary: "第2ターム月曜3限，木曜2限"
+summary: "第2ターム月曜3限・木曜2限"
 # abstract: ""
 
 date: "2020-06-18"

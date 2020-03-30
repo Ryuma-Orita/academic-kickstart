@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "lecture"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 10
+  count = 7
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -29,7 +29,7 @@ subtitle = ""
     category = ""
     publication_type = ""
     exclude_featured = false
-    exclude_past = true
+    exclude_past = false
     exclude_future = false
     
 [design]

@@ -20,7 +20,7 @@
 
 [[main]]
   name = "授業関連"
-  url = "/lecture"
+  url = "#lectures"
   weight = 50
 
 [[main]]

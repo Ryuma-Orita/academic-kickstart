@@ -11,6 +11,7 @@ summary: "第2ターム金曜4限，共同担当"
 date: "2020-06-19"
 date_end: "2020-08-07"
 all_day: true
+tag: "2020S"
 
 publishDate: "2020-01-01T00:00:00Z"
 

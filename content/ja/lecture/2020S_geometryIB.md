@@ -11,6 +11,7 @@ summary: "第2ターム月曜3限・木曜2限"
 date: "2020-06-18"
 date_end: "2020-08-10"
 all_day: true
+tag: "2020S"
 
 publishDate: "2020-01-01T00:00:00Z"
 

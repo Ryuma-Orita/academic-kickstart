@@ -11,6 +11,7 @@ summary: "第4ターム月曜3限"
 date: "2020-12-07"
 date_end: "2021-02-08"
 all_day: true
+tag: "2020W"
 
 publishDate: "2020-01-01T00:00:00Z"
 

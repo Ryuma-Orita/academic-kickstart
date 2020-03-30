@@ -11,6 +11,7 @@ summary: "第3・第4ターム"
 date: "2020-10-01"
 date_end: "2021-03-31"
 all_day: true
+tag: "2020W"
 
 publishDate: "2020-01-01T00:00:00Z"
 

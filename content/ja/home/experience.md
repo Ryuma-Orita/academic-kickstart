@@ -27,7 +27,7 @@ date_format = "2006-01"
 
 [[experience]]
   title = "日本学術振興会 特別研究員 (PD)"
-  company = "首都大学東京 大学院理学研究科 数理科学専攻"
+  company = "首都大学東京 大学院理学研究科"
   company_url = "http://www.se.tmu.ac.jp/mis/"
   location = "東京都八王子市"
   date_start = "2018-04-01"
@@ -35,7 +35,7 @@ date_format = "2006-01"
 
 [[experience]]
   title = "Postdoctoral Fellow"
-  company = "國立台灣大學 國家理論科學研究中心 (NCTS)"
+  company = "國立臺灣大學 國家理論科學研究中心 數學組"
   company_url = "http://www.ncts.ntu.edu.tw/"
   location = "台湾台北市"
   date_start = "2017-08-01"
@@ -43,7 +43,7 @@ date_format = "2006-01"
 
 [[experience]]
   title = "博士研究員"
-  company = "九州大学 マス・フォア・インダストリ研究所 (IMI)"
+  company = "九州大学 マス・フォア・インダストリ研究所"
   company_url = "https://www.imi.kyushu-u.ac.jp/"
   location = "福岡県福岡市"
   date_start = "2017-04-01"
@@ -51,7 +51,7 @@ date_format = "2006-01"
 
 [[experience]]
   title = "日本学術振興会 特別研究員 (DC1)"
-  company = "東京大学 大学院数理科学研究科 数理科学専攻"
+  company = "東京大学 大学院数理科学研究科"
   company_url = "https://www.ms.u-tokyo.ac.jp/index-j.html"
   location = "東京都目黒区"
   date_start = "2014-04-01"

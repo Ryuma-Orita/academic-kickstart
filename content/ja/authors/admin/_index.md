@@ -14,7 +14,7 @@ role: 助教
 
 # Organizations/Affiliations
 organizations:
-- name: 新潟大学
+- name: 新潟大学 自然科学系 (理学部)
   url: "https://www.niigata-u.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)

@@ -19,7 +19,7 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Assistant Professor"
-  company = "Faculty of Science, Niigata University<br>Graduate School of Science and Technology"
+  company = "Faculty of Science, Niigata University<br>Graduate School of Science and Technology, Niigata University"
   company_url = "https://www.sc.niigata-u.ac.jp/sc/English/index.html"
   location = "Niigata"
   date_start = "2020-03-01"

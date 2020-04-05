@@ -14,7 +14,7 @@ role: 助教
 
 # Organizations/Affiliations
 organizations:
-- name: 新潟大学 自然科学系 (理学部)
+- name: 新潟大学
   url: "https://www.niigata-u.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -73,5 +73,5 @@ user_groups:
 - Visitors
 ---
 
-新潟大学理学部理学科数学プログラムの助教です。
+新潟大学数学教室の助教です。
 モース理論の応用を主軸に，シンプレクティック多様体上のハミルトン力学系について研究しています。

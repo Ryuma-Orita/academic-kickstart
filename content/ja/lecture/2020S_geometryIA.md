@@ -22,6 +22,9 @@ publishDate: "2020-01-01T00:00:00Z"
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
+{{% alert warning %}}
+本講義は，Zoomを用いてウェブ上で行います。
+{{% /alert %}}
 
 **参考文献**
 

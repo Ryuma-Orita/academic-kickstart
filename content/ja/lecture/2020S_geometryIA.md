@@ -23,7 +23,7 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
 {{% alert warning %}}
-本講義は，Zoomを用いてウェブ上で行います。
+本講義はZoomを用いてウェブ上で行います。
 {{% /alert %}}
 
 **参考文献**

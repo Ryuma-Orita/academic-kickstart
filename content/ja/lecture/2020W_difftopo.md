@@ -5,11 +5,11 @@ title: 微分位相幾何学特論
 
 location: 新潟大学 大学院自然科学研究科
 
-summary: "第3・第4ターム"
+summary: "第1学期，集中講義"
 # abstract: ""
 
-date: "2020-10-01"
-date_end: "2021-03-31"
+date: "2020-07-01"
+date_end: "2020-07-31"
 all_day: true
 tag: "2020W"
 
@@ -20,6 +20,9 @@ publishDate: "2020-01-01T00:00:00Z"
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
+{{% alert warning %}}
+本講義はZoomを用いてウェブ上で行います。日程は夏頃を予定してます。
+{{% /alert %}}
 
 **テキスト**
 

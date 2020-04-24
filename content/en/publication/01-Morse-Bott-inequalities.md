@@ -31,7 +31,7 @@ abstract = "In the present paper, we define Morse–Bott functions on manifolds 
 
 links = [
   {icon = "arxiv", icon_pack = "ai", name = "arXiv", url = "https://arxiv.org/abs/1609.02381"},
-  {icon = "book", icon_pack = "fas", name = "Journal Page", url = "https://projecteuclid.org/euclid.tjm/1513566016"},
+  {icon = "book", icon_pack = "fas", name = "Journal Page", url = "https://dx.doi.org/10.3836/tjm/1502179256"},
   ]
 
 # Featured image thumbnail (optional)

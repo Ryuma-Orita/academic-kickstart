@@ -2,8 +2,8 @@
 title = "Existence of pseudoheavy fibers of moment maps"
 authors = ["Morimichi Kawasaki", "Ryuma Orita"]
 date = "2019-01-27"
-publication = "arXiv (2019)"
-publication_short = "プレプリント"
+publication = "Communications in Contemporary Mathematics, to appear"
+publication_short = "Commun. Contemp. Math., to appear"
 
 featured = false
 
@@ -24,7 +24,7 @@ profile = false  # Show author profile?
 # 6 = Book section
 # 7 = Thesis (v4.2+ required)
 # 8 = Patent (v4.2+ required)
-publication_types = ["3"]
+publication_types = ["2"]
 
 abstract = "In the present paper, we introduce the notion of pseudoheaviness of closed subsets of closed symplectic manifolds and prove the existence of pseudoheavy fibers of moment maps. In particular, we generalize Entov and Polterovich's theorem, which ensures the existence of non-displaceable fibers. As its application, we provide a partial answer to a problem posed by them, which asks the existence of heavy fibers. Moreover, we obtain a family of singular Lagrangian submanifolds in $S^2\\times S^2$ with strange rigidities."
 #abstract_short = ""

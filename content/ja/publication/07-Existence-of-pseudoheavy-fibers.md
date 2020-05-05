@@ -3,7 +3,7 @@ title = "Existence of pseudoheavy fibers of moment maps"
 authors = ["Morimichi Kawasaki", "Ryuma Orita"]
 date = "2020-05-05"
 publication = "Communications in Contemporary Mathematics, to appear"
-publication_short = "Commun. Contemp. Math., to appear"
+publication_short = "*Commun. Contemp. Math.*, to appear"
 
 featured = false
 

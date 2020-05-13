@@ -21,7 +21,7 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
 {{% alert warning %}}
-本講義はZoomを用いてウェブ上で行います。日程は夏頃を予定してます。
+本講義はZoomを用いてウェブ上で行います。日程は夏頃を予定しています。
 {{% /alert %}}
 
 **テキスト**
@@ -33,7 +33,7 @@ profile: false  # Show author profile?
 1. 松本幸夫著「多様体の基礎」東京大学出版会
 2. John W. Milnor, *Morse Theory*, Princeton University Press
 
-**内容（予定）**
+**講義内容（予定）**
 
 1. ユークリッド空間とJacobi行列
 2. 可微分多様体の定義

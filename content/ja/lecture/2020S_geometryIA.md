@@ -32,13 +32,28 @@ Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publ
 
 **講義内容（予定，5/13更新）**
 
-1. ~~パラメータづけられた可微分曲線，内積 (4/20)~~
-2. ~~演習，第1回小テスト (4/23)~~
-3. ~~正則曲線，弧長，ベクトル空間の向き，ベクトル積 (4/27)~~
-4. ~~演習，第2回小テスト (4/30)~~
-5. ~~ベクトル積の性質，曲線の曲率，主法線ベクトル (5/4)~~
-6. ~~演習，第3回小テスト (5/7)~~
-7. ~~従法線ベクトル，捩率，Frenet–Serretの公式，曲率半径 (5/11)~~
+1. パラメータづけられた可微分曲線，内積 (4/20)
+links = [
+  {icon = "youtube", icon_pack = "fab", name = "YouTube", url = "https://youtu.be/zNHWDN51UGw"},
+  ]
+2. 演習，第1回小テスト (4/23)
+links = [
+  {icon = "youtube", icon_pack = "fab", name = "YouTube", url = "https://youtu.be/H4eZM4tqqvE"},
+  ]
+3. 正則曲線，弧長，ベクトル空間の向き，ベクトル積 (4/27)
+links = [
+  {icon = "youtube", icon_pack = "fab", name = "YouTube", url = "https://youtu.be/6sbIZ0ZMx-c"},
+  ]
+4. 演習，第2回小テスト (4/30)
+5. ベクトル積の性質，曲線の曲率，主法線ベクトル (5/4)
+links = [
+  {icon = "youtube", icon_pack = "fab", name = "YouTube", url = "https://youtu.be/EMQr2Xx-ik8"},
+  ]
+6. 演習，第3回小テスト (5/7)
+7. 従法線ベクトル，捩率，Frenet–Serretの公式，曲率半径 (5/11)
+links = [
+  {icon = "youtube", icon_pack = "fab", name = "YouTube", url = "https://youtu.be/PfjMTS0TWH0"},
+  ]
 8. 演習，第4回小テスト (5/14)
 9. 空間曲線の基本定理 (5/18)
 10. 演習，第5回小テスト (5/21)

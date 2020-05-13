@@ -33,7 +33,7 @@ Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publ
 **講義内容（予定，5/13更新）**
 
 1. パラメータづけられた可微分曲線，内積 (4/20)
-{{</* icon name="youtube" pack="fab" */>}} Terminal
+{{< icon name="youtube" pack="fab" >}} Terminal
 https://youtu.be/zNHWDN51UGw
 2. 演習，第1回小テスト (4/23)
 links = [

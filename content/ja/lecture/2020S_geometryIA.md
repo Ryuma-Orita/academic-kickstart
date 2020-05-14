@@ -45,7 +45,7 @@ Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publ
 7. 従法線ベクトル，捩率，Frenet–Serretの公式，曲率半径 (5/11)
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/PfjMTS0TWH0)
 8. 演習，第4回小テスト (5/14)
-9. 空間曲線の基本定理 (5/18)
+9. 空間曲線の基本定理，局所標準形 (5/18)
 10. 演習，第5回小テスト (5/21)
 11. 平面曲線の回転指数定理 (5/25)
 12. 演習，第6回小テスト (5/28)

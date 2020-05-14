@@ -36,7 +36,7 @@ Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publ
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/zNHWDN51UGw)
 2. 演習，第1回小テスト (04-23)
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/H4eZM4tqqvE)
-3. 正則曲線，弧長，ベクトル空間の向き，ベクトル積 (2020-4/27)
+3. 正則曲線，弧長，ベクトル空間の向き，ベクトル積 (04-27)
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/6sbIZ0ZMx-c)
 4. 演習，第2回小テスト (04-30)
 5. ベクトル積の性質，曲線の曲率，主法線ベクトル (05-04)

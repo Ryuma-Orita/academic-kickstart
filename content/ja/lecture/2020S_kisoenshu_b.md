@@ -20,6 +20,9 @@ publishDate: "2020-01-01T00:00:00Z"
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
+{{% alert warning %}}
+本演習はZoomを用いてウェブ上で行います。
+{{% /alert %}}
 
 **テキスト**
 

@@ -30,7 +30,7 @@ profile: false  # Show author profile?
 
 Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publications
 
-**講義内容（2020-05-14更新）**
+**講義内容（2020-05-18更新）**
 
 1. パラメータづけられた可微分曲線，内積 (04-20)
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/zNHWDN51UGw)

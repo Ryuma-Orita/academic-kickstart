@@ -46,6 +46,7 @@ Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publ
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/PfjMTS0TWH0)
 8. 演習，第4回小テスト (05-14)
 9. 空間曲線の基本定理，局所標準形 (05-18)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/NPJgLStyrO0)
 10. 演習，第5回小テスト (05-21)
 11. Jordanの閉曲線定理，平面曲線の回転指数定理 (05-25)
 12. 演習，第6回小テスト (05-28)

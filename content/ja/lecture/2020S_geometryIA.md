@@ -49,6 +49,7 @@ Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publ
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/NPJgLStyrO0)
 10. 演習，第5回小テスト (05-21)
 11. Jordanの閉曲線定理，平面曲線の回転指数定理 (05-25)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/z3Dw0IsGYbI)
 12. 演習，第6回小テスト (05-28)
 13. 4頂点定理 (06-01)
 14. 演習，第7回小テスト (06-04)

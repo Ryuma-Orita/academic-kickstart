@@ -30,7 +30,7 @@ profile: false  # Show author profile?
 
 Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publications
 
-**講義内容（2020-06-01更新）**
+**講義内容（2020-06-08更新）**
 
 1. パラメータづけられた可微分曲線，内積 (04-20)
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/zNHWDN51UGw)
@@ -54,5 +54,6 @@ Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publ
 13. 回転指数定理，4頂点定理 (06-01)
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/Hg77m11HAqs)
 14. 演習，第7回小テスト (06-04)
-15. 4頂点定理の証明，総括 (06-08)
+15. 4頂点定理の証明 (06-08)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/BZfRVcBJDbA)
 16. 演習，第8回小テスト (06-11)

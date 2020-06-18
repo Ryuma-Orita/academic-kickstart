@@ -27,7 +27,7 @@ profile: false  # Show author profile?
 **参考文献**
 
 1. Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publications
-2. 栗田 稔, *復刊 積分幾何学*, 共立出版
+2. 栗田稔著「復刊 積分幾何学」共立出版
 
 **講義内容（2020-06-18更新）**
 

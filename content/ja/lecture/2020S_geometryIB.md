@@ -24,9 +24,10 @@ profile: false  # Show author profile?
 本講義はZoomを用いてウェブ上で行います。
 {{% /alert %}}
 
-**講義内容（2020-05-25更新）**
+**講義内容（2020-06-18更新）**
 
-1. 等周不等式（初等幾何的な証明） (06-18)
+1. 等周問題の歴史，Steinerによる初等幾何的な証明 (06-18)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/owj7A_UXwQA)
 2. 等周不等式（微分積分法による証明） (06-22)
 3. 平面上の直線全体の座標付 (06-25)
 4. Cauchy–Croftonの公式 (06-29)

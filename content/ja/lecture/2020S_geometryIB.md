@@ -24,6 +24,11 @@ profile: false  # Show author profile?
 本講義はZoomを用いてウェブ上で行います。
 {{% /alert %}}
 
+**参考文献**
+
+1. Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publications
+2. 栗田 稔, *復刊 積分幾何学*, 共立出版
+
 **講義内容（2020-06-18更新）**
 
 1. 等周問題の歴史，Steinerによる初等幾何的な証明 (06-18)

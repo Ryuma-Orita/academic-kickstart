@@ -29,11 +29,12 @@ profile: false  # Show author profile?
 1. Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publications
 2. 栗田稔著「復刊 積分幾何学」共立出版
 
-**講義内容（2020-06-18更新）**
+**講義内容（2020-06-22更新）**
 
 1. 等周問題の歴史，Steinerによる初等幾何的な証明 (06-18)
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/owj7A_UXwQA)
 2. 等周不等式（微分積分法による証明） (06-22)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/X2uUaiSePcA)
 3. 平面上の直線全体の座標付 (06-25)
 4. Cauchy–Croftonの公式 (06-29)
 5. Cauchy–Croftonの公式の応用 (07-02)

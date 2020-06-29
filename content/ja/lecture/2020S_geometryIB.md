@@ -29,7 +29,7 @@ profile: false  # Show author profile?
 1. Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publications
 2. 栗田稔著「復刊 積分幾何学」共立出版
 
-**講義内容（2020-06-25更新）**
+**講義内容（2020-06-29更新）**
 
 1. 等周問題の歴史，Steinerによる初等幾何的な証明 (06-18)
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/owj7A_UXwQA)
@@ -38,6 +38,7 @@ profile: false  # Show author profile?
 3. 平面上の直線全体の座標付け，直線の集合の測度 (06-25)
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/O6Utv8Xv3Us)
 4. Cauchy–Croftonの公式 (06-29)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/8zpZKoFqOgw)
 5. Cauchy–Croftonの公式の応用 (07-02)
 6. 平面上の位置全体の座標付け，位置の集合の測度 (07-06)
 7. 等周不等式（位置の集合を利用した証明） (07-09)

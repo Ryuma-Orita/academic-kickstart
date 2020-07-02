@@ -40,6 +40,7 @@ profile: false  # Show author profile?
 4. Cauchy–Croftonの公式 (06-29)
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/8zpZKoFqOgw)
 5. Cauchy–Croftonの公式の応用 (07-02)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/33d6vwnOj9s)
 6. 平面上の位置全体の座標付け，位置の集合の測度 (07-06)
 7. 等周不等式（位置の集合を利用した証明） (07-09)
 8. 等周不等式（Blaschkeの証明） (07-13)

@@ -29,7 +29,7 @@ profile: false  # Show author profile?
 1. Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publications
 2. 栗田稔著「復刊 積分幾何学」共立出版
 
-**講義内容（2020-06-29更新）**
+**講義内容（2020-07-02更新）**
 
 1. 等周問題の歴史，Steinerによる初等幾何的な証明 (06-18)
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/owj7A_UXwQA)

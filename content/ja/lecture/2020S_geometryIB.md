@@ -29,9 +29,9 @@ profile: false  # Show author profile?
 1. Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publications
 2. 栗田稔著「復刊 積分幾何学」共立出版
 
-**講義内容（2020-07-06更新）**
+**講義内容（2020-07-09更新）**
 
-1. 等周問題の歴史，Steinerによる初等幾何的な証明 (06-18)
+1. 等周問題の歴史，初等幾何的な「証明」 (06-18)
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/owj7A_UXwQA)
 2. 等周不等式（微分積分法による証明） (06-22)
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/X2uUaiSePcA)
@@ -44,12 +44,13 @@ profile: false  # Show author profile?
 6. 平面上の位置全体の座標付け，位置の集合の測度 (07-06)
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/u6paigVC55Q)
 7. 等周不等式（位置の集合を利用した証明） (07-09)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/Ek2EZztqDvc)
 8. 等周不等式（Blaschkeの証明） (07-13)
 9. 位置の集合に関するPoincaréの式 (07-16)
 10. 平行曲線で囲まれた部分の面積 (07-20)
 11. 管の体積 (07-23)
 12. 等周不等式（Santalóの証明） (07-27)
 13. 変分法 (07-30)
-14. 最速降下問題 (08-03)
-15. 条件付き変分法，鎖の形状 (08-06)
-16. 等周不等式（変分法による証明） (08-10)
+14. 最速降下問題，もぐら超特急 (08-03)
+15. 条件付き変分法 (08-06)
+16. 鎖の形状，等周不等式（変分法による証明） (08-10)

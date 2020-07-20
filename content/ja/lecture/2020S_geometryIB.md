@@ -29,7 +29,7 @@ profile: false  # Show author profile?
 1. Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publications
 2. 栗田稔著「復刊 積分幾何学」共立出版
 
-**講義内容（2020-07-16更新）**
+**講義内容（2020-07-20更新）**
 
 1. 等周問題の歴史，初等幾何的な「証明」 (06-18)
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/owj7A_UXwQA)
@@ -50,6 +50,7 @@ profile: false  # Show author profile?
 9. 位置の集合に関するPoincaréの式 (07-16)
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/LYa2K5nsdOs)
 10. 平行曲線で囲まれた部分の面積 (07-20)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/UWJpBEcUbV4)
 11. 管の体積 (07-23)
 12. 等周不等式（Santalóの証明） (07-27)
 13. 変分法の基本問題 (07-30)

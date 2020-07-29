@@ -28,6 +28,7 @@ profile: false  # Show author profile?
 
 1. Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publications
 2. 栗田稔著「復刊 積分幾何学」共立出版
+3. 川崎英文著「極値問題」横浜図書
 
 **講義内容（2020-07-27更新）**
 

@@ -30,7 +30,7 @@ profile: false  # Show author profile?
 2. 栗田稔著「復刊 積分幾何学」共立出版
 3. 川崎英文著「極値問題」横浜図書
 
-**講義内容（2020-07-27更新）**
+**講義内容（2020-07-30更新）**
 
 1. 等周問題の歴史，初等幾何的な「証明」 (06-18)
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/owj7A_UXwQA)
@@ -57,6 +57,7 @@ profile: false  # Show author profile?
 12. 等周不等式（Santalóの証明） (07-27)
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/L3_Jas0_oA8)
 13. 変分法の基本問題 (07-30)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/AyX8nm-yJcA)
 14. 最速降下問題 (08-03)
 15. 条件付き変分問題 (08-06)
 16. 等周不等式（変分法による証明） (08-10)

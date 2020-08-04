@@ -33,7 +33,7 @@ profile: false  # Show author profile?
 
 1. John W. Milnor, *Morse Theory*, Princeton University Press
 
-**講義内容（予定）**
+**講義内容（2020-08-04更新）**
 
 1. 位相空間論の復習
 2. 多様体の定義，例

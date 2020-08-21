@@ -33,11 +33,11 @@ profile: false  # Show author profile?
 
 1. John W. Milnor, *Morse Theory*, Princeton University Press
 
-**講義内容（2020-08-04更新）**
+**講義内容（2020-08-21更新）**
 
 1. 位相空間論の復習
-2. 多様体の定義，例
-3. 多様体上の関数，接ベクトル空間
-4. 多様体間の写像，部分多様体，ベクトル場
+2. $C^r$級微分可能多様体の定義，例
+3. $C^s$級関数，$C^s$級写像
+4. 接空間，部分多様体，ベクトル場
 5. 胞体複体，CW複体
 6. Morse理論

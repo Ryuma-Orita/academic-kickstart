@@ -38,6 +38,6 @@ profile: false  # Show author profile?
 1. 位相空間論の復習
 2. 可微分多様体の定義，例
 3. $C^{\\infty}$級関数，接ベクトル空間，$C^{\\infty}$級写像
-4. 部分多様体，ベクトル場，Riemann計量
+4. 臨界点，ベクトル場，Riemann計量
 5. 胞体複体，CW複体
 6. Morse理論

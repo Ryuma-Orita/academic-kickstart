@@ -12,6 +12,8 @@ date: "2020-10-07T15:30:00Z"
 date_end: "2020-10-07T16:10:00Z"
 all_day: false
 
+publishDate: "2020-01-01T00:00:00Z"
+
 authors: ["admin"]
 
 share: false  # Show social sharing links?

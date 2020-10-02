@@ -3,7 +3,7 @@ title: Pseudoheavy subsets in symplectic manifolds
 event: 12th International Symposium on Natural Sciences
 event_url: http://www.inu.ac.kr/user/indexSub.do?codyMenuSeq=2140831&siteId=ribs
 
-location: 仁川大学校 (Zoom)
+location: 仁川大学校, 韓国 (Zoom)
 
 summary: "12th International Symposium on Natural Sciences"
 abstract: ""

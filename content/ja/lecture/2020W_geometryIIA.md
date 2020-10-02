@@ -30,7 +30,7 @@ Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publ
 
 **講義内容（予定）**
 
-1. 球面の座標と大円
+1. 球面
 2. 陰関数定理
 3. 逆関数定理
 4. 正則曲面の定義

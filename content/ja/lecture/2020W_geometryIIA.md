@@ -28,9 +28,10 @@ profile: false  # Show author profile?
 
 Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publications
 
-**講義内容（予定）**
+**講義内容（2020-10-05更新）**
 
 1. 球面
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/l13v6DuS1AY)
 2. 陰関数定理
 3. 逆関数定理
 4. 正則曲面の定義

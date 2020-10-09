@@ -33,7 +33,7 @@ profile: false  # Show author profile?
 
 1. John W. Milnor, *Morse Theory*, Princeton University Press
 
-**講義内容（2020-09-04更新）**
+**講義内容**
 
 1. Morse理論とは何か，位相空間論の復習（定義，コンパクト性，Hausdorff性，連続写像）
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/mt2hvujcq6E)

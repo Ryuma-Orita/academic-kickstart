@@ -30,7 +30,7 @@ profile: false  # Show author profile?
 2. 栗田稔著「復刊 積分幾何学」共立出版
 3. 川崎英文著「極値問題」横浜図書
 
-**講義内容（2020-08-10更新）**
+**講義内容**
 
 1. 等周問題の歴史，初等幾何的な「証明」 (06-18)
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/owj7A_UXwQA)

@@ -37,4 +37,4 @@ Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publ
 5. 第１基本形式（曲面の面積）
 6. 第２基本形式，ガウス曲率
 7. ガウス・ボンネの定理
-8. 期末試験とまとめ
+8. ターム末試験とまとめ

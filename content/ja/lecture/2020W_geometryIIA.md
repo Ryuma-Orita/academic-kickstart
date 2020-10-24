@@ -28,7 +28,7 @@ profile: false  # Show author profile?
 
 Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publications
 
-**講義内容（2020-10-19更新）**
+**講義内容（2020-10-24更新）**
 
 1. 球面
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/l13v6DuS1AY)
@@ -40,4 +40,4 @@ Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publ
 5. 正則曲面の例
 6. 陰関数定理と正則曲面
 7. 回転面
-8. 期末試験とまとめ
+8. ターム末試験とまとめ

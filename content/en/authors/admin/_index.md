@@ -30,7 +30,7 @@ education:
   - course: Ph.D. in Mathematical Sciences
     institution: The University of Tokyo
     year: 2017
-  - course: M.S. in Mathematical Sciences
+  - course: Master of Mathematical Sciences
     institution: The University of Tokyo
     year: 2014
   - course: B.S. in Mathematics

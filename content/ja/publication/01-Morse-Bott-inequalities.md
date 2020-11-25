@@ -27,7 +27,6 @@ profile = false  # Show author profile?
 publication_types = ["2"]
 
 abstract = "この論文では，境界付き多様体上にMorse-Bott関数を定義し，Morse-Bott不等式を証明します。境界が関数のレベルセットとなっていない場合も扱っています。"
-abstract = "In the present paper, we define Morse–Bott functions on manifolds with boundary which are generalizations of Morse functions and show Morse–Bott inequalities for these manifolds."
 #abstract_short = ""
 
 links = [

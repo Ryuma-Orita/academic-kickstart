@@ -31,10 +31,10 @@ Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publ
 **講義内容（予定）**
 
 1. 曲面のパラメータ変換
-2. 曲面上の微分可能関数
+2. 曲面上の$C^{\\infty}$級関数，$C^{\\infty}$級写像
 3. 接平面，微分写像
 4. 第１基本形式（曲面上の曲線の長さ）
 5. 第１基本形式（曲面の面積）
-6. 第２基本形式，ガウス曲率
-7. ガウス・ボンネの定理
-8. ターム末試験とまとめ
+6. 第２基本形式，Gauss曲率
+7. Gauss–Bonnetの定理
+8. 期末試験

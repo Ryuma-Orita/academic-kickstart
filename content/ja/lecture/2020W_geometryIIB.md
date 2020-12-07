@@ -28,10 +28,11 @@ profile: false  # Show author profile?
 
 Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publications
 
-**講義内容（2020-12-06更新）**
+**講義内容（2020-12-07更新）**
 
-1. 曲面のパラメータ変換，曲面上の$C^{\\infty}$級関数
-2. $C^{\\infty}$級関数の例，曲面の間の$C^{\\infty}$級写像
+1. 曲面上の$C^{\\infty}$級関数
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/SVWh_1J7GWU)
+2. 曲面間の$C^{\\infty}$級写像
 3. 接平面，微分写像
 4. 第１基本形式（曲面内の曲線の長さ）
 5. 第１基本形式（曲面の面積）

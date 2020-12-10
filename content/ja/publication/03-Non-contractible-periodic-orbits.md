@@ -26,7 +26,15 @@ profile = false  # Show author profile?
 # 8 = Patent (v4.2+ required)
 publication_types = ["2"]
 
-abstract = "We show that the presence of one non-degenerate, non-contractible periodic orbit of a Hamiltonian on the standard symplectic torus implies the existence of infinitely many simple non-contractible periodic orbits."
+abstract
+="シンプレクティック多様体上のハミルトン力学系の周期軌道に関する論文です。GinzburgとGürelは，非トーラス状(atoroidal)またはトーラス状単調(toroidally monotone)
+であるようなシンプレクティック多様体のハミルトン微分同相写像は，1つ非可縮周期軌道を持てば，無限個持つことを示しました。
+以上を背景とし，この論文ではシンプレクティック・トーラスに対して同様の主張が成り立つことを示しました。
+トーラスは，非球面上(aspherical)であるシンプレクティック多様体の筆頭です。
+
+トーラスは$H$空間であるため，ホモロジー群にPontryagin積が入ります。すると，シンプレクティック形式$\\omega_{\\mathrm{std}}$の取りうる値が具体的に計算でき，
+Floer(–Novikov)ホモロジーを定義する作用汎関数(action functional)の振る舞いを記述できます。
+"
 #abstract_short = ""
 
 links = [

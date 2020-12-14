@@ -33,6 +33,7 @@ Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publ
 1. 曲面上の$C^{\\infty}$級関数
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/SVWh_1J7GWU)
 2. 曲面間の$C^{\\infty}$級写像
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/41Dl8B-r6Hw)
 3. 接平面と微分写像
 4. 第１基本形式（曲面内の曲線の長さ）
 5. 第１基本形式（曲面の面積）

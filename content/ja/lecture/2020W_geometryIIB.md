@@ -37,6 +37,7 @@ Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publ
 3. 接平面と微分写像
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/BhfQ3zWabVs)
 4. 第一基本形式その1（定義，例，曲面内の曲線の長さ）
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/KR_PC4_qpaQ)
 5. 第一基本形式その2（等角航路，曲面内の領域の面積）
 6. 第二基本形式，Gauss曲率
 7. Gauss–Bonnetの定理

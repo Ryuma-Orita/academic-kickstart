@@ -28,7 +28,7 @@ profile: false  # Show author profile?
 
 Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publications
 
-**講義内容（2020-12-27更新）**
+**講義内容（2020-01-14更新）**
 
 1. 曲面上の$C^{\\infty}$級関数
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/SVWh_1J7GWU)
@@ -39,6 +39,7 @@ Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publ
 4. 第一基本形式その1（定義，例，曲面内の曲線の長さ）
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/KR_PC4_qpaQ)
 5. 第一基本形式その2（等角航路，曲面内の領域の面積）
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/DSowjxWF3sw)
 6. 第二基本形式，Gauss曲率
 7. Gauss–Bonnetの定理
 8. 期末試験

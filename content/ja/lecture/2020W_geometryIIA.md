@@ -28,7 +28,7 @@ profile: false  # Show author profile?
 
 Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publications
 
-**講義内容（2020-11-16更新）**
+**講義内容**
 
 1. 球面
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/l13v6DuS1AY)

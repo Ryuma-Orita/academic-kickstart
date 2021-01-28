@@ -43,4 +43,4 @@ Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publ
 6. Gauss写像，第二基本形式
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/PONp3HCgW6M)
 7. Gauss曲率，Gauss–Bonnetの定理
-8. 期末試験
+8. ターム末試験

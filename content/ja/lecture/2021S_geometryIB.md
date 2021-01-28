@@ -24,7 +24,30 @@ profile: false  # Show author profile?
 本講義はZoomを用いてウェブ上で行います。
 {{% /alert %}}
 
-**参考文献**
+**主要参考図書**
+
+1. Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces: Revised and Updated Second Edition*, Dover Publications
+
+**推薦図書**
+
+1. 小林昭七 著「曲線と曲面の微分幾何（改訂版）」裳華房
+2. 梅原雅顕・山田光太郎 共著「曲線と曲面（改訂版）－微分幾何的アプローチ－」裳華房
 
 **講義内容**
 
+1. 球面
+2. 陰関数定理，逆関数定理
+3. 正則曲面の定義
+4. 正則曲面の例
+5. 陰関数定理と正則曲面
+6. 曲面上の$C^{\\infty}$級関数
+7. 曲面間の$C^{\\infty}$級写像
+8. 接平面，微分写像
+9. 第一基本形式その1（定義，例，曲面内の曲線の長さ）
+10. 第一基本形式その2（等角航路，曲面内の領域の面積）
+11. Gauss写像，第二基本形式
+12. 自己共役写像，主曲率
+13. 平均曲率，Gauss曲率
+14. Gaussの驚異の定理
+15. Gauss–Bonnetの定理
+16. ターム末試験とまとめ

@@ -26,9 +26,14 @@ profile: false  # Show author profile?
 本講義はZoomを用いてウェブ上で行います。
 {{% /alert %}}
 
-**参考文献**
+**主要参考図書**
 
-Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publications
+1. Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces: Revised and Updated Second Edition*, Dover Publications
+
+**推薦図書**
+
+1. 小林昭七 著「曲線と曲面の微分幾何（改訂版）」裳華房
+2. 梅原雅顕・山田光太郎 共著「曲線と曲面（改訂版）－微分幾何的アプローチ－」裳華房
 
 **講義内容**
 
@@ -47,4 +52,4 @@ Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publ
 13. 回転指数定理，4頂点定理
 14. 演習
 15. 4頂点定理の証明
-16. ターム末試験
+16. ターム末試験とまとめ

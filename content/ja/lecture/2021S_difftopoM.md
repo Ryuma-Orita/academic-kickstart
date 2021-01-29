@@ -5,15 +5,15 @@ title: 微分位相幾何学特論
 
 location: 新潟大学 大学院自然科学研究科
 
-summary: "第1学期，集中講義"
+summary: "博士前期課程学生向け，第1学期，集中講義"
 # abstract: ""
 
 date: "2021-08-31"
 date_end: "2021-09-04"
 all_day: true
-tag: "2021W"
+tag: "2021S"
 
-publishDate: "2021-03-01T00:00:00Z"
+publishDate: "2021-02-20T00:00:00Z"
 
 # authors: ["admin"]
 
@@ -26,9 +26,4 @@ profile: false  # Show author profile?
 
 **テキスト**
 
-
-**参考文献**
-
-
 **講義内容**
-

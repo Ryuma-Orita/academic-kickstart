@@ -28,7 +28,7 @@ profile: false  # Show author profile?
 
 Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publications
 
-**講義内容（2020-01-25更新）**
+**講義内容（2020-02-01更新）**
 
 1. 曲面上の$C^{\\infty}$級関数
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/SVWh_1J7GWU)
@@ -43,4 +43,5 @@ Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publ
 6. Gauss写像，第二基本形式
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/PONp3HCgW6M)
 7. Gauss曲率，Gauss–Bonnetの定理
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/ugoQrYuhZXI)
 8. ターム末試験

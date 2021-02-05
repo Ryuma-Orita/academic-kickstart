@@ -40,8 +40,8 @@ profile: false  # Show author profile?
 8. ホモロジー群「単体の向き」「鎖複体」「ホモロジー群」
 9. ホモロジー群「誘導準同型写像」「$\\mathbb{Z}_2$係数ホモロジー群」
 10. タンパク質のホモロジー群
-11. $\\mathbb{Z}_2\\[x\\]$加群「多項式環$\\mathbb{Z}_2[x]$」
-12. $\\mathbb{Z}_2[x]$加群「$\\mathbb{Z}_2[x]$加群」
-13. $\\mathbb{Z}_2[x]$加群「$\\mathbb{Z}_2[x]$係数行列のスミス標準形」「有限生成$\\mathbb{Z}_2[x]$加群の構造定理」
+11. $\\mathbb{Z}_2\\lbrack x \\rbrack$加群「多項式環$\\mathbb{Z}_2\\lbrack x \\rbrack$」
+12. $\\mathbb{Z}_2\\lbrack x \\rbrack$加群「$\\mathbb{Z}_2\\lbrack x \\rbrack$加群」
+13. $\\mathbb{Z}_2\\lbrack x \\rbrack$加群「$\\mathbb{Z}_2\\lbrack x \\rbrack$係数行列のスミス標準形」「有限生成$\\mathbb{Z}_2\\lbrack x \\rbrack$加群の構造定理」
 14. パーシステントホモロジー群
 15. タンパク質のパーシステントホモロジー群「タンパク質の圧縮率との相関」「タンパク質の分類問題への応用」

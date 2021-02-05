@@ -5,7 +5,7 @@ event: シラバス
 
 location: 新潟大学 大学院自然科学研究科
 
-summary: "博士後期課程学生向け，第2学期木曜3限"
+summary: "D向け，第2学期木曜3限"
 # abstract: ""
 
 date: "2021-10-07"

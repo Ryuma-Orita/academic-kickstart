@@ -5,7 +5,7 @@ event: シラバス
 
 location: 新潟大学 大学院自然科学研究科
 
-summary: "博士前期課程学生向け，第1学期，集中講義"
+summary: "M向け，第1学期，集中講義"
 # abstract: ""
 
 date: "2021-05-01"

@@ -28,7 +28,7 @@ profile: false  # Show author profile?
 
 Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces*, Dover Publications
 
-**講義内容（2020-02-01更新）**
+**講義内容**
 
 1. 曲面上の$C^{\\infty}$級関数
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/SVWh_1J7GWU)

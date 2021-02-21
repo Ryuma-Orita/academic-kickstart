@@ -1,7 +1,7 @@
 ---
 title: 微分位相幾何学
 event: シラバス
-# event_url: ""
+# event_url: "http://syllabus.niigata-u.ac.jp/syllabusHtml/2021/29/29_210F7191_ja_JP.html"
 
 location: 新潟大学 大学院自然科学研究科
 

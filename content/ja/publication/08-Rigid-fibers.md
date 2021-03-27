@@ -5,6 +5,8 @@ date = "2021-05-30"
 publication = "Journal of the Mathematical Society of Japan, to appear"
 publication_short = "J. Math. Soc. Japan, to appear"
 
+publishDate: "2021-03-01T00:00:00Z"
+
 featured = true
 
 reading_time = false  # Show estimated reading time?

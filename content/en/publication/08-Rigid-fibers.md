@@ -1,9 +1,9 @@
 +++
-title = "Rigid fibers of spinning tops"
+title = "Rigid fibers of integrable systems on cotangent bundles"
 authors = ["Morimichi Kawasaki", "admin"]
-date = "2019-05-30"
-publication = "arXiv (2019)"
-publication_short = "Preprint"
+# date = "2019-05-30"
+publication = "Journal of the Mathematical Society of Japan, to appear"
+publication_short = "J. Math. Soc. Japan, to appear"
 
 featured = true
 
@@ -24,9 +24,9 @@ profile = false  # Show author profile?
 # 6 = Book section
 # 7 = Thesis (v4.2+ required)
 # 8 = Patent (v4.2+ required)
-publication_types = ["3"]
+publication_types = ["2"]
 
-abstract = "(Non-)displaceability of fibers of integrable systems has been an important problem in symplectic geometry. In this paper, for a large class of classical Liouville integrable systems containing the Lagrangian top, the Kovalevskaya top and the C. Neumann problem, we find a non-displaceable fiber for each of them. Moreover, we show that the non-displaceable fiber which we detect is the unique fiber which is non-displaceable from the zero-section. As a special case of this result, we also show that a singular level set of a convex Hamiltonian is non-displaceable from the zero-section. To prove these results, we use the notion of superheaviness introduced by Entov and Polterovich."
+abstract = "(Non-)displaceability of fibers of integrable systems has been an important problem in symplectic geometry. In this paper, for a large class of classical Liouville integrable systems containing the Lagrangian top, the Kovalevskaya top and the C. Neumann problem, we find a non-displaceable fiber for each of them. Moreover, we show that the non-displaceable fiber which we detect is the unique fiber which is non-displaceable from the zero-section. As a special case of this result, we also show the existence of a singular level set of a convex Hamiltonian, which is non-displaceable from the zero-section. To prove these results, we use the notion of superheaviness introduced by Entov and Polterovich."
 #abstract_short = ""
 
 links = [

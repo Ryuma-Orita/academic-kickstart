@@ -36,7 +36,7 @@ date_format = "January 2006"
 [[experience]]
   title = "JSPS Research Fellow (PD)"
   company = "Graduate School of Science, Tokyo Metropolitan University"
-  company_url = "http://www.se.tmu.ac.jp/mis/english.html"
+  company_url = "http://www.se.tmu.ac.jp/en/index.html"
   location = "Tokyo"
   date_start = "2018-04-01"
   date_end = "2020-02-29"

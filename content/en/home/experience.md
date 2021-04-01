@@ -26,6 +26,14 @@ date_format = "January 2006"
   date_end = ""
 
 [[experience]]
+  title = "Teaching Associate (adjunct)"
+  company = "College of Science and Engineering Teaching, Aoyama Gakuin University"
+  company_url = "http://www.agnes.aoyama.ac.jp/en/"
+  location = "Sagamihara"
+  date_start = "2019-04-01"
+  date_end = "2020-02-29"
+
+[[experience]]
   title = "JSPS Research Fellow (PD)"
   company = "Graduate School of Science, Tokyo Metropolitan University"
   company_url = "http://www.se.tmu.ac.jp/mis/english.html"

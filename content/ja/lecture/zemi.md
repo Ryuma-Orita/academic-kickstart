@@ -1,9 +1,9 @@
 ---
 title: 2021年度ゼミメンバー
 
-location: 新潟大学 理学部
+location: 新潟大学 理学部・大学院自然科学研究科
 
-summary: "B4（4名）"
+summary: "B4: 4名"
 # abstract: ""
 
 date: "2021-04-01"

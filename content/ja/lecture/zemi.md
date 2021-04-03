@@ -1,11 +1,9 @@
 ---
-title: 数学講究
-event: シラバス
-event_url: "http://syllabus.niigata-u.ac.jp/syllabusHtml/2021/06/06_210S1556_ja_JP.html"
+title: 2021年度ゼミメンバー
 
 location: 新潟大学 理学部
 
-summary: "通年"
+# summary: "通年"
 # abstract: ""
 
 date: "2021-04-01"
@@ -15,8 +13,10 @@ publishDate: "2021-02-01T00:00:00Z"
 
 # authors: ["admin"]
 
-
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
-**2021年度使用テキスト**
+**B4（数学講究）**
+- KO, YY: 多様体の基礎（松本幸夫 著）
+- KK: 代数的トポロジー（枡田幹也 著）
+- KY: Algebraic Topology（A. Hatcher 著）

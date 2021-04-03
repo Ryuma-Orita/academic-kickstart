@@ -7,6 +7,7 @@ location: 新潟大学 理学部
 # abstract: ""
 
 date: "2021-04-01"
+date_end: "2022-03-31"
 all_day: true
 
 publishDate: "2021-02-01T00:00:00Z"

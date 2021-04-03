@@ -3,7 +3,7 @@ title: 2021年度ゼミメンバー
 
 location: 新潟大学 理学部
 
-# summary: "通年"
+summary: ""
 # abstract: ""
 
 date: "2021-04-01"

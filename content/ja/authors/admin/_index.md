@@ -80,5 +80,3 @@ user_groups:
 新潟大学理学部理学科数学プログラムの助教です。
 幾何学，特に位相幾何学やシンプレクティック幾何学が専門です。
 Morse理論の応用を主軸に，シンプレクティック多様体上のハミルトン力学系について研究しています。
-
-[![researchmap](https://researchmap.jp/outline/img/researchmap130.gif)](https://researchmap.jp/ryuma-orita)

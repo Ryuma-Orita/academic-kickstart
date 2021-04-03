@@ -60,7 +60,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/orita_nu
-- 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -80,3 +79,5 @@ user_groups:
 新潟大学理学部理学科数学プログラムの助教です。
 幾何学，特に位相幾何学やシンプレクティック幾何学が専門です。
 Morse理論の応用を主軸に，シンプレクティック多様体上のハミルトン力学系について研究しています。
+
+[![researchmap](https://researchmap.jp/outline/img/researchmap130.gif)](https://researchmap.jp/ryuma-orita)

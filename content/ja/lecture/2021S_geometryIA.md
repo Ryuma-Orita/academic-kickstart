@@ -38,6 +38,7 @@ profile: false  # Show author profile?
 **講義内容**
 
 1. パラメータづけられた可微分曲線，内積
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/hYfCDkmIXOE)
 2. 演習
 3. 正則曲線，弧長，ベクトル空間の向き，ベクトル積
 4. 演習

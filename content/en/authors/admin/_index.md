@@ -73,5 +73,5 @@ user_groups:
 - Visitors
 ---
 
-Ryuma Orita is an assistant professor at Niigata University.
+Ryuma Orita is an Assistant Professor in the Department of Mathematics at Niigata University.
 His research interests include Hamiltonian dynamics in Symplectic Geometry.

@@ -40,9 +40,10 @@ profile: false  # Show author profile?
 1. パラメータづけられた可微分曲線，内積
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/hYfCDkmIXOE)
 2. 演習
-3. 正則曲線，弧長，ベクトル空間の向き，ベクトル積
+3. 正則曲線，弧長，ベクトル空間の向き
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/RJ-w255wJ98)
 4. 演習
-5. ベクトル積の性質，曲線の曲率，主法線ベクトル
+5. ベクトル積，曲線の曲率，主法線ベクトル
 6. 演習
 7. 従法線ベクトル，捩率，Frenet–Serretの公式，曲率半径
 8. 演習

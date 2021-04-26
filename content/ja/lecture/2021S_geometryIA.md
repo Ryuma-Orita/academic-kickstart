@@ -44,6 +44,7 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/RJ-w255wJ98)
 4. 演習
 5. ベクトル積，曲線の曲率，主法線ベクトル
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/POmZI1lZsbI)
 6. 演習
 7. 従法線ベクトル，捩率，Frenet–Serretの公式，曲率半径
 8. 演習

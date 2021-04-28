@@ -1,5 +1,5 @@
 ---
-title: 2021年度ゼミメンバー
+title: 2021年度ゼミ
 
 location: 新潟大学 理学部・大学院自然科学研究科
 
@@ -19,8 +19,7 @@ profile: false  # Show author profile?
 ---
 **B4（数学講究）**
 - KO, YY: 多様体の基礎（松本幸夫 著）
-	1
-	2
-	[3](https://youtu.be/hYfCDkmIXOE)
+	[#3](https://youtu.be/QUtstuKEgfo)
 - KK: 代数的トポロジー（枡田幹也 著）
+	[#2](https://youtu.be/x3q5wr7FwaM)
 - KY: Algebraic Topology（A. Hatcher 著）

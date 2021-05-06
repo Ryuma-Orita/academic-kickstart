@@ -46,9 +46,10 @@ profile: false  # Show author profile?
 5. ベクトル積，曲線の曲率，主法線ベクトル
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/POmZI1lZsbI)
 6. 演習
-7. 従法線ベクトル，捩率，Frenet–Serretの公式，曲率半径
+7. 従法線ベクトル，捩率
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/jAVHYByowHc)
 8. 演習
-9. 空間曲線の基本定理，局所標準形
+9. Frenet–Serretの公式，空間曲線の基本定理，局所標準形
 10. 演習
 11. Jordanの閉曲線定理，平面曲線の回転指数
 12. 演習

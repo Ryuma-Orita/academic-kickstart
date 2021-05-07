@@ -19,8 +19,9 @@ profile: false  # Show author profile?
 ---
 **B4（数学講究）**
 - KO, YY: 多様体の基礎（松本幸夫 著）
-	[04-28](https://youtu.be/QUtstuKEgfo)
-	[05-07](https://youtu.be/aardPHgHQU4)
+	[4/28](https://youtu.be/QUtstuKEgfo)
+	[5/7](https://youtu.be/aardPHgHQU4)
 - KK: 代数的トポロジー（枡田幹也 著）
-	[04-28](https://youtu.be/x3q5wr7FwaM)
+	[4/28](https://youtu.be/x3q5wr7FwaM)
 - KY: Algebraic Topology（A. Hatcher 著）
+	[5/7](https://youtu.be/XV8rfGFiT8A)

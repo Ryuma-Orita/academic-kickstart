@@ -21,6 +21,7 @@ profile: false  # Show author profile?
 - KO, YY: 多様体の基礎（松本幸夫 著）
 	[4/28](https://youtu.be/QUtstuKEgfo)
 	[5/7](https://youtu.be/aardPHgHQU4)
+	[5/12](https://youtu.be/gobJBTay9-A)
 - KK: 代数的トポロジー（枡田幹也 著）
 	[4/28](https://youtu.be/x3q5wr7FwaM)
 - KY: Algebraic Topology（A. Hatcher 著）

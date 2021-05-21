@@ -52,9 +52,10 @@ profile: false  # Show author profile?
 9. Frenet–Serretの公式，空間曲線の基本定理
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/iZiF7DNBWP0)
 10. 演習
-11. 局所標準形，Jordanの閉曲線定理，平面曲線の回転指数
+11. 局所標準形，閉曲線
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/z8TPsXlIPLA)
 12. 演習
-13. 回転指数定理，4頂点定理
+13. Jordanの閉曲線定理，回転指数定理，
 14. 演習
-15. 4頂点定理の証明
+15. 4頂点定理
 16. ターム末試験とまとめ

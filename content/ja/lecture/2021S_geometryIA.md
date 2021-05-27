@@ -55,7 +55,8 @@ profile: false  # Show author profile?
 11. 局所標準形，閉曲線
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/z8TPsXlIPLA)
 12. 演習
-13. Jordanの閉曲線定理，回転指数定理，
+13. Jordanの閉曲線定理，回転指数定理，4頂点定理
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/_kiRjiDY52U)
 14. 演習
-15. 4頂点定理
+15. 4頂点定理の証明，等周不等式
 16. ターム末試験とまとめ

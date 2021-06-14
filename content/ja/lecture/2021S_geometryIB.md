@@ -38,6 +38,7 @@ profile: false  # Show author profile?
 1. 球面
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/N88NCcVQo9M)
 2. 陰関数定理，逆関数定理
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/5b9TSZ2RQno)
 3. 正則曲面の定義
 4. 正則曲面の例
 5. 陰関数定理と正則曲面

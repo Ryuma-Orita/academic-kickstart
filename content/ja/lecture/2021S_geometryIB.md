@@ -42,6 +42,7 @@ profile: false  # Show author profile?
 3. 正則曲面の定義
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/EjNX68jbwAg)
 4. 正則曲面の例
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/S3ov5TOFQQs)
 5. 陰関数定理と正則曲面
 6. 曲面上の$C^{\\infty}$級関数
 7. 曲面間の$C^{\\infty}$級写像

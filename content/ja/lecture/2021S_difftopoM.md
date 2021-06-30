@@ -8,8 +8,8 @@ location: 新潟大学 大学院自然科学研究科
 summary: "M向け，第1学期，集中講義"
 # abstract: ""
 
-date: "2021-05-01"
-date_end: "2021-09-30"
+date: "2021-08-23"
+date_end: "2021-08-27"
 all_day: true
 tag: "2021S"
 

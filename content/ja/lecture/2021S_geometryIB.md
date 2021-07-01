@@ -47,7 +47,8 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/eDpb8pdwDrQ)
 6. 陰関数定理と正則曲面その２，曲面上の$C^{\\infty}$級関数
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/ytbCe1aAFBA)
-7. 曲面間の$C^{\\infty}$級写像
+7. 曲面上の$C^{\\infty}$級関数その２，曲面間の$C^{\\infty}$級写像
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/0K6ttGJLnZk)
 8. 接平面，微分写像
 9. 第一基本形式その1（定義，例，曲面内の曲線の長さ）
 10. 第一基本形式その2（等角航路，曲面内の領域の面積）

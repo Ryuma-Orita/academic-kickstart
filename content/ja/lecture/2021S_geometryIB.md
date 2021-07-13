@@ -53,8 +53,9 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/NSxirA9vrOs)
 9. 微分写像
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/a0FcAdE366w)
-10. 第一基本形式その1（定義，例，曲面内の曲線の長さ，等角航路）
-11. 第一基本形式その2（曲面内の領域の面積），Gauss写像
+10. 第一基本形式その1（定義，例，曲面内の曲線の長さ）
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/b8ZavH3hXl4)
+11. 第一基本形式その2（等角航路，曲面内の領域の面積），Gauss写像
 12. 自己共役写像と二次形式，第二基本形式
 13. 法曲率，主曲率，平均曲率，Gauss曲率
 14. Gaussの驚異の定理

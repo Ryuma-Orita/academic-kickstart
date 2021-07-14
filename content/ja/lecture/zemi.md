@@ -32,12 +32,14 @@ profile: false  # Show author profile?
 	[6/23](https://youtu.be/00lJH214Fb8)
 	[6/30](https://youtu.be/oIOtSDRHhL0)
 	[7/7](https://youtu.be/a3mFAoOhXtE)
+	[7/14](https://youtu.be/XKQNFrSWSkU)
 - KK: 代数的トポロジー（枡田幹也 著）
 	4/14
 	[4/28](https://youtu.be/x3q5wr7FwaM)
 	[6/2](https://youtu.be/qd5hjUT1lcE)
 	[6/16](https://youtu.be/qqTr8rhOXqE)
 	[6/30](https://youtu.be/6bFq-CZDGU0)
+	[7/14](https://youtu.be/KQJeyKN_RBc)
 - KY: Algebraic Topology（A. Hatcher 著）
 	4/21
 	[5/7](https://youtu.be/XV8rfGFiT8A)

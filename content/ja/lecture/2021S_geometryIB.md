@@ -55,9 +55,10 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/a0FcAdE366w)
 10. 第一基本形式その1（定義，例，曲面内の曲線の長さ）
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/b8ZavH3hXl4)
-11. 第一基本形式その2（等角航路，曲面内の領域の面積），Gauss写像
-12. 自己共役写像と二次形式，第二基本形式
-13. 法曲率，主曲率，平均曲率，Gauss曲率
-14. Gaussの驚異の定理
-15. Gauss–Bonnetの定理
+11. 第一基本形式その2（等角航路，曲面内の領域の面積）
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/cbwqqPVmzqU)
+12. Gauss写像，自己共役写像と二次形式
+13. 第二基本形式，法曲率と法方向
+14. 主曲率，平均曲率，Gauss曲率
+15. Gaussの驚異の定理とGauss–Bonnetの定理
 16. ターム末試験とまとめ

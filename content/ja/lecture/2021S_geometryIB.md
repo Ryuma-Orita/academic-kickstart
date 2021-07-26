@@ -60,6 +60,7 @@ profile: false  # Show author profile?
 12. Gauss写像
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/6n-gQeopwO4)
 13. 自己共役写像と二次形式，第二基本形式
-14. 法曲率，主曲率，平均曲率，Gauss曲率
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/F5RgB070JOU)
+14. 第二基本形式，曲率たち
 15. Gaussの驚異の定理とGauss–Bonnetの定理
 16. ターム末試験とまとめ

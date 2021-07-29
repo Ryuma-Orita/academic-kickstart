@@ -62,5 +62,6 @@ profile: false  # Show author profile?
 13. 自己共役写像と二次形式，第二基本形式
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/F5RgB070JOU)
 14. 第二基本形式，曲率たち
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/6BJ_8pJqqVI)
 15. Gaussの驚異の定理とGauss–Bonnetの定理
 16. ターム末試験とまとめ

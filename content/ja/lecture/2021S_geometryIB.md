@@ -64,4 +64,5 @@ profile: false  # Show author profile?
 14. 第二基本形式，曲率たち
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/6BJ_8pJqqVI)
 15. Gaussの驚異の定理とGauss–Bonnetの定理
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/qFCiPbVeWE0)
 16. ターム末試験とまとめ

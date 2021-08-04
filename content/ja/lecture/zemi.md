@@ -51,3 +51,4 @@ profile: false  # Show author profile?
 	[6/23](https://youtu.be/NpHIOxVIsY8)
 	[7/7](https://youtu.be/AfBHxhAyBq8)
 	[7/20](https://youtu.be/RMsZUbo3wNs)
+	[8/4](https://youtu.be/xOABAcecoBY)

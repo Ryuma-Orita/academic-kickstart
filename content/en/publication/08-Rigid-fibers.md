@@ -31,7 +31,7 @@ abstract = "(Non-)displaceability of fibers of integrable systems has been an im
 
 links = [
   {icon = "arxiv", icon_pack = "ai", name = "arXiv", url = "https://arxiv.org/abs/1905.13112"},
-#  {icon = "book", icon_pack = "fas", name = "Journal Page", url = ""},
+  {icon = "book", icon_pack = "fas", name = "Journal Page", url = "https://doi.org/10.2969/jmsj/84278427"},
   ]
 
 # Featured image thumbnail (optional)

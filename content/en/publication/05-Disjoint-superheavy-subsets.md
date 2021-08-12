@@ -2,8 +2,8 @@
 title = "Disjoint superheavy subsets and fragmentation norms"
 authors = ["Morimichi Kawasaki", "admin"]
 date = "2019-06-14"
-publication = "Journal of Topology and Analysis (2020), Online Ready"
-publication_short = "*J. Topol. Anal.*, Online Ready"
+publication = "Journal of Topology and Analysis, vol. **13** (2021), no. 2, pp. 443–468"
+publication_short = "*J. Topol. Anal.*, vol. **13**, no. 2, pp. 443–468"
 
 featured = false
 

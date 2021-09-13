@@ -32,9 +32,10 @@ profile: false  # Show author profile?
 
 1. 単体複体，抽象単体複体，ホモトピー
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/kAvmwyo4wCc)
-2. 脈体定理  
-「Čech複体」「Vietoris–Rips複体」「アルファ複体」
-3. タンパク質の単体複体モデル
+2. 脈体定理その１
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/3S_YfM_wlJ0)
+3. 脈体定理その２，タンパク質の単体複体モデル
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/TOJGQ2GpfFc)
 4. $\\mathbb{Z}$加群  
 「アーベル群，可換環」
 5. 「$R$加群」

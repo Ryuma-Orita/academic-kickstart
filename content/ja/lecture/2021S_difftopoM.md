@@ -21,7 +21,7 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
 {{% alert warning %}}
-本講義はZoomを用いてウェブ上で行います。日程は改めて周知します。
+本講義はZoomを用いてウェブ上で行います。
 {{% /alert %}}
 
 **テキスト**
@@ -31,6 +31,7 @@ profile: false  # Show author profile?
 **講義内容**
 
 1. 単体複体，抽象単体複体，ホモトピー
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/kAvmwyo4wCc)
 2. 脈体定理  
 「Čech複体」「Vietoris–Rips複体」「アルファ複体」
 3. タンパク質の単体複体モデル

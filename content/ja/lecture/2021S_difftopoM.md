@@ -36,19 +36,11 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/3S_YfM_wlJ0)
 3. 脈体定理その２，タンパク質の単体複体モデル
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/TOJGQ2GpfFc)
-4. $\\mathbb{Z}$加群  
-「アーベル群，可換環」
-5. 「$R$加群」
-6. 「$\\mathbb{Z}$加群」
-7. 「$\\mathbb{Z}$係数行列のSmith標準形」「有限生成$\\mathbb{Z}$加群の構造定理」
-8. ホモロジー群  
-「単体の向き」「鎖複体」「ホモロジー群」
-9. 「誘導準同型写像」「$\\mathbb{Z}/2\\mathbb{Z}$係数ホモロジー群」
-10. タンパク質のホモロジー群
-11. $\\mathbb{Z}/2\\mathbb{Z}\\lbrack x \\rbrack$加群  
-「多項式環$\\mathbb{Z}/2\\mathbb{Z}\\lbrack x \\rbrack$」
-12. 「$\\mathbb{Z}/2\\mathbb{Z}\\lbrack x \\rbrack$加群」
-13. 「$\\mathbb{Z}/2\\mathbb{Z}\\lbrack x \\rbrack$係数行列のSmith標準形」「有限生成$\\mathbb{Z}/2\\mathbb{Z}\\lbrack x \\rbrack$加群の構造定理」
-14. パーシステントホモロジー群
-15. タンパク質のパーシステントホモロジー群  
-「タンパク質の圧縮率との相関」「タンパク質の分類問題への応用」
+4. 群と環
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/pHYPFhZLwyI)
+5. 環上の加群
+6. ホモロジー群その１
+7. ホモロジー群その２，タンパク質のホモロジー群
+8. $\\mathbb{Z}/2\\mathbb{Z}\\lbrack x \\rbrack$加群
+9. パーシステントホモロジー群
+10. タンパク質のパーシステントホモロジー群

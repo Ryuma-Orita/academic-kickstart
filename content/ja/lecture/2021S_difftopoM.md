@@ -46,5 +46,6 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/8II3MP4Sepw)
 8. タンパク質のホモロジー群，$\\mathbb{Z}/2\\mathbb{Z}\\lbrack x \\rbrack$加群
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/PwS819CscY4)
-9. パーシステントホモロジー群
-10. タンパク質のパーシステントホモロジー群
+9. パーシステントホモロジー群その１
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/mfpaQqDYurA)
+10. パーシステントホモロジー群その２，タンパク質のパーシステントホモロジー群

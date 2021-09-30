@@ -1,11 +1,11 @@
 ---
 title: トポロジーへのご招待
-event: 新潟大学理学部コロキウム
-event_url: "https://www.sc.niigata-u.ac.jp/sc/res/old-colloq.html"
+event: 第117回理学部コロキウム
+event_url: "https://www.sc.niigata-u.ac.jp/sc/res/next-colloq.html"
 
-location: 新潟市
+location: 新潟大学
 
-summary: "新潟大学理学部コロキウム"
+summary: "第117回理学部コロキウム"
 abstract: ""
 
 date: "2021-09-30T16:30:00Z"

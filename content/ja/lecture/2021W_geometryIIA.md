@@ -31,6 +31,7 @@ profile: false  # Show author profile?
 **講義内容**
 
 1. 多様体の定義
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/qQPw1BHuDGY)
 2. 多様体の例
 3. $C^s$級関数，$C^s$級写像
 4. 接ベクトル空間

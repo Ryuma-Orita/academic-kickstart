@@ -29,6 +29,7 @@ John W. Milnor 著「Morse Theory」Princeton University Press
 
 1. Riemann幾何学への速成コース  
 「共変微分」
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/5krA11gc0_I)
 2. 「曲率テンソル」
 3. 「測地線と完備性」①
 4. 「測地線と完備性」②

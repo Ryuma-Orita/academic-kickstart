@@ -39,6 +39,6 @@ profile: false  # Show author profile?
 3. ベクトル場
 4. 積分曲線
 5. 1次微分形式
-6. k次微分形式
+6. $k$次微分形式
 7. 外微分，Stokesの定理
 8. de Rhamコホモロジー

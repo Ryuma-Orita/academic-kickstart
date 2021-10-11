@@ -33,6 +33,7 @@ profile: false  # Show author profile?
 1. 多様体の定義
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/qQPw1BHuDGY)
 2. 多様体の例
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/wN6wPgmwEHM)
 3. $C^s$級関数，$C^s$級写像
 4. 接ベクトル空間
 5. $C^r$級写像の微分

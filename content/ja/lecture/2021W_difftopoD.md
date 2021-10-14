@@ -27,12 +27,12 @@ John W. Milnor 著「Morse Theory」Princeton University Press
 
 **講義内容**
 
-1. Riemann幾何学への速成コース  
-「共変微分」
+1. 共変微分その１
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/5krA11gc0_I)
-2. 「曲率テンソル」
-3. 「測地線と完備性」①
-4. 「測地線と完備性」②
+2. 共変微分その２
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/n6wgT5FBZ0o)
+3. 曲率テンソル
+4. 測地線と完備性
 5. 測地線に応用された変分学  
 「滑らかな多様体上の道の空間」「道のエネルギー」
 6. 「臨海道におけるエネルギー関数のHessian」「Jacobi場: $E$の零空間」

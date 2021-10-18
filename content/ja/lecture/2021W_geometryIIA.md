@@ -35,6 +35,7 @@ profile: false  # Show author profile?
 2. 多様体の例
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/wN6wPgmwEHM)
 3. $C^s$級関数，$C^s$級写像
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/ELhEPLB6oT4)
 4. 接ベクトル空間
 5. $C^r$級写像の微分
 6. 写像の局所的性質

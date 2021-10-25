@@ -36,8 +36,9 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/wN6wPgmwEHM)
 3. $C^s$級関数，$C^s$級写像
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/ELhEPLB6oT4)
-4. 接ベクトル空間
-5. $C^r$級写像の微分
+4. $C^s$級微分同相写像，方向微分
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/76Vc2TIysew)
+5. 接ベクトル空間，$C^r$級写像の微分
 6. 写像の局所的性質
 7. 射影空間
 8. はめ込み，埋め込み

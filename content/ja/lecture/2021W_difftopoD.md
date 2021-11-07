@@ -35,7 +35,8 @@ John W. Milnor 著「Morse Theory」Princeton University Press
 4. 測地線と完備性その１
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/iJXV4HJe19g)
 5. 測地線と完備性その２
-6.
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/GNqftCb7ch0)
+6. 測地線と完備性その３
 7.
 8.
 9.

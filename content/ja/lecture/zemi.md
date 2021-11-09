@@ -19,7 +19,7 @@ profile: false  # Show author profile?
 ---
 ## 令和3年度（2021年度）
 
-# B4（数学講究）
+### B4（数学講究）
 - KO, YY: 多様体の基礎（松本幸夫 著）
 	4/14
 	4/21

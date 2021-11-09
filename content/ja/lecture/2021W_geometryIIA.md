@@ -44,6 +44,6 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/76Vc2TIysew)
 5. 接ベクトル空間
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/R8C6bUIW0S8)
-6. $C^r$級写像の微分，写像の局所的性質
-7. 射影空間
-8. はめ込み，埋め込み
+6. $C^r$級写像の微分その１
+7. $C^r$級写像の微分その２，写像の局所的性質その１
+8. 写像の局所的性質その２

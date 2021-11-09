@@ -20,6 +20,10 @@ publishDate: "2021-02-01T00:00:00Z"
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
+{{% alert warning %}}
+本講義はZoomを用いてウェブ上で行います。
+{{% /alert %}}
+
 **講義内容（折田担当分）**
 
 1. オイラー数と多面体 ～オイラーの多面体定理～

@@ -20,6 +20,10 @@ publishDate: "2021-02-01T00:00:00Z"
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
+{{% alert warning %}}
+本講義はZoomを用いてウェブ上で行います。
+{{% /alert %}}
+
 **テキスト**
 
 1. 松本幸夫 著「多様体の基礎」東京大学出版会

@@ -1,5 +1,5 @@
 ---
-title: 2021年度ゼミ
+title: 研究室メンバー
 
 location: 新潟大学 理学部・大学院自然科学研究科
 
@@ -17,7 +17,9 @@ publishDate: "2021-02-01T00:00:00Z"
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
-**B4（数学講究）**
+## 令和3年度（2021年度）
+
+# B4（数学講究）
 - KO, YY: 多様体の基礎（松本幸夫 著）
 	4/14
 	4/21
@@ -60,3 +62,4 @@ profile: false  # Show author profile?
 	[7/20](https://youtu.be/RMsZUbo3wNs)
 	[8/4](https://youtu.be/xOABAcecoBY)
 	[10/13](https://youtu.be/vJ8DhObZNPY)
+	[11/1]()

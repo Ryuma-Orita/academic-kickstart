@@ -62,4 +62,4 @@ profile: false  # Show author profile?
 	[7/20](https://youtu.be/RMsZUbo3wNs)
 	[8/4](https://youtu.be/xOABAcecoBY)
 	[10/13](https://youtu.be/vJ8DhObZNPY)
-	[11/1]()
+	[11/1](https://youtu.be/G05MwQhyXPc)

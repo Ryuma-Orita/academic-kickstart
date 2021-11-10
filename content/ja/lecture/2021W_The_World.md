@@ -31,4 +31,6 @@ profile: false  # Show author profile?
 2. オイラー数と風の流れ ～ポアンカレ・ホップの定理～
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/r6r3F6Ow2PE)
 3. オイラー数と関数の臨界点 ～モースの定理～
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/XdpLrI6exek)
 4. オイラー数と曲面の曲がり具合 ～ガウス・ボンネの定理～
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/dk7UZU1SpGo)

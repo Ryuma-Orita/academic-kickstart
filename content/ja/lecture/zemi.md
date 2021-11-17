@@ -42,6 +42,7 @@ profile: false  # Show author profile?
 	[10/20](https://youtu.be/ij7OKKT8eQE)
 	[10/27](https://youtu.be/zLRPPR3hxe4)
 	[11/10](https://youtu.be/L0NU596pjMw)
+	[11/17](https://youtu.be/99TA4gVHeoU)
 - KK: 代数的トポロジー（枡田幹也 著）
 	4/14
 	[4/28](https://youtu.be/x3q5wr7FwaM)
@@ -65,3 +66,4 @@ profile: false  # Show author profile?
 	[8/4](https://youtu.be/xOABAcecoBY)
 	[10/13](https://youtu.be/vJ8DhObZNPY)
 	[11/1](https://youtu.be/G05MwQhyXPc)
+	[11/17](https://youtu.be/UOAcnxW6zsw)

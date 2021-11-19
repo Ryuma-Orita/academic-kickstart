@@ -3,7 +3,7 @@ title: 数学の世界
 event: シラバス
 event_url: "http://syllabus.niigata-u.ac.jp/syllabusHtml/2021/84/84_213G6501_ja_JP.html"
 
-location: 新潟大学 理学部
+location: 新潟大学
 
 summary: "第3ターム水曜4,5限，共同担当"
 # abstract: ""

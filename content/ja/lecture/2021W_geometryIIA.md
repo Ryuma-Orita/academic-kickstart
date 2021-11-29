@@ -49,3 +49,4 @@ profile: false  # Show author profile?
 7. $C^r$級写像の微分その２
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/sPe6t_JeVdk)
 8. 写像の局所的性質
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/5Kh7Ko7DBxc)

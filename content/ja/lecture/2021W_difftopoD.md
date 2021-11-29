@@ -42,6 +42,7 @@ John W. Milnor 著「Morse Theory」Princeton University Press
 6. 測地線と完備性その３
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/YWOsb-tdtlk)
 7. 滑らかな多様体上の道の空間
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/hBs-hZUbYFY)
 8.
 9.
 10.

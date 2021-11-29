@@ -43,7 +43,7 @@ John W. Milnor 著「Morse Theory」Princeton University Press
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/YWOsb-tdtlk)
 7. 滑らかな多様体上の道の空間
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/hBs-hZUbYFY)
-8.
+8. 道のエネルギー
 9.
 10.
 11.

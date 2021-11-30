@@ -44,11 +44,10 @@ John W. Milnor 著「Morse Theory」Princeton University Press
 7. 滑らかな多様体上の道の空間
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/hBs-hZUbYFY)
 8. 道のエネルギー
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
+9. 臨界道におけるエネルギー関数のHessian
+10. Jacobi場：$\\mathrm{Hess}_{\\gamma}(E)$の零空間
+11. 指標定理
+12. $\\Omega^c$への有限次元への近似
+13. 道の空間全体の位相
+14. 非共役点の存在
+15. 位相と曲率の間の幾つかの関係

@@ -44,6 +44,7 @@ John W. Milnor 著「Morse Theory」Princeton University Press
 7. 滑らかな多様体上の道の空間
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/hBs-hZUbYFY)
 8. 道のエネルギー
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/ojf-AFtxAWY)
 9. 臨界道におけるエネルギー関数のHessian
 10. Jacobi場：$\\mathrm{Hess}_{\\gamma}(E)$の零空間
 11. 指標定理

@@ -39,6 +39,7 @@ profile: false  # Show author profile?
 **講義内容**
 
 1. 射影空間
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/UmtXWuEhIGU)
 2. はめ込みと埋め込み
 3. 埋め込み定理，１の分割
 4. 正則点と臨界点

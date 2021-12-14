@@ -41,6 +41,7 @@ profile: false  # Show author profile?
 1. 射影空間
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/UmtXWuEhIGU)
 2. はめ込みと埋め込み
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/a5ejdrxTTaU)
 3. 埋め込み定理，１の分割
 4. 正則点と臨界点
 5. ベクトル場その１

@@ -43,6 +43,7 @@ profile: false  # Show author profile?
 2. はめ込みと埋め込み
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/a5ejdrxTTaU)
 3. 埋め込み定理，１の分割
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/pzIlXBJDuUk)
 4. 正則点と臨界点
 5. ベクトル場その１
 6. ベクトル場その２

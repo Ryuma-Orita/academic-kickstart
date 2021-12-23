@@ -47,10 +47,11 @@ John W. Milnor 著「Morse Theory」Princeton University Press
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/ojf-AFtxAWY)
 9. 臨界道におけるエネルギー関数のHessian
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/PVp1Jp8_CiE)
-10. Jacobi場：$\\mathrm{Hess}_{\\gamma}(E)$の零空間
+10. Jacobi場：$\\mathrm{Hess}_{\\gamma}(E)$の零空間その１
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/mELgm8OyBOE)
-11. 指標定理
-12. $\\Omega^c$への有限次元の近似
+11. Jacobi場：$\\mathrm{Hess}_{\\gamma}(E)$の零空間その２，指標定理その１
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/GwczQZFmYm4)
+12. 指標定理その２，$\\Omega^c$への有限次元の近似
 13. 道の空間全体の位相
 14. 非共役点の存在
 15. 位相と曲率の間の幾つかの関係

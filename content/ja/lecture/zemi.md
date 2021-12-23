@@ -61,7 +61,7 @@ profile: false  # Show author profile?
 	[11/10](https://youtu.be/x1CQXE8gGgo)
 	[11/24](https://youtu.be/47cikDlgaZs)
 	[12/8](https://youtu.be/cddMxlnDjVU)
-	12/22
+	[12/22](https://youtu.be/kbc1YjrTzpc)
 - KY: Algebraic Topology（A. Hatcher 著）
 	4/21
 	[5/7](https://youtu.be/XV8rfGFiT8A)

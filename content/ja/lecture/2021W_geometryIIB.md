@@ -47,6 +47,7 @@ profile: false  # Show author profile?
 4. 正則点と臨界点
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/omrk4pOzDBw)
 5. ベクトル場その１
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/0adGFgxNuwc)
 6. ベクトル場その２
 7. 微分形式その１
 8. 微分形式その２

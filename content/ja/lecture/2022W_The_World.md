@@ -1,7 +1,7 @@
 ---
 title: 数学の世界
 event: シラバス
-event_url: ""
+event_url: "https://syllabus.niigata-u.ac.jp/syllabusHtml/2022/84/84_223G6501_ja_JP.html"
 
 location: 新潟大学
 

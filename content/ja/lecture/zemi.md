@@ -49,6 +49,7 @@ profile: false  # Show author profile?
 	[12/22](https://youtu.be/AhHQzDHaxXM)
 	[1/19](https://youtu.be/UhbwaEr2Fg4)
 	[1/26](https://youtu.be/X5y0iplWGZE)
+	[2/2](https://youtu.be/nIGyFijYObE)
 - KK: 代数的トポロジー（枡田幹也 著）
 	4/14
 	[4/28](https://youtu.be/x3q5wr7FwaM)
@@ -65,6 +66,7 @@ profile: false  # Show author profile?
 	[12/8](https://youtu.be/cddMxlnDjVU)
 	[12/22](https://youtu.be/kbc1YjrTzpc)
 	[1/19](https://youtu.be/PXwrUqAoztg)
+	[2/2](https://youtu.be/74mhXUWtBNs)
 - KY: Algebraic Topology（A. Hatcher 著）
 	4/21
 	[5/7](https://youtu.be/XV8rfGFiT8A)

@@ -13,13 +13,17 @@ date_end: "2022-06-03"
 all_day: true
 tag: "2022S"
 
-publishDate: "2022-02-01T00:00:00Z"
+publishDate: "2022-02-28T00:00:00Z"
 
 # authors: ["admin"]
 
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
+{{% alert warning %}}
+本授業はZoomを用いてウェブ上で行います。
+{{% /alert %}}
+
 **テキスト**
 
 1. 高橋泰嗣，加藤幹雄共著「微分積分概論［新訂版］」サイエンス社

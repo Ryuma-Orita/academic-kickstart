@@ -53,6 +53,8 @@ John W. Milnor 著「Morse Theory」Princeton University Press
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/GwczQZFmYm4)
 12. 指標定理その２
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/z1HPJ7y3beA)
-13. $\\Omega^c$への有限次元の近似，道の空間全体の位相
-14. 非共役点の存在
-15. 位相と曲率の間の幾つかの関係
+13. $\\Omega^c$への有限次元の近似その１
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/IhuIrnlNLsQ)
+14. $\\Omega^c$への有限次元の近似その２，道の空間全体の位相その１
+15. 道の空間全体の位相その２，非共役点の存在
+16. 位相と曲率の間の幾つかの関係

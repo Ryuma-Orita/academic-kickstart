@@ -13,13 +13,17 @@ date_end: "2022-11-30"
 all_day: true
 tag: "2022W"
 
-publishDate: "2022-02-01T00:00:00Z"
+publishDate: "2022-02-28T00:00:00Z"
 
 # authors: ["admin"]
 
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
+{{% alert warning %}}
+本授業はZoomを用いてウェブ上で行います。
+{{% /alert %}}
+
 **講義内容（折田担当分）**
 
 1. オイラー数と多面体 ～オイラーの多面体定理～

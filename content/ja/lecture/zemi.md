@@ -3,11 +3,11 @@ title: 研究室メンバー
 
 location: 新潟大学 理学部・大学院自然科学研究科
 
-summary: "B4: 4名"
+summary: "B4: 4名（2021年度）"
 # abstract: ""
 
 date: "2021-04-01"
-date_end: "2022-03-31"
+date_end: "2023-03-31"
 all_day: true
 
 publishDate: "2021-02-01T00:00:00Z"
@@ -17,7 +17,15 @@ publishDate: "2021-02-01T00:00:00Z"
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
-## 令和3年度（2021年度）
+## 2022年度
+
+### M1
+
+### B4（数学講究）
+- YN, KY: An Introduction to Manifolds（L. Tu 著）
+- RC: Algebraic Topology（A. Hatcher 著）
+
+## 2021年度
 
 ### B4（数学講究）
 - KO, YY: 多様体の基礎（松本幸夫 著）

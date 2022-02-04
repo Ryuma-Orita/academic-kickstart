@@ -13,7 +13,7 @@ date_end: "2023-02-13"
 all_day: true
 tag: "2022W"
 
-publishDate: "2022-02-01T00:00:00Z"
+publishDate: "2022-02-28T00:00:00Z"
 
 # authors: ["admin"]
 

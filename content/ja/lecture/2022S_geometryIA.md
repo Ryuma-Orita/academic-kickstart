@@ -14,7 +14,7 @@ all_day: true
 category: "2022S"
 
 
-publishDate: "2022-02-01T00:00:00Z"
+publishDate: "2022-02-28T00:00:00Z"
 
 # authors: ["admin"]
 

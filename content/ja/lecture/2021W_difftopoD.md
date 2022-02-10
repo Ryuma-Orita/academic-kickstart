@@ -56,5 +56,6 @@ John W. Milnor 著「Morse Theory」Princeton University Press
 13. $\\Omega^c$への有限次元の近似その１
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/IhuIrnlNLsQ)
 14. $\\Omega^c$への有限次元の近似その２，道の空間全体の位相その１
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/iadni9UhWV0)
 15. 道の空間全体の位相その２，非共役点の存在
 16. 位相と曲率の間の幾つかの関係

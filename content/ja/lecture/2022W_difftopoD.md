@@ -21,7 +21,7 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
 **テキスト**
-John W. Milnor 著「Morse Theory」Princeton University Press
+- John W. Milnor 著「Morse Theory」Princeton University Press
 
 **講義内容**
 1. 有限次元多様体に対するMorse理論の復習

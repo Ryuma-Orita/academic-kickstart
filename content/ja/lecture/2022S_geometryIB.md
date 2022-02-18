@@ -21,16 +21,13 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
 **主要参考図書**
-
-1. 梅原雅顕・山田光太郎 共著「曲線と曲面（改訂版）－微分幾何的アプローチ－」裳華房
+- 梅原雅顕・山田光太郎 共著「曲線と曲面（改訂版）－微分幾何的アプローチ－」裳華房
 
 **推薦図書**
-
 1. 小林昭七 著「曲線と曲面の微分幾何（改訂版）」裳華房
 2. Manfredo P. do Carmo, *Differential Geometry of Curves and Surfaces: Revised and Updated Second Edition*, Dover Publications
 
 **講義内容**
-
 1. 曲面とは何か
 2. 演習
 3. 第一基本形式その１（定義）

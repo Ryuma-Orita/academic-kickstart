@@ -21,7 +21,7 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
 **テキスト**
-Ana Cannas da Silva 著「Lectures on Symplectic Geometry」Springer
+- Ana Cannas da Silva 著「Lectures on Symplectic Geometry」Springer
 
 **講義内容**
 1. シンプレクティック形式

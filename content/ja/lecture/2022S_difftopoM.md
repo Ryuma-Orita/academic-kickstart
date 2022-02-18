@@ -1,7 +1,7 @@
 ---
 title: 微分位相幾何学特論
 event: シラバス
-event_url: ""
+event_url: "https://syllabus.niigata-u.ac.jp/syllabusHtml/2022/28/28_220F3163_ja_JP.html"
 
 location: 新潟大学 大学院自然科学研究科
 
@@ -13,7 +13,7 @@ date_end: "2022-08-04"
 all_day: true
 tag: "2022S"
 
-publishDate: "2022-02-28T00:00:00Z"
+publishDate: "2022-01-28T00:00:00Z"
 
 # authors: ["admin"]
 

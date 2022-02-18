@@ -21,13 +21,13 @@ profile: false  # Show author profile?
 
 ### M1
 
-### B4（数学講究）
+### B4
 - YN, KY: An Introduction to Manifolds（L. Tu 著）
 - RC: Algebraic Topology（A. Hatcher 著）
 
 ## 2021年度
 
-### B4（数学講究）
+### B4
 - KO, YY: 多様体の基礎（松本幸夫 著）
 	4/14
 	4/21

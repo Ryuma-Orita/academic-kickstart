@@ -21,7 +21,7 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
 {{% alert warning %}}
-月曜3限・木曜*4*限です。
+月曜3限・木曜**4**限に開講されます。
 {{% /alert %}}
 
 **主要参考図書**

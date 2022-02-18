@@ -5,7 +5,7 @@ event_url: "https://syllabus.niigata-u.ac.jp/syllabusHtml/2022/06/06_222S1526_ja
 
 location: 新潟大学 理学部
 
-summary: "第2ターム月曜3限・木曜4限"
+summary: "第2ターム月曜3限・木曜<font color="Red">*4*</font>限"
 # abstract: ""
 
 date: "2022-06-13"

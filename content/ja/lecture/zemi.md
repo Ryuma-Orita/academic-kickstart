@@ -6,7 +6,7 @@ location: 新潟大学 理学部・大学院自然科学研究科
 summary: "B4: 4名（2021年度）"
 # abstract: ""
 
-date: "2021-04-01"
+date: "2022-04-01"
 date_end: "2023-03-31"
 all_day: true
 

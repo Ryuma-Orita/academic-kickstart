@@ -60,5 +60,6 @@ John W. Milnor 著「Morse Theory」Princeton University Press
 15. 道の空間全体の位相その２
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/EtqCEYG62_4)
 16. 非共役点の存在
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/RWZePI7gZp8)
 17. 位相と曲率の間の幾つかの関係その１
 18. 位相と曲率の間の幾つかの関係その２

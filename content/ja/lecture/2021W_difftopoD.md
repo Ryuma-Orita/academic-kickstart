@@ -62,4 +62,5 @@ John W. Milnor 著「Morse Theory」Princeton University Press
 16. 非共役点の存在
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/RWZePI7gZp8)
 17. 位相と曲率の間の幾つかの関係その１
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/vuax1EIMrqc)
 18. 位相と曲率の間の幾つかの関係その２

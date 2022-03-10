@@ -9,7 +9,7 @@ summary: "D向け，第2学期木曜3限"
 # abstract: ""
 
 date: "2021-10-07"
-date_end: "2022-02-10"
+date_end: "2022-03-10"
 all_day: true
 tag: "2021W"
 
@@ -64,3 +64,4 @@ John W. Milnor 著「Morse Theory」Princeton University Press
 17. 位相と曲率の間の幾つかの関係その１
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/vuax1EIMrqc)
 18. 位相と曲率の間の幾つかの関係その２
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/qSFjIttARPo)

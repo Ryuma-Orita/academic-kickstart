@@ -3,7 +3,7 @@ title: ゼミ
 
 location: 新潟大学 理学部・大学院自然科学研究科
 
-summary: "B4: 4名（2021年度）"
+summary: "M1: 3名，B4: 4名（2022年度）"
 # abstract: ""
 
 date: "2022-04-01"
@@ -20,10 +20,14 @@ profile: false  # Show author profile?
 ## 2022年度
 
 ### M1
+- YY
+- KK
+- KY
 
 ### B4
-- YN, KY: An Introduction to Manifolds（L. Tu 著）
-- RC: Algebraic Topology（A. Hatcher 著）
+- KO
+- YN, KY: An Introduction to Manifolds（Loring W. Tu 著）
+- RC: Algebraic Topology（Allen Hatcher 著）
 
 ## 2021年度
 
@@ -76,7 +80,7 @@ profile: false  # Show author profile?
 	[12/22](https://youtu.be/kbc1YjrTzpc)
 	[1/19](https://youtu.be/PXwrUqAoztg)
 	[2/2](https://youtu.be/74mhXUWtBNs)
-- KY: Algebraic Topology（A. Hatcher 著）
+- KY: Algebraic Topology（Allen Hatcher 著）
 	4/21
 	[5/7](https://youtu.be/XV8rfGFiT8A)
 	[5/26](https://youtu.be/VtBF3tr2XEA)

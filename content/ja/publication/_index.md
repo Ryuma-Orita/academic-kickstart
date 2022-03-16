@@ -1,5 +1,5 @@
 ---
-title: 論文
+title: 論文等
 
 # View.
 #   1 = List

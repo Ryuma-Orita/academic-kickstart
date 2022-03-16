@@ -1,9 +1,9 @@
 +++
-title = "要点明解 線形数学 三訂版"
-authors = ["田中 環", "小島 秀雄", "星 明考", "admin", "印南 信宏", "吉原 久夫"]
-date = "2022-04-01"
-publication = "培風館"
-#publication_short = "培風館"
+title = "Linear Mathematics 3rd Edition (Japanese)"
+authors = ["Tamaki Tanaka", "Hideo Kojima", "Akinari Hoshi", "admin", "Nobuhiro Innami", "Hisao Yoshihara"]
+date = "2022-03-01"
+publication = "Baifukan"
+#publication_short = "Baifukan"
 
 featured = false
 
@@ -26,11 +26,11 @@ profile = false  # Show author profile?
 # 8 = Patent (v4.2+ required)
 publication_types = ["5"]
 
-abstract = "自然科学系の学生向けの線形代数の教科書。使う側の立場から，論理的厳密性よりは何を学んでいるのかがわかるよう，多くの図・例題などを盛り込み，ていねいに解説する。なお，改訂にあたっては，旧版の特徴を生かしつつ，行列を初めて学ぶ学生にもわかりやすいよう書きあらためるとともに，「行列の対角化」については，２回の授業で行列の対角化計算ができるように工夫すると同時に，対称行列の直交対角化が本書だけで理解できるように証明を与えている。"
+abstract = "A textbook of linear algebra for students in the natural sciences. From the user's point of view, the text is carefully explained with many diagrams and examples so that students can understand what they are learning rather than the logical rigor of the subject. In addition, the book has been rewritten to make it easier to understand for students who are learning matrices for the first time while maintaining the features of the previous edition, and to enable students to perform diagonalization of matrices in two lessons. Proofs are given so that the reader can understand the results. (Translated with www.DeepL.com/Translator (free version))"
 #abstract_short = ""
 
 links = [
-  {icon = "book", icon_pack = "fas", name = "出版社のページ", url = "http://www.baifukan.co.jp/"},
+  {icon = "book", icon_pack = "fas", name = "Publisher Page", url = "http://www.baifukan.co.jp/"},
   ]
 
 # Featured image thumbnail (optional)

@@ -31,6 +31,7 @@ profile: false  # Show author profile?
 
 **講義内容**
 1. パラメータづけられた可微分曲線
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/eDMQbN6N-iY)
 2. 演習
 3. 正則曲線，弧長
 4. 演習

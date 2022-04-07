@@ -24,19 +24,20 @@ profile: false  # Show author profile?
 - Ana Cannas da Silva 著「Lectures on Symplectic Geometry」Springer
 
 **講義内容**
-1. シンプレクティック形式
-2. 余接束上のシンプレクティック形式
-3. ラグランジュ部分多様体
-4. Generating Functions
-5. Recurrence
-6. 局所理論への準備
-7. Moserの定理
-8. Darboux-Moser-Weinstein理論
-9. Weinsteinの管状近傍定理
-10. 接触形式
-11. 接触力学系
-12. 概複素構造
-13. Compatible Triples
-14. Dolbeault理論
+1. シンプレクティックベクトル空間
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/5LlySBB_iPY)
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
 15. 
 16. 

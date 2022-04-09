@@ -30,7 +30,7 @@ abstract = "自然科学系の学生向けの線形代数の教科書。使う�
 #abstract_short = ""
 
 links = [
-  {icon = "book", icon_pack = "fas", name = "出版社のページ", url = "http://www.baifukan.co.jp/"},
+  {icon = "book", icon_pack = "fas", name = "出版社のページ", url = "http://www.baifukan.co.jp/cgi-bin/db/baifu_new_search.pl?ISBN=4-563-01241-6"},
   ]
 
 # Featured image thumbnail (optional)

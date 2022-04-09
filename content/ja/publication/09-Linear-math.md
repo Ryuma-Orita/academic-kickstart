@@ -1,7 +1,7 @@
 +++
 title = "要点明解 線形数学 三訂版"
 authors = ["田中 環", "小島 秀雄", "星 明考", "admin", "印南 信宏", "吉原 久夫"]
-date = "2022-04-08"
+date = "2022-04-01"
 publication = "培風館"
 #publication_short = "培風館"
 

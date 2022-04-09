@@ -1,7 +1,7 @@
 +++
 title = "Linear Mathematics, Third Edition (Japanese)"
 authors = ["Tamaki Tanaka", "Hideo Kojima", "Akinari Hoshi", "admin", "Nobuhiro Innami", "Hisao Yoshihara"]
-date = "2022-04-08"
+date = "2022-04-01"
 publication = "Baifukan"
 #publication_short = "Baifukan"
 

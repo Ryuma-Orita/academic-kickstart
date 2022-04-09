@@ -26,7 +26,7 @@ profile = false  # Show author profile?
 # 8 = Patent (v4.2+ required)
 publication_types = ["5"]
 
-abstract = "A textbook of linear algebra for students in the natural sciences. From the user's point of view, the text is carefully explained with many diagrams and examples so that students can understand what they are learning rather than the logical rigor of the subject. In addition, the book has been rewritten to make it easier to understand for students who are learning matrices for the first time while maintaining the features of the previous edition, and to enable students to perform diagonalization of matrices in two lessons. Proofs are given so that the reader can understand the results. (Translated with www.DeepL.com/Translator (free version))"
+abstract = "This textbook for beginners summarizes the basic content of linear algebra that students specializing in the field of natural science should know. The book is designed to meet the needs of those who use linear algebra in the field, namely, to first learn mathematics "as a tool," "as a language for describing phenomena," and "for immediate use," omitting proofs and the like as much as possible and not being too concerned with logical rigor, while keeping the main points of linear algebra easy to understand. The book is explained in the following manner. In the third edition, a new chapter has been added to explain what vectors are. (Translated with www.DeepL.com/Translator (free version))"
 #abstract_short = ""
 
 links = [

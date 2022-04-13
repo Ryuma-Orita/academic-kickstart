@@ -33,6 +33,7 @@ profile: false  # Show author profile?
 1. パラメータづけられた可微分曲線
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/eDMQbN6N-iY)
 2. 演習
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/6uOiOYdYosg)
 3. 正則曲線，弧長
 4. 演習
 5. 曲線の曲率

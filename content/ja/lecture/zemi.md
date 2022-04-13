@@ -22,12 +22,16 @@ profile: false  # Show author profile?
 ### M1
 - YY
 - KK
+	[4/12]()
 - KY
+	[4/12]()
 
 ### B4
 - KO
 - YN, KY: An Introduction to Manifolds（Loring W. Tu 著）
+	[4/11](https://youtu.be/16GjdmD549I)
 - RC: Algebraic Topology（Allen Hatcher 著）
+	[4/11](https://youtu.be/PARFjvoAgho)
 
 ## 2021年度
 

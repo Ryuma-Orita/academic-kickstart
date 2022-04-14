@@ -35,6 +35,7 @@ profile: false  # Show author profile?
 2. 演習
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/6uOiOYdYosg)
 3. 正則曲線，弧長
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/F73NAJHGneQ)
 4. 演習
 5. 曲線の曲率
 6. 演習

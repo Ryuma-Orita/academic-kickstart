@@ -26,7 +26,8 @@ profile: false  # Show author profile?
 **講義内容**
 1. シンプレクティックベクトル空間
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/5LlySBB_iPY)
-2. 
+2. シンプレクティック多様体，余接束
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/F4oo7XLoI9U)
 3. 
 4. 
 5. 

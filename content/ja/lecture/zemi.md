@@ -30,8 +30,10 @@ profile: false  # Show author profile?
 - KO
 - YN, KY: An Introduction to Manifolds（Loring W. Tu 著）
 	[4/11](https://youtu.be/16GjdmD549I)
+	[4/18](https://youtu.be/C_sTGTZola8)
 - RC: Algebraic Topology（Allen Hatcher 著）
 	[4/11](https://youtu.be/PARFjvoAgho)
+	[4/18](https://youtu.be/XNVB7oe6Fro)
 
 ## 2021年度
 

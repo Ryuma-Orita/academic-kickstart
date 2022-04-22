@@ -28,7 +28,8 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/5LlySBB_iPY)
 2. シンプレクティック多様体，余接束
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/F4oo7XLoI9U)
-3. 
+3. Tautological 1-form と Canonical 2-form
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/E2yQgo86_yQ)
 4. 
 5. 
 6. 

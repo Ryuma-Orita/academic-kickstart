@@ -38,6 +38,7 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/F73NAJHGneQ)
 4. 演習
 5. 曲線の曲率
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/mZuo_2WAofI)
 6. 演習
 7. 曲線の捩率，Frenet–Serretの公式
 8. 演習

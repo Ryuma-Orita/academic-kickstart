@@ -33,6 +33,8 @@ profile: false  # Show author profile?
 - YN, KY: An Introduction to Manifolds（Loring W. Tu 著）
 	[4/11](https://youtu.be/16GjdmD549I)
 	[4/18](https://youtu.be/C_sTGTZola8)
+	[4/25a](https://youtu.be/HVD-WmZN2kk)
+	[4/25b]()
 - RC: Algebraic Topology（Allen Hatcher 著）
 	[4/11](https://youtu.be/PARFjvoAgho)
 	[4/18](https://youtu.be/XNVB7oe6Fro)

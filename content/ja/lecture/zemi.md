@@ -24,9 +24,11 @@ profile: false  # Show author profile?
 	[4/19](https://youtu.be/vFfSOraSgzM)
 - KK
 	[4/12](https://youtu.be/NftPHvxnO0U)
+	[4/26](https://youtu.be/et28g5RvbQA)
 - KY
 	[4/12H](https://youtu.be/L5StMVywf38)
 	[4/19M](https://youtu.be/SyJMf3kYgow)
+	[4/26H](https://youtu.be/Sf1-wgkPEfc)
 
 ### B4
 - KO

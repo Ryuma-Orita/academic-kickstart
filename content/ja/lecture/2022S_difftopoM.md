@@ -30,7 +30,8 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/F4oo7XLoI9U)
 3. Tautological 1-form と Canonical 2-form
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/E2yQgo86_yQ)
-4. 
+4. 余接束のラグランジュ部分多様体
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/QpVl1kr0dZQ)
 5. 
 6. 
 7. 

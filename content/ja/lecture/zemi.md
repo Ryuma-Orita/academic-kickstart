@@ -30,7 +30,7 @@ profile: false  # Show author profile?
 	[4/12H](https://youtu.be/L5StMVywf38)
 	[4/19M](https://youtu.be/SyJMf3kYgow)
 	[4/26H](https://youtu.be/Sf1-wgkPEfc)
-	[5/10M]()
+	[5/10M](https://youtu.be/EB9_aXNHMFA)
 
 ### B4
 - KO

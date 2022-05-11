@@ -44,6 +44,7 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/oj2XgePrleY)
 8. 演習
 9. 空間曲線の基本定理
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/IfzoLSxcIcQ)
 10. 演習
 11. Jordanの閉曲線定理
 12. 演習

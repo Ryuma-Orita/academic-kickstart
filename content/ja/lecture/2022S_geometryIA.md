@@ -46,9 +46,10 @@ profile: false  # Show author profile?
 9. 空間曲線の基本定理
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/IfzoLSxcIcQ)
 10. 演習
-11. Jordanの閉曲線定理
+11. Jordanの閉曲線定理，回転指数定理
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/PjwdbfCLTc8)
 12. 演習
-13. 回転指数定理，4頂点定理
+13. 4頂点定理
 14. 演習
-15. 4頂点定理の証明，等周不等式
+15. 等周不等式
 16. ターム末試験とまとめ

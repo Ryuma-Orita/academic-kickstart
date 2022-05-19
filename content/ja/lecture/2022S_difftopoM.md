@@ -32,10 +32,11 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/E2yQgo86_yQ)
 4. 余接束のラグランジュ部分多様体
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/QpVl1kr0dZQ)
-5. 余法束，シンプレクティック同相写像の母関数
+5. 余法束，シンプレクティック同相写像の構成
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/qO0aGdS7_kM)
-6. 
-7. 
+6. 母関数の方法，測地流への応用
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/mAHcxYJGwEs)
+7. 周期点，ビリヤード，再帰
 8. 
 9. 
 10. 

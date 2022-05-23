@@ -50,6 +50,7 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/PjwdbfCLTc8)
 12. 演習
 13. 4頂点定理
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/KLN8SxmmVzs)
 14. 演習
 15. 等周不等式
 16. ターム末試験とまとめ

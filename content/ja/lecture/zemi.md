@@ -23,6 +23,7 @@ profile: false  # Show author profile?
 - YY
 	[4/19](https://youtu.be/vFfSOraSgzM)
 	[5/10](https://youtu.be/A1Xet7jRM_g)
+	[5/24](https://youtu.be/Ft7FaWuVXAI)
 - KK
 	[4/12](https://youtu.be/NftPHvxnO0U)
 	[4/26](https://youtu.be/et28g5RvbQA)
@@ -33,6 +34,7 @@ profile: false  # Show author profile?
 	[4/26H](https://youtu.be/Sf1-wgkPEfc)
 	[5/10M](https://youtu.be/EB9_aXNHMFA)
 	[5/17H](https://youtu.be/fKbImI16msM)
+	[5/24M](https://youtu.be/iTpCnfSfQBU)
 
 ### B4
 - KO

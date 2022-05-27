@@ -37,6 +37,7 @@ profile: false  # Show author profile?
 6. 母関数の方法，測地流への応用
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/mAHcxYJGwEs)
 7. 周期点，ビリヤード，再帰
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/sG_Me2xdKzE)
 8. 
 9. 
 10. 

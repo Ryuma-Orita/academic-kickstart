@@ -52,5 +52,6 @@ profile: false  # Show author profile?
 13. 4頂点定理
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/KLN8SxmmVzs)
 14. 演習
-15. 等周不等式
+15. 等周問題，内接長方形問題
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/VCuBxpw8LZg)
 16. ターム末試験とまとめ

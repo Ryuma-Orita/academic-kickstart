@@ -53,6 +53,7 @@ profile: false  # Show author profile?
 	[5/2](https://youtu.be/f1O6nxcMOos)
 	[5/9](https://youtu.be/IsA6Srcp0Fs)
 	[5/24](https://youtu.be/_W8bXdq4ifc)
+	[5/30](https://youtu.be/9U_SRH26-30)
 
 ## 2021年度
 

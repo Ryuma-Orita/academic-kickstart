@@ -38,7 +38,8 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/mAHcxYJGwEs)
 7. 周期点，ビリヤード，再帰
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/sG_Me2xdKzE)
-8. 
+8. イソトピーと時間依存ベクトル場，Lie微分
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/8Jsjc9aF9h4)
 9. 
 10. 
 11. 

@@ -19,6 +19,11 @@ profile: false  # Show author profile?
 ---
 ## 2022年度
 
+- 折田
+	[6/6a](https://youtu.be/Aj0m83gpPgo)
+	[6/6b](https://youtu.be/Cwtx5oB6Yvc)
+
+
 ### M1
 - YY
 	[4/19](https://youtu.be/vFfSOraSgzM)

@@ -40,7 +40,8 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/sG_Me2xdKzE)
 8. イソトピーと時間依存ベクトル場，Lie微分
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/8Jsjc9aF9h4)
-9. 
+9. 内部積，Cartanの公式，ハミルトン微分同相写像
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/MoQlAArxzzY)
 10. 
 11. 
 12. 

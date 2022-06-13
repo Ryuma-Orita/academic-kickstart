@@ -56,6 +56,7 @@ profile: false  # Show author profile?
 	[5/9](https://youtu.be/4g9QAHjOr9M)
 	[5/16a](https://youtu.be/WUy2bWQz2eE)
 	[5/16b](https://youtu.be/GhZUGdMkm3Y)
+	[6/14](https://youtu.be/c4IjCA9U2K0)
 - RC: Algebraic Topology（Allen Hatcher 著）
 	[4/11](https://youtu.be/PARFjvoAgho)
 	[4/18](https://youtu.be/XNVB7oe6Fro)
@@ -63,6 +64,7 @@ profile: false  # Show author profile?
 	[5/9](https://youtu.be/IsA6Srcp0Fs)
 	[5/23](https://youtu.be/_W8bXdq4ifc)
 	[5/30](https://youtu.be/9U_SRH26-30)
+	[6/14](https://youtu.be/5vF1pUSr3ug)
 
 ## 2021年度
 

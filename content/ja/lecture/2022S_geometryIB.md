@@ -33,7 +33,8 @@ profile: false  # Show author profile?
 
 **講義内容**
 1. 曲面とは何か
-2. 演習
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/nOfyO0dyh4A)
+~~2. 演習~~
 3. 第一基本形式その１（定義）
 4. 演習
 5. 第一基本形式その２（面積，長さと角度）

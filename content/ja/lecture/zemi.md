@@ -22,6 +22,7 @@ profile: false  # Show author profile?
 - 折田
 	[6/6a](https://youtu.be/Aj0m83gpPgo)
 	[6/6b](https://youtu.be/Cwtx5oB6Yvc)
+	[6/14](https://youtu.be/zMXAifQ49kM)
 
 
 ### M1
@@ -30,6 +31,7 @@ profile: false  # Show author profile?
 	[5/10](https://youtu.be/A1Xet7jRM_g)
 	[5/24](https://youtu.be/Ft7FaWuVXAI)
 	[6/7](https://youtu.be/xoc7U9KsDq0)
+	[6/14](https://youtu.be/Fy9WL5xSGI0)
 - KK
 	[4/12](https://youtu.be/NftPHvxnO0U)
 	[4/26](https://youtu.be/et28g5RvbQA)
@@ -44,6 +46,7 @@ profile: false  # Show author profile?
 	[5/24M](https://youtu.be/iTpCnfSfQBU)
 	[5/31H](https://youtu.be/OFmuc4WWR-8)
 	[6/7M](https://youtu.be/TFbBbgTx_kk)
+	[6/14M](https://youtu.be/gngRxC1JNp4)
 
 ### B4
 - KO

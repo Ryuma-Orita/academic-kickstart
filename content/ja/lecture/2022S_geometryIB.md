@@ -36,6 +36,7 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/nOfyO0dyh4A)
 2. ~~演習~~
 3. 第一基本形式その１（定義）
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/5eW94zmbI94)
 4. 演習
 5. 第一基本形式その２（面積，長さと角度）
 6. 演習

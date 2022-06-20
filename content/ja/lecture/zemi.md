@@ -59,7 +59,9 @@ profile: false  # Show author profile?
 	[5/9](https://youtu.be/4g9QAHjOr9M)
 	[5/16a](https://youtu.be/WUy2bWQz2eE)
 	[5/16b](https://youtu.be/GhZUGdMkm3Y)
-	[6/14](https://youtu.be/c4IjCA9U2K0)
+	[6/13](https://youtu.be/c4IjCA9U2K0)
+	[6/20a](https://youtu.be/aN6iRPW0lVE)
+	[6/20b](https://youtu.be/sxiZKGR2Llw)
 - RC: Algebraic Topology（Allen Hatcher 著）
 	[4/11](https://youtu.be/PARFjvoAgho)
 	[4/18](https://youtu.be/XNVB7oe6Fro)

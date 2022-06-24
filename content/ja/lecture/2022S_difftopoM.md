@@ -42,7 +42,8 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/8Jsjc9aF9h4)
 9. 内部積，Cartanの公式，ハミルトン微分同相写像
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/MoQlAArxzzY)
-10. 
+10. Moser Trick
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/YCNKtZ51HXk)
 11. 
 12. 
 13. 

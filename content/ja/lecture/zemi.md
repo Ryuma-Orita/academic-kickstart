@@ -24,7 +24,6 @@ profile: false  # Show author profile?
 	[6/6b](https://youtu.be/Cwtx5oB6Yvc)
 	[6/14](https://youtu.be/zMXAifQ49kM)
 
-
 ### M1
 - YY
 	[4/19](https://youtu.be/vFfSOraSgzM)
@@ -64,6 +63,8 @@ profile: false  # Show author profile?
 	[6/13](https://youtu.be/c4IjCA9U2K0)
 	[6/20a](https://youtu.be/aN6iRPW0lVE)
 	[6/20b](https://youtu.be/sxiZKGR2Llw)
+	[6/27a](https://youtu.be/-UJsydr_GcE)
+	[6/27b](https://youtu.be/HL0DFlIAyjM)
 - RC: Algebraic Topology（Allen Hatcher 著）
 	[4/11](https://youtu.be/PARFjvoAgho)
 	[4/18](https://youtu.be/XNVB7oe6Fro)

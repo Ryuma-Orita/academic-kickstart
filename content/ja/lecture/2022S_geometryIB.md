@@ -42,6 +42,7 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/3CIwCPKqh04)
 6. 演習
 7. 第二基本形式その１（定義，曲率）
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/WO2_5JGDOMo)
 8. 演習
 9. 第二基本形式その２（例）
 10. 演習

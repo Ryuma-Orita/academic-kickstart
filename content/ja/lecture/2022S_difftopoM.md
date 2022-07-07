@@ -46,7 +46,8 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/YCNKtZ51HXk)
 11. Moser安定性，Moserイソトピー，Darbouxの定理
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/lqF47JtkGXk)
-12. 
+12. Weinsteinのラグランジアン近傍定理
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/pw3Rqi1ZCd8)
 13. 
 14. 
 15. 

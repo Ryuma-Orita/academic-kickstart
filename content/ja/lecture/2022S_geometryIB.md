@@ -44,7 +44,8 @@ profile: false  # Show author profile?
 7. 第二基本形式その１（定義，曲率）
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/WO2_5JGDOMo)
 8. 演習
-9. 第二基本形式その２（例）
+9. 第二基本形式その２（例，不変性）
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/drGzS7Hz4Ok)
 10. 演習
 11. 主方向・漸近方向
 12. 演習

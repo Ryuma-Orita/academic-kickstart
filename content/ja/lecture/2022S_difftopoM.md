@@ -48,7 +48,8 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/lqF47JtkGXk)
 12. Weinsteinのラグランジアン近傍定理
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/pw3Rqi1ZCd8)
-13. 
+13. Weinsteinの管状近傍定理，シンプレクティック微分同相群の接空間
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/cIfnJuKYcDo)
 14. 
 15. 
 16. 

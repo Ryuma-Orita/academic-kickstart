@@ -32,6 +32,7 @@ profile: false  # Show author profile?
 	[6/7](https://youtu.be/xoc7U9KsDq0)
 	[6/14](https://youtu.be/Fy9WL5xSGI0)
 	[7/5](https://youtu.be/FRvzXtzsfvo)
+	[7/19](https://youtu.be/HdYZiV5X5N0)
 - KK
 	[4/12](https://youtu.be/NftPHvxnO0U)
 	[4/26](https://youtu.be/et28g5RvbQA)
@@ -39,6 +40,7 @@ profile: false  # Show author profile?
 	[5/31](https://youtu.be/3s2lMorVtJg)
 	[6/21](https://youtu.be/DFpuv9D3kfk)
 	[6/28](https://youtu.be/RqdwWc_X8QE)
+	[7/12](https://youtu.be/V9a40Yyza5Y)
 - KY
 	[4/12H](https://youtu.be/L5StMVywf38)
 	[4/19M](https://youtu.be/SyJMf3kYgow)
@@ -52,6 +54,8 @@ profile: false  # Show author profile?
 	[6/21H](https://youtu.be/Ep0B15JVUaw)
 	[6/28H](https://youtu.be/w2yLY2bEd_Q)
 	[7/5M](https://youtu.be/v1W2YE8dQII)
+	[7/12H](https://youtu.be/PnTTQUz18ts)
+	[7/19H](https://youtu.be/lDVjdE61-5g)
 
 ### B4
 - KO

@@ -47,7 +47,8 @@ profile: false  # Show author profile?
 9. 第二基本形式その２（例，不変性）
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/drGzS7Hz4Ok)
 10. 演習
-11. 主方向
+11. 法曲率，主方向
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/5ZHBSWLW7VU)
 12. 演習
 13. 漸近方向，測地線
 14. 演習

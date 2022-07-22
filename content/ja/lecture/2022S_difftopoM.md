@@ -50,6 +50,7 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/pw3Rqi1ZCd8)
 13. Weinsteinの管状近傍定理，シンプレクティック微分同相群の接空間
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/cIfnJuKYcDo)
-14. 
+14. Arnol'd予想，非交叉配置不可能性，部分シンプレクティック擬状態
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/XDcfPSm7CrU)
 15. 
 16. 

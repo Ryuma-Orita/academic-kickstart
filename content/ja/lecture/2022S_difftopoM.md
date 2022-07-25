@@ -52,5 +52,5 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/cIfnJuKYcDo)
 14. Arnol'd予想，非交叉配置不可能性，部分シンプレクティック擬状態
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/XDcfPSm7CrU)
-15. 
-16. 
+15. 重い集合と超重い集合
+16. 独楽の運動と超重い集合

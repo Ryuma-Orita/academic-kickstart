@@ -50,7 +50,8 @@ profile: false  # Show author profile?
 11. 法曲率，主方向
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/5ZHBSWLW7VU)
 12. 演習
-13. 漸近方向，測地線
+13. 臍点，漸近方向，測地線
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/t7yVNeCVNAE)
 14. 演習
 15. Gauss–Bonnetの定理
 16. ターム末試験とまとめ

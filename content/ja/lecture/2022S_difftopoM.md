@@ -55,3 +55,4 @@ profile: false  # Show author profile?
 15. 重い集合と超重い集合
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/wdS6Y1wM6Qk)
 16. 独楽の運動と超重い集合
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/kIdBkLEa6Do)

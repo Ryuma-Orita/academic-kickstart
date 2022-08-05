@@ -53,5 +53,6 @@ profile: false  # Show author profile?
 13. 臍点，漸近方向，測地線
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/t7yVNeCVNAE)
 14. 演習
-15. Gauss–Bonnetの定理
+15. 驚異の定理，Gauss–Bonnetの定理
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/a5hLqhVsq9M)
 16. ターム末試験とまとめ

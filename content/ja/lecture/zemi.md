@@ -57,8 +57,9 @@ profile: false  # Show author profile?
 	[7/5M](https://youtu.be/v1W2YE8dQII)
 	[7/12H](https://youtu.be/PnTTQUz18ts)
 	[7/19H](https://youtu.be/lDVjdE61-5g)
-	[8/2M](https://youtu.be/3CQe0lDr-Sg)
+	[8/2MB](https://youtu.be/3CQe0lDr-Sg)
 	[8/18H](https://youtu.be/6L3rWl4xs1s)
+	[8/23MB](https://youtu.be/p3gQjsgVwFY)
 
 ### B4
 - KO

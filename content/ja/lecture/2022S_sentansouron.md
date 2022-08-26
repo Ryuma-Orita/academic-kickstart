@@ -22,5 +22,9 @@ profile: false  # Show author profile?
 ---
 **講義内容**
 1. 第1回，第2回：弾性曲線モデルの導入
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/Xvv7E1eYVro)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/n1aw3wz9m4k)
 2. 第3回～第5回：古典的な弾性曲線の分類について
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/gZK9ahmZyPY)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/TMkIQ77MYP8)
 3. 第6回～第8回：弾性曲線の変分解析や発展的問題について

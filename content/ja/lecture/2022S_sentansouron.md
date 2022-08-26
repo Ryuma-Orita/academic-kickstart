@@ -28,3 +28,6 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/gZK9ahmZyPY)
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/TMkIQ77MYP8)
 3. 第6回～第8回：弾性曲線の変分解析や発展的問題について
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/jENDV6q9XRQ)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/hgM2_AFSsEA)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/IZdPTje7ThQ)

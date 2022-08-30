@@ -42,6 +42,8 @@ profile: false  # Show author profile?
 	[6/28](https://youtu.be/RqdwWc_X8QE)
 	[7/12](https://youtu.be/V9a40Yyza5Y)
 	[8/2](https://youtu.be/J9qtIEjShtw)
+	[8/29a](https://youtu.be/gnx5VThpGoA)
+	[8/29b](https://youtu.be/o2Ec3M_JLUg)
 - KY
 	[4/12H](https://youtu.be/L5StMVywf38)
 	[4/19M](https://youtu.be/SyJMf3kYgow)

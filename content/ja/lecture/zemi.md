@@ -62,6 +62,7 @@ profile: false  # Show author profile?
 	[8/2MB](https://youtu.be/3CQe0lDr-Sg)
 	[8/18H](https://youtu.be/6L3rWl4xs1s)
 	[8/23MB](https://youtu.be/p3gQjsgVwFY)
+	[8/30H](https://youtu.be/SpmCzXKLNto)
 
 ### B4
 - KO

@@ -36,6 +36,7 @@ profile: false  # Show author profile?
 	[9/5a](https://youtu.be/Hdv_44nRIlU)
 	[9/5b](https://youtu.be/D6kixPHCbvQ)
 	[9/12](https://youtu.be/bJkyLfpJsfI)
+	[9/27](https://youtu.be/tv-DOQpW2yM)
 - KK
 	[4/12](https://youtu.be/NftPHvxnO0U)
 	[4/26](https://youtu.be/et28g5RvbQA)

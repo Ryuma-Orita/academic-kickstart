@@ -29,6 +29,7 @@ profile: false  # Show author profile?
 
 **講義内容**
 1. 多様体の定義
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/-P4HxDw7LqY)
 2. 多様体の例
 3. $C^{\\infty}$級関数，$C^{\\infty}$級写像
 4. $C^{\\infty}$級微分同相写像，方向微分

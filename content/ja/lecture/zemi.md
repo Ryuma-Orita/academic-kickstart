@@ -48,6 +48,7 @@ profile: false  # Show author profile?
 	[8/2](https://youtu.be/J9qtIEjShtw)
 	[8/29a](https://youtu.be/gnx5VThpGoA)
 	[8/29b](https://youtu.be/o2Ec3M_JLUg)
+	[9/29](https://youtu.be/F7r-YvjTtMo)
 - KY
 	[4/12H](https://youtu.be/L5StMVywf38)
 	[4/19M](https://youtu.be/SyJMf3kYgow)
@@ -90,6 +91,8 @@ profile: false  # Show author profile?
 	[7/4b](https://youtu.be/HL0DFlIAyjM)
 	[7/11](https://youtu.be/rAuS7VA7O-g)
 	[8/1](https://youtu.be/JokIQ28wKso)
+	[10/3a](https://youtu.be/CXW0fqyIzpU)
+	[10/3b](https://youtu.be/9DoRrUuwQ8o)
 - RC: Algebraic Topology（Allen Hatcher 著）
 	[4/11](https://youtu.be/PARFjvoAgho)
 	[4/18](https://youtu.be/XNVB7oe6Fro)

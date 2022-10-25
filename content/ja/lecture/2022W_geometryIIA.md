@@ -32,8 +32,9 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/-P4HxDw7LqY)
 2. 多様体の例
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/UqNKeDuLYPc)
-3. $C^{\\infty}$級関数，$C^{\\infty}$級写像
-4. $C^{\\infty}$級微分同相写像，方向微分
+3. $C^{\\infty}$級関数
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/YcZISgnvFqU)
+4. $C^{\\infty}$級写像，方向微分
 5. 接ベクトル空間
 6. $C^{\\infty}$級写像の微分
 7. 写像の局所的性質

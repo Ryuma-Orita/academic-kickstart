@@ -39,6 +39,7 @@ profile: false  # Show author profile?
 	[9/27](https://youtu.be/tv-DOQpW2yM)
 	[10/4](https://youtu.be/2yVwZexP-Gk)
 	[10/18](https://youtu.be/Gw_-prb6NnI)
+	[11/1](https://youtu.be/rV1TaOGoJkE)
 - KK
 	[4/12](https://youtu.be/NftPHvxnO0U)
 	[4/26](https://youtu.be/et28g5RvbQA)
@@ -54,6 +55,7 @@ profile: false  # Show author profile?
 	[10/11](https://youtu.be/7sA2rVVei4c)
 	[10/25a](https://youtu.be/xX_yzZPN1Vo)
 	[10/25b](https://youtu.be/OfHmUbUaUhk)
+	[11/8](https://youtu.be/EKhQAYIGtDI)
 - KY
 	[4/12H](https://youtu.be/L5StMVywf38)
 	[4/19M](https://youtu.be/SyJMf3kYgow)
@@ -79,6 +81,8 @@ profile: false  # Show author profile?
 	[10/11H](https://youtu.be/NgusNQ-8TV8)
 	[10/18M](https://youtu.be/2i08KOy1IAw)
 	[10/25H](https://youtu.be/UW-UM60XWI0)
+	[11/1](https://youtu.be/EOeWGHK4zy8)
+	[11/8](https://youtu.be/nSNL5qGGrHk)
 
 ### B4
 - KO
@@ -106,6 +110,7 @@ profile: false  # Show author profile?
 	[10/24](https://youtu.be/S4Oh4KCfrFg)
 	[10/31a](https://youtu.be/8wF-n19T8Rs)
 	[10/31b](https://youtu.be/JuiwQzbDeZg)
+	[11/7](https://youtu.be/JGo2u0QbmV0)
 - RC: Algebraic Topology（Allen Hatcher 著）
 	[4/11](https://youtu.be/PARFjvoAgho)
 	[4/18](https://youtu.be/XNVB7oe6Fro)
@@ -118,6 +123,7 @@ profile: false  # Show author profile?
 	[8/1](https://youtu.be/0aeZNhFQLts)
 	[10/17](https://youtu.be/xPxDT4tsQgs)
 	[10/24](https://youtu.be/Dn25kcnggmk)
+	[11/7](https://youtu.be/A2ldpsEJFTs)
 
 ## 2021年度
 

@@ -37,6 +37,7 @@ profile: false  # Show author profile?
 4. $C^{\\infty}$級写像，方向微分
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/x9kR2bbZOII)
 5. 接ベクトル空間
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/MVokuOab3co)
 6. $C^{\\infty}$級写像の微分
 7. 写像の局所的性質
 8. 射影空間

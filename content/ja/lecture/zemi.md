@@ -25,21 +25,6 @@ profile: false  # Show author profile?
 	[6/14](https://youtu.be/zMXAifQ49kM)
 
 ### M1
-- YY
-	[4/19](https://youtu.be/vFfSOraSgzM)
-	[5/10](https://youtu.be/A1Xet7jRM_g)
-	[5/24](https://youtu.be/Ft7FaWuVXAI)
-	[6/7](https://youtu.be/xoc7U9KsDq0)
-	[6/14](https://youtu.be/Fy9WL5xSGI0)
-	[7/5](https://youtu.be/FRvzXtzsfvo)
-	[7/19](https://youtu.be/HdYZiV5X5N0)
-	[9/5a](https://youtu.be/Hdv_44nRIlU)
-	[9/5b](https://youtu.be/D6kixPHCbvQ)
-	[9/12](https://youtu.be/bJkyLfpJsfI)
-	[9/27](https://youtu.be/tv-DOQpW2yM)
-	[10/4](https://youtu.be/2yVwZexP-Gk)
-	[10/18](https://youtu.be/Gw_-prb6NnI)
-	[11/1](https://youtu.be/rV1TaOGoJkE)
 - KK
 	[4/12](https://youtu.be/NftPHvxnO0U)
 	[4/26](https://youtu.be/et28g5RvbQA)
@@ -83,9 +68,40 @@ profile: false  # Show author profile?
 	[10/25H](https://youtu.be/UW-UM60XWI0)
 	[11/1](https://youtu.be/EOeWGHK4zy8)
 	[11/8](https://youtu.be/nSNL5qGGrHk)
+	[11/15](https://youtu.be/MjdD7MST8OY)
+- YY
+	[4/19](https://youtu.be/vFfSOraSgzM)
+	[5/10](https://youtu.be/A1Xet7jRM_g)
+	[5/24](https://youtu.be/Ft7FaWuVXAI)
+	[6/7](https://youtu.be/xoc7U9KsDq0)
+	[6/14](https://youtu.be/Fy9WL5xSGI0)
+	[7/5](https://youtu.be/FRvzXtzsfvo)
+	[7/19](https://youtu.be/HdYZiV5X5N0)
+	[9/5a](https://youtu.be/Hdv_44nRIlU)
+	[9/5b](https://youtu.be/D6kixPHCbvQ)
+	[9/12](https://youtu.be/bJkyLfpJsfI)
+	[9/27](https://youtu.be/tv-DOQpW2yM)
+	[10/4](https://youtu.be/2yVwZexP-Gk)
+	[10/18](https://youtu.be/Gw_-prb6NnI)
+	[11/1](https://youtu.be/rV1TaOGoJkE)
+	[11/15](https://youtu.be/rVMTOz2Llk4)
 
 ### B4
 - KO
+- RC: Algebraic Topology（Allen Hatcher 著）
+	[4/11](https://youtu.be/PARFjvoAgho)
+	[4/18](https://youtu.be/XNVB7oe6Fro)
+	[5/2](https://youtu.be/f1O6nxcMOos)
+	[5/9](https://youtu.be/IsA6Srcp0Fs)
+	[5/23](https://youtu.be/_W8bXdq4ifc)
+	[5/30](https://youtu.be/9U_SRH26-30)
+	[6/13](https://youtu.be/5vF1pUSr3ug)
+	[7/11](https://youtu.be/Ybw1GGGTl04)
+	[8/1](https://youtu.be/0aeZNhFQLts)
+	[10/17](https://youtu.be/xPxDT4tsQgs)
+	[10/24](https://youtu.be/Dn25kcnggmk)
+	[11/7](https://youtu.be/A2ldpsEJFTs)
+	[11/14](https://youtu.be/_4AbUEGQsRU)
 - YN, KY: An Introduction to Manifolds（Loring W. Tu 著）
 	[4/11](https://youtu.be/16GjdmD549I)
 	[4/18](https://youtu.be/C_sTGTZola8)
@@ -111,19 +127,7 @@ profile: false  # Show author profile?
 	[10/31a](https://youtu.be/8wF-n19T8Rs)
 	[10/31b](https://youtu.be/JuiwQzbDeZg)
 	[11/7](https://youtu.be/JGo2u0QbmV0)
-- RC: Algebraic Topology（Allen Hatcher 著）
-	[4/11](https://youtu.be/PARFjvoAgho)
-	[4/18](https://youtu.be/XNVB7oe6Fro)
-	[5/2](https://youtu.be/f1O6nxcMOos)
-	[5/9](https://youtu.be/IsA6Srcp0Fs)
-	[5/23](https://youtu.be/_W8bXdq4ifc)
-	[5/30](https://youtu.be/9U_SRH26-30)
-	[6/13](https://youtu.be/5vF1pUSr3ug)
-	[7/11](https://youtu.be/Ybw1GGGTl04)
-	[8/1](https://youtu.be/0aeZNhFQLts)
-	[10/17](https://youtu.be/xPxDT4tsQgs)
-	[10/24](https://youtu.be/Dn25kcnggmk)
-	[11/7](https://youtu.be/A2ldpsEJFTs)
+	[11/14](https://youtu.be/PfwgCphjOno)
 
 ## 2021年度
 

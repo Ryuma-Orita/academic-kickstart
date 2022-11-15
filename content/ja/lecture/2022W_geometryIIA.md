@@ -39,5 +39,6 @@ profile: false  # Show author profile?
 5. 接ベクトル空間
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/MVokuOab3co)
 6. $C^{\\infty}$級写像の微分
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/F9eu4GAwBJU)
 7. 写像の局所的性質
 8. 射影空間

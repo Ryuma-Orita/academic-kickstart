@@ -128,6 +128,8 @@ profile: false  # Show author profile?
 	[10/31b](https://youtu.be/JuiwQzbDeZg)
 	[11/7](https://youtu.be/JGo2u0QbmV0)
 	[11/14](https://youtu.be/PfwgCphjOno)
+	[11/21a](https://youtu.be/3Yo56PtmF6E)
+	[11/21b](https://youtu.be/RkFCwZZl0iY)
 
 ## 2021年度
 

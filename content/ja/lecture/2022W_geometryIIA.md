@@ -43,3 +43,4 @@ profile: false  # Show author profile?
 7. $C^{\\infty}$級写像の微分の例，写像の局所的性質その１
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/pnK3Xw7WLwA)
 8. 写像の局所的性質その２，射影空間
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/3M4ddRKrHQU)

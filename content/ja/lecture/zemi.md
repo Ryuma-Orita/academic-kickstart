@@ -108,6 +108,7 @@ profile: false  # Show author profile?
 	[11/7](https://youtu.be/A2ldpsEJFTs)
 	[11/14](https://youtu.be/_4AbUEGQsRU)
 	[11/28](https://youtu.be/Oo1w1QYuJSk)
+	[12/5](https://youtu.be/QgA_PA6UFyc)
 - YN, KY: An Introduction to Manifolds（Loring W. Tu 著）
 	[4/11](https://youtu.be/16GjdmD549I)
 	[4/18](https://youtu.be/C_sTGTZola8)
@@ -137,6 +138,7 @@ profile: false  # Show author profile?
 	[11/21a](https://youtu.be/3Yo56PtmF6E)
 	[11/21b](https://youtu.be/RkFCwZZl0iY)
 	[11/28](https://youtu.be/XMVrkPw62_A)
+	[12/5](https://youtu.be/4MuvkADvgDM)
 
 ## 2021年度
 

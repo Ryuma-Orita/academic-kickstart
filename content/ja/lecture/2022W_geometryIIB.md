@@ -32,6 +32,7 @@ profile: false  # Show author profile?
 
 **講義内容**
 1. はめ込みと埋め込み
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/sH0Fnr7dfD8)
 2. 埋め込み定理，１の分割
 3. 正則点と臨界点
 4. ベクトル場その１

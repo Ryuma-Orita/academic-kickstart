@@ -42,6 +42,7 @@ profile: false  # Show author profile?
 	[10/25b](https://youtu.be/OfHmUbUaUhk)
 	[11/8](https://youtu.be/EKhQAYIGtDI)
 	[11/22](https://youtu.be/WJS4V7i66ns)
+	[12/6](https://youtu.be/t8_d73mGD3I)
 - KY
 	[4/12H](https://youtu.be/L5StMVywf38)
 	[4/19M](https://youtu.be/SyJMf3kYgow)
@@ -72,6 +73,7 @@ profile: false  # Show author profile?
 	[11/15](https://youtu.be/MjdD7MST8OY)
 	[11/22](https://youtu.be/49lXPOxgf78)
 	[11/29](https://youtu.be/sp9n-5dfMbc)
+	[12/6](https://youtu.be/gOcAkfsPChk)
 - YY
 	[4/19](https://youtu.be/vFfSOraSgzM)
 	[5/10](https://youtu.be/A1Xet7jRM_g)
@@ -139,6 +141,8 @@ profile: false  # Show author profile?
 	[11/21b](https://youtu.be/RkFCwZZl0iY)
 	[11/28](https://youtu.be/XMVrkPw62_A)
 	[12/5](https://youtu.be/4MuvkADvgDM)
+	[12/12a](https://youtu.be/x07FfRhczdQ)
+	[12/12b](https://youtu.be/sVDvJvlJdhQ)
 
 ## 2021年度
 

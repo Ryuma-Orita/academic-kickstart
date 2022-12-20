@@ -23,6 +23,9 @@ profile: false  # Show author profile?
 	[6/6a](https://youtu.be/Aj0m83gpPgo)
 	[6/6b](https://youtu.be/Cwtx5oB6Yvc)
 	[6/14](https://youtu.be/zMXAifQ49kM)
+	[12/19a](https://youtu.be/vPulEO06y6c)
+	[12/19b](https://youtu.be/oSZBBPDVa08)
+	[12/19c](https://youtu.be/jrKfXx9wPxk)
 
 ### M1
 - KK

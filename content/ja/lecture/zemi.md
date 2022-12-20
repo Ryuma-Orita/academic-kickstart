@@ -77,6 +77,7 @@ profile: false  # Show author profile?
 	[11/22](https://youtu.be/49lXPOxgf78)
 	[11/29](https://youtu.be/sp9n-5dfMbc)
 	[12/6](https://youtu.be/gOcAkfsPChk)
+	[12/15](https://youtu.be/U0PKBKABgtk)
 - YY
 	[4/19](https://youtu.be/vFfSOraSgzM)
 	[5/10](https://youtu.be/A1Xet7jRM_g)
@@ -95,6 +96,7 @@ profile: false  # Show author profile?
 	[11/15](https://youtu.be/rVMTOz2Llk4)
 	[11/29a](https://youtu.be/ebVfwtGBuGE)
 	[11/29b](https://youtu.be/c81bZcaBoHI)
+	[12/15](https://youtu.be/i1KeJZl1eIQ)
 
 ### B4
 - KO

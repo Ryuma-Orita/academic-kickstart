@@ -36,6 +36,7 @@ profile: false  # Show author profile?
 2. 埋め込み定理，１の分割
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/u2EDZC48OrI)
 3. 正則点と臨界点
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/empXWbrxRUM)
 4. ベクトル場その１
 5. ベクトル場その２
 6. 微分形式その１

@@ -7,10 +7,10 @@ summary: "M1: 3名，B4: 4名（2022年度）"
 # abstract: ""
 
 date: "2022-04-01"
-date_end: "2023-03-31"
+date_end: "2024-03-31"
 all_day: true
 
-publishDate: "2021-02-01T00:00:00Z"
+publishDate: "2022-02-01T00:00:00Z"
 
 # authors: ["admin"]
 

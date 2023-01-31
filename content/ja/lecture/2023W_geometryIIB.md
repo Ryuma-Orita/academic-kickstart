@@ -1,5 +1,5 @@
 ---
-title: 幾何学IIB
+title: 幾何学IIB (2023)
 event: シラバス
 event_url: ""
 

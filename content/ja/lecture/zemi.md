@@ -103,6 +103,7 @@ profile: false  # Show author profile?
 	[11/29b](https://youtu.be/c81bZcaBoHI)
 	[12/15](https://youtu.be/i1KeJZl1eIQ)
 	[1/17](https://youtu.be/ip6grvY8Uhw)
+	[1/31](https://youtu.be/Af2eV8IVqA4)
 
 ### B4
 - KO

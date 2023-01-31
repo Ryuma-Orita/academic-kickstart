@@ -47,6 +47,7 @@ profile: false  # Show author profile?
 	[11/22](https://youtu.be/WJS4V7i66ns)
 	[12/6](https://youtu.be/t8_d73mGD3I)
 	[1/10](https://youtu.be/gbLgi1m0PUo)
+	[1/24](https://youtu.be/SdkWo--E4v4)
 - KY
 	[4/12H](https://youtu.be/L5StMVywf38)
 	[4/19M](https://youtu.be/SyJMf3kYgow)
@@ -81,6 +82,7 @@ profile: false  # Show author profile?
 	[12/15](https://youtu.be/U0PKBKABgtk)
 	[1/10](https://youtu.be/GS5KsMnuyV0)
 	[1/17](https://youtu.be/mWmupoVKZ6M)
+	[1/24](https://youtu.be/XRte8MyNjNg)
 - YY
 	[4/19](https://youtu.be/vFfSOraSgzM)
 	[5/10](https://youtu.be/A1Xet7jRM_g)
@@ -121,6 +123,7 @@ profile: false  # Show author profile?
 	[11/28](https://youtu.be/Oo1w1QYuJSk)
 	[12/5](https://youtu.be/QgA_PA6UFyc)
 	[12/26](https://youtu.be/Mrwey4-qKe8)
+	[1/23](https://youtu.be/NCe6MPFcfUI)
 - YN, KY: An Introduction to Manifolds（Loring W. Tu 著）
 	[4/11](https://youtu.be/16GjdmD549I)
 	[4/18](https://youtu.be/C_sTGTZola8)
@@ -154,6 +157,9 @@ profile: false  # Show author profile?
 	[12/12a](https://youtu.be/x07FfRhczdQ)
 	[12/12b](https://youtu.be/sVDvJvlJdhQ)
 	[12/26](https://youtu.be/icl9Kr64b9I)
+	[1/23](https://youtu.be/75-3bqglnoo)
+	[1/30a](https://youtu.be/n7yYPv1_hn4)
+	[1/30b](https://youtu.be/z_5Yx7CnEcE)
 
 ## 2021年度
 

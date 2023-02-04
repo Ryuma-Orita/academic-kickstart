@@ -1,7 +1,7 @@
 ---
 title: 幾何学IB
 event: シラバス
-event_url: ""
+event_url: "https://syllabus.niigata-u.ac.jp/syllabusHtml/2023/06/06_232S1526_ja_JP.html"
 
 location: 新潟大学 理学部
 

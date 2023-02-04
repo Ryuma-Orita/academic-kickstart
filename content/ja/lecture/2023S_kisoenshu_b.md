@@ -1,7 +1,7 @@
 ---
 title: 数学基礎演習b
 event: シラバス
-event_url: ""
+event_url: "https://syllabus.niigata-u.ac.jp/syllabusHtml/2023/06/06_232S0516_ja_JP.html"
 
 location: 新潟大学 理学部
 

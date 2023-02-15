@@ -46,3 +46,4 @@ profile: false  # Show author profile?
 7. 微分形式その２
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/gLIB6C8wEWc)
 8. 微分形式その３
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/DLsl1O2iO6Y)

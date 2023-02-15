@@ -19,6 +19,9 @@ profile: false  # Show author profile?
 ---
 ## 2022年度
 
+- Mathematical Methods of Classical Mechanics（Vladimir I. Arnold 著）
+	[2/14](https://youtu.be/gvKVgNMdbPw)
+
 - 折田
 	[6/6a](https://youtu.be/Aj0m83gpPgo)
 	[6/6b](https://youtu.be/Cwtx5oB6Yvc)
@@ -85,6 +88,7 @@ profile: false  # Show author profile?
 	[1/17](https://youtu.be/mWmupoVKZ6M)
 	[1/24](https://youtu.be/XRte8MyNjNg)
 	[2/7](https://youtu.be/KyK-8_Vvccw)
+	[2/14](https://youtu.be/PXSl-iA-71A)
 - YY
 	[4/19](https://youtu.be/vFfSOraSgzM)
 	[5/10](https://youtu.be/A1Xet7jRM_g)

@@ -1,7 +1,7 @@
 ---
 title: 微分位相幾何学特論
 event: シラバス
-event_url: ""
+event_url: "https://syllabus.niigata-u.ac.jp/syllabusHtml/2023/28/28_230F3163_ja_JP.html"
 
 location: 新潟大学 大学院自然科学研究科
 
@@ -21,5 +21,11 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
 **テキスト**
+- J. W. Milnor and J. D. Stashef "Characteristic Classes" Annals of Mathematics Studies
 
 **講義内容**
+1. 可微分多様体
+2. ベクトル束
+3. Stiefel-Whitney類
+4. Grassmann多様体と普遍束
+5. 有向束とEuler類，Chern類，Pontryagin類

@@ -21,6 +21,8 @@ profile: false  # Show author profile?
 
 - Mathematical Methods of Classical Mechanics（Vladimir I. Arnold 著）
 	[2/14](https://youtu.be/gvKVgNMdbPw)
+	[2/21](https://youtu.be/y1AVovIZnQI)
+	[3/7](https://youtu.be/siTLbT1zYQ4)
 
 - 折田
 	[6/6a](https://youtu.be/Aj0m83gpPgo)
@@ -28,6 +30,7 @@ profile: false  # Show author profile?
 	[6/14](https://youtu.be/zMXAifQ49kM)
 	[12/19a](https://youtu.be/vPulEO06y6c)
 	[12/19b](https://youtu.be/oSZBBPDVa08)
+	[12/19c](https://youtu.be/jrKfXx9wPxk)
 	[12/19c](https://youtu.be/jrKfXx9wPxk)
 
 ### M1
@@ -89,6 +92,8 @@ profile: false  # Show author profile?
 	[1/24](https://youtu.be/XRte8MyNjNg)
 	[2/7](https://youtu.be/KyK-8_Vvccw)
 	[2/14](https://youtu.be/PXSl-iA-71A)
+	[2/21](https://youtu.be/LoFcR5-9pgw)
+	[3/7](https://youtu.be/6CKYOnq_OAo)
 - YY
 	[4/19](https://youtu.be/vFfSOraSgzM)
 	[5/10](https://youtu.be/A1Xet7jRM_g)

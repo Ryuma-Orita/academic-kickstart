@@ -23,6 +23,7 @@ profile: false  # Show author profile?
 	[2/14](https://youtu.be/gvKVgNMdbPw)
 	[2/21](https://youtu.be/y1AVovIZnQI)
 	[3/7](https://youtu.be/siTLbT1zYQ4)
+	[3/14](https://youtu.be/K1EFxN0QXts)
 
 - 折田
 	[6/6a](https://youtu.be/Aj0m83gpPgo)

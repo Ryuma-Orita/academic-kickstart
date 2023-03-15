@@ -1,7 +1,7 @@
 ---
 title: 自然科学総論Ⅰ
 event: シラバス
-event_url: ""
+event_url: "https://syllabus.niigata-u.ac.jp/syllabusHtml/2023/28/28_230F3001_ja_JP.html"
 
 location: 新潟大学 大学院自然科学研究科
 

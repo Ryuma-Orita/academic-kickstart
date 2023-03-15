@@ -1,5 +1,5 @@
 ---
-title: 幾何学IIB (2023)
+title: 幾何学IIB
 event: シラバス
 event_url: "https://syllabus.niigata-u.ac.jp/syllabusHtml/2023/06/06_234S1542_ja_JP.html"
 

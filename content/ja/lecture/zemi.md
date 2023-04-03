@@ -3,7 +3,7 @@ title: ゼミ
 
 location: 新潟大学 理学部・大学院自然科学研究科
 
-summary: "M1: 3名，B4: 4名（2022年度）"
+summary: "M2: 3名，M1: 1名，B4: 6名（2023年度）"
 # abstract: ""
 
 date: "2023-04-01"
@@ -17,13 +17,29 @@ publishDate: "2022-02-01T00:00:00Z"
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
-## 2022年度
+## 2023年度
 
 - Mathematical Methods of Classical Mechanics（Vladimir I. Arnold 著）
 	[2/14](https://youtu.be/gvKVgNMdbPw)
 	[2/21](https://youtu.be/y1AVovIZnQI)
 	[3/7](https://youtu.be/siTLbT1zYQ4)
 	[3/14](https://youtu.be/K1EFxN0QXts)
+
+### M2
+- KK
+- KY
+- YY
+
+### M1
+- KY
+
+### B4
+- KO
+- RS, SY: Algebraic Topology（Allen Hatcher 著）
+- YS, TH: Morse理論の基礎（松本幸夫 著）
+- SE: 結び目の理論（河内明夫 著）
+
+## 2022年度
 
 - 折田
 	[6/6a](https://youtu.be/Aj0m83gpPgo)

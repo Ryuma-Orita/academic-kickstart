@@ -33,6 +33,7 @@ profile: false  # Show author profile?
 
 **講義内容**
 1. 曲線とは何か
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/zHiM90e5Jto)
 2. 曲率
 3. Frenetの公式
 4. 平面曲線の基本定理，4頂点定理

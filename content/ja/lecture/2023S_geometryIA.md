@@ -37,6 +37,7 @@ profile: false  # Show author profile?
 2. 曲率
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/-5Ydw2paLtw)
 3. Frenetの公式
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/m2qwrfxpcc0)
 4. 平面曲線の基本定理，4頂点定理
 5. 空間曲線
 6. 中間試験

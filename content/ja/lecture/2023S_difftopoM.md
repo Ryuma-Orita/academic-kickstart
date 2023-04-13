@@ -26,7 +26,8 @@ profile: false  # Show author profile?
 **講義内容**
 1. 可微分多様体
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/qwZcJfz-5zM)
-2. ベクトル束
-3. Stiefel-Whitney類
-4. Grassmann多様体と普遍束
-5. 有向束とEuler類，Chern類，Pontryagin類
+2. ベクトル束その１（定義，例）
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/1DR3CIgUQdo)
+- Stiefel-Whitney類
+- Grassmann多様体と普遍束
+- 有向束とEuler類，Chern類，Pontryagin類

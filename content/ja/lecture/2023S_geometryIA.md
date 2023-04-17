@@ -39,6 +39,7 @@ profile: false  # Show author profile?
 3. Frenetの公式
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/m2qwrfxpcc0)
 4. 平面曲線の基本定理，4頂点定理
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/62Z7NXuDzAI)
 5. 空間曲線
 6. 中間試験
 7. 曲面とは何か

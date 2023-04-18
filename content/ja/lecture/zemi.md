@@ -19,25 +19,33 @@ profile: false  # Show author profile?
 ---
 ## 2023年度
 
+### M2
+- KK
+	[4/18](https://youtu.be/dH6ZNh0tB00)
+- KY
+	[4/11](https://youtu.be/_zm-zHka1iw)
+- YY
+
+### M1
+- KY
+	[4/11](https://youtu.be/uYyZkOuBykc)
+	[4/18](https://youtu.be/f_0wHjgKFmM)
+
+### B4
+- KO
+- RS, SY: Algebraic Topology（Allen Hatcher 著）
+	[4/10a](https://youtu.be/TpH7QtV-Css)
+	[4/10b](https://youtu.be/3BIzfBtCuVo)
+- YS, TH: Morse理論の基礎（松本幸夫 著）
+	[4/17a](https://youtu.be/MfC_B9R7YVI)
+	[4/17b](https://youtu.be/3zSVTCdqAO8)
+- SE: 結び目の理論（河内明夫 著）
 - Mathematical Methods of Classical Mechanics（Vladimir I. Arnold 著）
 	[2/14](https://youtu.be/gvKVgNMdbPw)
 	[2/21](https://youtu.be/y1AVovIZnQI)
 	[3/7](https://youtu.be/siTLbT1zYQ4)
 	[3/14](https://youtu.be/K1EFxN0QXts)
-
-### M2
-- KK
-- KY
-- YY
-
-### M1
-- KY
-
-### B4
-- KO
-- RS, SY: Algebraic Topology（Allen Hatcher 著）
-- YS, TH: Morse理論の基礎（松本幸夫 著）
-- SE: 結び目の理論（河内明夫 著）
+	[4/18](https://youtu.be/0rQ4Pd7xdW8)
 
 ## 2022年度
 

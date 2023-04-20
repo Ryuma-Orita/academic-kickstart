@@ -28,6 +28,8 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/qwZcJfz-5zM)
 2. ベクトル束その１（定義，例）
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/1DR3CIgUQdo)
+3. ベクトル束その２（標準直線束，切断）
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/uv_nfuRVr34)
 - Stiefel-Whitney類
 - Grassmann多様体と普遍束
 - 有向束とEuler類，Chern類，Pontryagin類

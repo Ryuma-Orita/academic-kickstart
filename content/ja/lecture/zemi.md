@@ -36,10 +36,12 @@ profile: false  # Show author profile?
 - RS, SY: Algebraic Topology（Allen Hatcher 著）
 	[4/10a](https://youtu.be/TpH7QtV-Css)
 	[4/10b](https://youtu.be/3BIzfBtCuVo)
+	[4/24](https://youtu.be/smacQjU34tA)
 - YS, TH: Morse理論の基礎（松本幸夫 著）
 	[4/17a](https://youtu.be/MfC_B9R7YVI)
 	[4/17b](https://youtu.be/3zSVTCdqAO8)
 - SE: 結び目の理論（河内明夫 著）
+	[4/24](https://youtu.be/UsFbK8EsY0M)
 - Mathematical Methods of Classical Mechanics（Vladimir I. Arnold 著）
 	[2/14](https://youtu.be/gvKVgNMdbPw)
 	[2/21](https://youtu.be/y1AVovIZnQI)

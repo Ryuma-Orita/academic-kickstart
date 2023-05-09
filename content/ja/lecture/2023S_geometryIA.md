@@ -44,6 +44,7 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/tL19shtM08Q)
 6. 中間試験
 7. 曲面とは何か
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/6NzEQNBWC_A)
 8. 第一基本形式その１（定義）
 9. 第一基本形式その２（面積，長さと角度）
 10. 第二基本形式その１（定義，曲率）

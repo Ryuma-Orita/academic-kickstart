@@ -46,7 +46,9 @@ profile: false  # Show author profile?
 7. 曲面とは何か
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/6NzEQNBWC_A)
 8. 第一基本形式その１（定義）
-9. 第一基本形式その２（面積，長さと角度）
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/o1d5nUnQImU)
+9. 第一基本形式その２（面積，長さ）
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/-El-dCoCqkE)
 10. 第二基本形式その１（定義，曲率）
 11. 第二基本形式その２（例，不変性）
 12. 法曲率

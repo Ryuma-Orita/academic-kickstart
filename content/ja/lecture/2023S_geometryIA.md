@@ -52,6 +52,7 @@ profile: false  # Show author profile?
 10. 第一基本形式その３（角度，地図），第二基本形式その１（定義）
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/x2n_U7_LtlY)
 11. 第二基本形式その２（曲率，不変性）
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/7Uii5E60ccI)
 12. 法曲率
 13. 主曲率
 14. 測地線

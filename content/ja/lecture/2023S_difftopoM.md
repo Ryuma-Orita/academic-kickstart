@@ -34,6 +34,8 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/nJxyOKU3aB4)
 5. ベクトル束その４（Whitney和，直交補空間束）
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/9ia4yKVCjLQ)
+6. 特異ホモロジーとコホモロジー（基本的定義，カップ積）
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/vwW-yCSydwU)
 - Stiefel-Whitney類
 - Grassmann多様体と普遍束
 - 有向束とEuler類，Chern類，Pontryagin類

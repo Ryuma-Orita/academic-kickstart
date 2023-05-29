@@ -53,8 +53,9 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/x2n_U7_LtlY)
 11. 第二基本形式その２（曲率，不変性）
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/7Uii5E60ccI)
-12. 第二基本形式その３（Weingartenの公式），法曲率
+12. 第二基本形式その３（Weingartenの公式），法曲率の定義
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/O5eB2Zl8364)
-13. 主曲率，測地線
+13. 法曲率と主曲率，測地線
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/xgs26JLORMk)
 14. 驚異の定理，Gauss-Bonnetの定理
 15. ターム末試験とまとめ

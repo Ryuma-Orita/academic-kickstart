@@ -58,4 +58,5 @@ profile: false  # Show author profile?
 13. 法曲率と主曲率，測地線
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/xgs26JLORMk)
 14. 驚異の定理，Gauss-Bonnetの定理
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/iSWH9BS-ihw)
 15. ターム末試験とまとめ

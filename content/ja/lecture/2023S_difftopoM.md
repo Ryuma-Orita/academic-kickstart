@@ -36,6 +36,9 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/9ia4yKVCjLQ)
 6. 特異ホモロジーとコホモロジー（基本的定義，カップ積）
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/vwW-yCSydwU)
-- Stiefel-Whitney類
+7. Stiefel-Whitney類その１
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/dlIR8Bnzx3A)
+8. Stiefel-Whitney類その２
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/2F_fwvNxJeg)
 - Grassmann多様体と普遍束
 - 有向束とEuler類，Chern類，Pontryagin類

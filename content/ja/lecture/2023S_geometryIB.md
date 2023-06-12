@@ -36,7 +36,8 @@ profile: false  # Show author profile?
 **講義内容**
 1. 位相空間
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/AVtP3n4EoFs)
-2. 閉曲面と連結和
+2. 商空間，閉曲面と連結和
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/w-Btzrqw2YU)
 3. 閉曲面の分類
 4. 単体，複体，多面体
 5. 群

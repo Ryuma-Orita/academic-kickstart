@@ -39,6 +39,7 @@ profile: false  # Show author profile?
 2. 商空間，閉曲面と連結和
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/w-Btzrqw2YU)
 3. 閉曲面の分類
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/0Oqu1nw41HQ)
 4. 単体，複体，多面体
 5. 群
 6. 鎖群とホモロジー群

@@ -42,10 +42,11 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/0Oqu1nw41HQ)
 4. 単体，複体
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/QoQ1HRi8ya8)
-5. 骨格，多面体，群
+5. 骨格，多面体，群論その１
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/PETVJ_fcWFk)
-6. 鎖群とホモロジー群
-7. 計算演習
+6. 群論その２，有向単体
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/PLPXKkXFAIM)
+7. チェイン群とホモロジー群
 8. 中間試験
 9. 単体写像と鎖準同型写像
 10. 多面体のホモロジー群

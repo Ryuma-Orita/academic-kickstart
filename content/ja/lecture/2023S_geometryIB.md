@@ -47,6 +47,7 @@ profile: false  # Show author profile?
 6. 群論その２，有向単体
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/PLPXKkXFAIM)
 7. チェイン群とホモロジー群
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/hHELBqp7MJo)
 8. 中間試験
 9. 単体写像と鎖準同型写像
 10. 多面体のホモロジー群

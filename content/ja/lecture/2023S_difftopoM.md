@@ -46,5 +46,6 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/brNFHnj9mDI)
 11. Grassmann多様体その２
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/zZ1xN2uMA6Y)
-- Grassmann多様体と普遍束
+12. Grassmann多様体その３，普遍束
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/rEhpj-nz9lQ)
 - 有向束とEuler類，Chern類，Pontryagin類

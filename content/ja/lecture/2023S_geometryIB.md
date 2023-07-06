@@ -49,7 +49,8 @@ profile: false  # Show author profile?
 7. チェイン群とホモロジー群
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/hHELBqp7MJo)
 8. 中間試験
-9. 単体写像と鎖準同型写像
+9. ホモロジー群の計算，単体写像
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/ZfFdJJq7Slw)
 10. 多面体のホモロジー群
 11. Euler数
 12. Mayer-Vietoris完全系列

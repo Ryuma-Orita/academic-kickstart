@@ -42,5 +42,10 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/2F_fwvNxJeg)
 9. Stiefel-Whitney類その３
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/V0-pwf0547Y)
-- Grassmann多様体と普遍束
+10. Stiefel-Whitney類その４，Grassmann多様体その１
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/brNFHnj9mDI)
+11. Grassmann多様体その２
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/zZ1xN2uMA6Y)
+12. Grassmann多様体その３，普遍束
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/rEhpj-nz9lQ)
 - 有向束とEuler類，Chern類，Pontryagin類

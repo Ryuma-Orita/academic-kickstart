@@ -23,14 +23,19 @@ profile: false  # Show author profile?
 - KK
 	[4/18](https://youtu.be/dH6ZNh0tB00)
 	[5/16](https://youtu.be/lM0Imp3-QQE)
+	[5/16](https://youtu.be/lM0Imp3-QQE)
+	[7/4](https://youtu.be/lQlL2c_fkzo)
 - KY
 	[4/11](https://youtu.be/_zm-zHka1iw)
 	[5/9](https://youtu.be/0OGcATB_Hl4)
 	[5/23](https://youtu.be/9-R5kULspYg)
+	[6/27a](https://youtu.be/ZxV3m5po5qU)
+	[6/27b](https://youtu.be/YfQUwAXZ_ig)
 - YY
 	[5/9](https://youtu.be/CctpL2GFv-A)
 	[5/30a](https://youtu.be/7FLqCXfwV-c)
 	[5/30b](https://youtu.be/U0RzezgwSoo)
+	[7/4](https://youtu.be/8LjblOOfzkY)
 
 ### M1
 - KY
@@ -50,6 +55,9 @@ profile: false  # Show author profile?
 	[5/22](https://youtu.be/_4eNSRC9ojI)
 	[5/29](https://youtu.be/EAz2UOy8jac)
 	[6/12](https://youtu.be/-a8_dsXqeLg)
+	6/19
+	[6/26](https://youtu.be/cocUkWXLd6k)
+	[7/3](https://youtu.be/2-7GnixBeQw)
 - YS, TH: Morse理論の基礎（松本幸夫 著）
 	[4/17a](https://youtu.be/MfC_B9R7YVI)
 	[4/17b](https://youtu.be/3zSVTCdqAO8)
@@ -58,10 +66,13 @@ profile: false  # Show author profile?
 	[5/29](https://youtu.be/GcndTeI_vdw)
 	[6/5](https://youtu.be/X-I0suSW56o)
 	[6/12](https://youtu.be/mZDo6h1RdwU)
+	6/19
+	[7/3](https://youtu.be/o2EZRSE-4Eo)
 - SE: 結び目の理論（河内明夫 著）
 	[4/24](https://youtu.be/smacQjU34tA)
 	[5/22](https://youtu.be/s_aHCSblLpM)
 	[6/5](https://youtu.be/0sOjjgKBrd0)
+	[6/26](https://youtu.be/q3_NcdNy-2o)
 - Mathematical Methods of Classical Mechanics（Vladimir I. Arnold 著）
 	[2/14](https://youtu.be/gvKVgNMdbPw)
 	[2/21](https://youtu.be/y1AVovIZnQI)

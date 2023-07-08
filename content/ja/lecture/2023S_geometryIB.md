@@ -51,10 +51,10 @@ profile: false  # Show author profile?
 8. 中間試験
 9. ホモロジー群の計算，単体写像
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/ZfFdJJq7Slw)
-10. 多面体のホモロジー群
-11. Euler数
-12. Mayer-Vietoris完全系列
-13. 閉曲面のホモロジー群
-14. パーシステントホモロジー群
-15. タンパク質
+10. チェイン準同型写像，多面体のホモロジー群
+11. ホモトピー
+12. Euler数
+13. Mayer-Vietoris完全系列
+14. 閉曲面のホモロジー群
+15. パーシステントホモロジー群とタンパク質構造
 16. ターム末試験とまとめ

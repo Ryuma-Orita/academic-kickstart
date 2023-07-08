@@ -40,7 +40,8 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/w-Btzrqw2YU)
 3. 閉曲面の分類
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/0Oqu1nw41HQ)
-4. 単体，複体，多面体
+4. 単体，複体
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/QoQ1HRi8ya8)
 5. 群
 6. 鎖群とホモロジー群
 7. 計算演習

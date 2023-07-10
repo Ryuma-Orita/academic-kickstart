@@ -68,11 +68,13 @@ profile: false  # Show author profile?
 	[6/12](https://youtu.be/mZDo6h1RdwU)
 	[6/19](https://youtu.be/N9QPd8UyKlc)
 	[7/3](https://youtu.be/o2EZRSE-4Eo)
+	[7/10](https://youtu.be/PZlHdTT_SQA)
 - SE: 結び目の理論（河内明夫 著）
 	[4/24](https://youtu.be/smacQjU34tA)
 	[5/22](https://youtu.be/s_aHCSblLpM)
 	[6/5](https://youtu.be/0sOjjgKBrd0)
 	[6/26](https://youtu.be/q3_NcdNy-2o)
+	[7/10](https://youtu.be/Xif_O93RFVY)
 - Mathematical Methods of Classical Mechanics（Vladimir I. Arnold 著）
 	[2/14](https://youtu.be/gvKVgNMdbPw)
 	[2/21](https://youtu.be/y1AVovIZnQI)

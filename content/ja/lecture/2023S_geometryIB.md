@@ -51,9 +51,9 @@ profile: false  # Show author profile?
 8. 中間試験
 9. ホモロジー群の計算，単体写像
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/ZfFdJJq7Slw)
-10. チェイン準同型写像，多面体のホモロジー群その１（定義）
+10. チェイン準同型写像，多面体のホモロジー群その１（定義），ホモトピー
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/6HfMNDhDV1k)
-11. ホモトピー，多面体のホモロジー群その２（ホモトピー不変性）
+11. 多面体のホモロジー群その２（ホモトピー不変性）
 12. Euler数，ホモロジー群と準同型写像
 13. Mayer-Vietoris完全系列
 14. 閉曲面のホモロジー群

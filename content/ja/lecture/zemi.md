@@ -31,7 +31,8 @@ profile: false  # Show author profile?
 	[5/23](https://youtu.be/9-R5kULspYg)
 	[6/27a](https://youtu.be/ZxV3m5po5qU)
 	[6/27b](https://youtu.be/YfQUwAXZ_ig)
-- YY
+	[7/11](https://youtu.be/MMiLiWI0u_U)
+-YY
 	[5/9](https://youtu.be/CctpL2GFv-A)
 	[5/30a](https://youtu.be/7FLqCXfwV-c)
 	[5/30b](https://youtu.be/U0RzezgwSoo)
@@ -44,6 +45,7 @@ profile: false  # Show author profile?
 	[5/16](https://youtu.be/adQHiV-VVAE)
 	[5/23](https://youtu.be/3itpYHAZ8xk)
 	[6/13](https://youtu.be/kEtpguZ6Q24)
+	[7/11](https://youtu.be/y3EnWIH3iiY)
 
 ### B4
 - KO

@@ -48,4 +48,6 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/zZ1xN2uMA6Y)
 12. Grassmann多様体その３，普遍束
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/rEhpj-nz9lQ)
+13. 分類写像，特性類
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/0Ac4fp18Ddo)
 - 有向束とEuler類，Chern類，Pontryagin類

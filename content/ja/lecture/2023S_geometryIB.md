@@ -54,6 +54,7 @@ profile: false  # Show author profile?
 10. チェイン準同型写像，多面体のホモロジー群その１（定義），ホモトピー
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/6HfMNDhDV1k)
 11. 多面体のホモロジー群その２（ホモトピー不変性）
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/1ELnomgy9aE)
 12. Euler数，ホモロジー群と準同型写像
 13. Mayer-Vietoris完全系列
 14. 閉曲面のホモロジー群

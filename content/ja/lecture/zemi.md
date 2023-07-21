@@ -62,6 +62,7 @@ profile: false  # Show author profile?
 	[6/19](https://youtu.be/7H_W_-lHkTY)
 	[6/26](https://youtu.be/cocUkWXLd6k)
 	[7/3](https://youtu.be/2-7GnixBeQw)
+	[7/20](https://youtu.be/LCZwyohneZc)
 - YS, TH: Morse理論の基礎（松本幸夫 著）
 	[4/17a](https://youtu.be/MfC_B9R7YVI)
 	[4/17b](https://youtu.be/3zSVTCdqAO8)

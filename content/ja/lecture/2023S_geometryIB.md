@@ -58,6 +58,7 @@ profile: false  # Show author profile?
 12. Euler数，ホモロジー群と準同型写像
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/z5dL9tomc48)
 13. Mayer-Vietoris完全系列
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/GhInVKww9fk)
 14. 閉曲面のホモロジー群
 15. パーシステントホモロジー群とタンパク質構造
 16. ターム末試験とまとめ

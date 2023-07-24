@@ -56,6 +56,7 @@ profile: false  # Show author profile?
 11. 多面体のホモロジー群その２（ホモトピー不変性）
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/1ELnomgy9aE)
 12. Euler数，ホモロジー群と準同型写像
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/z5dL9tomc48)
 13. Mayer-Vietoris完全系列
 14. 閉曲面のホモロジー群
 15. パーシステントホモロジー群とタンパク質構造

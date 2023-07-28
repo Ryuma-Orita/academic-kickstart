@@ -60,5 +60,6 @@ profile: false  # Show author profile?
 13. Mayer-Vietoris完全系列
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/GhInVKww9fk)
 14. 閉曲面のホモロジー群
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/UOi-fjp3jxc)
 15. パーシステントホモロジー群とタンパク質構造
 16. ターム末試験とまとめ

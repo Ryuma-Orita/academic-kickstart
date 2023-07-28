@@ -50,4 +50,5 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/rEhpj-nz9lQ)
 13. 分類写像，特性類
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/0Ac4fp18Ddo)
-- 有向束とEuler類，Chern類，Pontryagin類
+14. H*(Gr;Z/2Z)，Pontryagin類，Euler類，Chern類
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/fWmaVBo0Af4)

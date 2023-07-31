@@ -62,4 +62,5 @@ profile: false  # Show author profile?
 14. 閉曲面のホモロジー群
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/UOi-fjp3jxc)
 15. パーシステントホモロジー群とタンパク質構造
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/qBvtyFuBNcg)
 16. ターム末試験とまとめ

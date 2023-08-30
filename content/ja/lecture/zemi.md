@@ -26,6 +26,9 @@ profile: false  # Show author profile?
 	[5/16](https://youtu.be/lM0Imp3-QQE)
 	[7/4](https://youtu.be/lQlL2c_fkzo)
 	[8/1](https://youtu.be/f0lZC0IZzA4)
+	[8/9](https://youtu.be/CtMIX8Lfo_0)
+	[8/24](https://youtu.be/lS4aiINzXBI)
+	[8/29](https://youtu.be/CA6aZ8PPlvg)
 - KY
 	[4/11](https://youtu.be/_zm-zHka1iw)
 	[5/9](https://youtu.be/0OGcATB_Hl4)
@@ -36,6 +39,9 @@ profile: false  # Show author profile?
 	[7/18](https://youtu.be/f7lINa735a0)
 	[7/25](https://youtu.be/wJRVgXd8vA8)
 	[8/1](https://youtu.be/TZYzn0oQUg8)
+	[8/9](https://youtu.be/TCYAZcDp_eU)
+	[8/24](https://youtu.be/iTJJ-0Zr6h4)
+	[8/29](https://youtu.be/ypDHKyTPnxM)
 - YY
 	[5/9](https://youtu.be/CctpL2GFv-A)
 	[5/30a](https://youtu.be/7FLqCXfwV-c)
@@ -43,6 +49,8 @@ profile: false  # Show author profile?
 	[7/4](https://youtu.be/8LjblOOfzkY)
 	[7/18](https://youtu.be/GlrVDGxZfSo)
 	[8/1](https://youtu.be/gX35SKjGkHQ)
+	[8/9](https://youtu.be/ScOpfqSduQ0)
+	[8/24](https://youtu.be/A_kq0yh0cl8)
 
 ### M1
 - KY

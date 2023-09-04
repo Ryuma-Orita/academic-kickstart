@@ -29,6 +29,7 @@ profile: false  # Show author profile?
 	[8/9](https://youtu.be/CtMIX8Lfo_0)
 	[8/24](https://youtu.be/lS4aiINzXBI)
 	[8/29](https://youtu.be/CA6aZ8PPlvg)
+	[9/4](https://youtu.be/Dm1n7NifvuY)
 - KY
 	[4/11](https://youtu.be/_zm-zHka1iw)
 	[5/9](https://youtu.be/0OGcATB_Hl4)
@@ -42,6 +43,7 @@ profile: false  # Show author profile?
 	[8/9](https://youtu.be/TCYAZcDp_eU)
 	[8/24](https://youtu.be/iTJJ-0Zr6h4)
 	[8/29](https://youtu.be/ypDHKyTPnxM)
+	[9/4](https://youtu.be/dTbBNH4Ej34)
 - YY
 	[5/9](https://youtu.be/CctpL2GFv-A)
 	[5/30a](https://youtu.be/7FLqCXfwV-c)

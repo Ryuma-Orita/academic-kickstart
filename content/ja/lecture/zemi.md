@@ -19,6 +19,9 @@ profile: false  # Show author profile?
 ---
 ## 2023年度
 
+- 折田
+	[9/19](https://youtu.be/iSVb2upt5eY)
+	
 ### M2
 - KK
 	[4/18](https://youtu.be/dH6ZNh0tB00)
@@ -30,6 +33,8 @@ profile: false  # Show author profile?
 	[8/24](https://youtu.be/lS4aiINzXBI)
 	[8/29](https://youtu.be/CA6aZ8PPlvg)
 	[9/4](https://youtu.be/Dm1n7NifvuY)
+	[9/13](https://youtu.be/RqaApalHgXw)
+	[9/19](https://youtu.be/k-6mcKXh9qc)
 - KY
 	[4/11](https://youtu.be/_zm-zHka1iw)
 	[5/9](https://youtu.be/0OGcATB_Hl4)
@@ -44,6 +49,8 @@ profile: false  # Show author profile?
 	[8/24](https://youtu.be/iTJJ-0Zr6h4)
 	[8/29](https://youtu.be/ypDHKyTPnxM)
 	[9/4](https://youtu.be/dTbBNH4Ej34)
+	[9/13](https://youtu.be/87IifNBK8Yk)
+	[9/19](https://youtu.be/jX0lx03exBM)
 - YY
 	[5/9](https://youtu.be/CctpL2GFv-A)
 	[5/30a](https://youtu.be/7FLqCXfwV-c)
@@ -53,6 +60,7 @@ profile: false  # Show author profile?
 	[8/1](https://youtu.be/gX35SKjGkHQ)
 	[8/9](https://youtu.be/ScOpfqSduQ0)
 	[8/24](https://youtu.be/A_kq0yh0cl8)
+	[9/13](https://youtu.be/fXzK5KmWmlA)
 
 ### M1
 - KY
@@ -65,7 +73,7 @@ profile: false  # Show author profile?
 	[7/25](https://youtu.be/yhxLfyAAMXE)
 
 ### B4
-- KO
+- KO（2023年9月20日卒業）
 - RS, SY: Algebraic Topology（Allen Hatcher 著）
 	[4/10a](https://youtu.be/TpH7QtV-Css)
 	[4/10b](https://youtu.be/3BIzfBtCuVo)

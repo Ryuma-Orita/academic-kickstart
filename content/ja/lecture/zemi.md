@@ -21,6 +21,8 @@ profile: false  # Show author profile?
 
 - 折田
 	[9/19](https://youtu.be/iSVb2upt5eY)
+	[9/22a](https://youtu.be/Y40cansPQdo)
+	[9/22b](https://youtu.be/pgseqxQa430)
 	
 ### M2
 - KK

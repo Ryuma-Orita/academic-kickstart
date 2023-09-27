@@ -53,6 +53,8 @@ profile: false  # Show author profile?
 	[9/4](https://youtu.be/dTbBNH4Ej34)
 	[9/13](https://youtu.be/87IifNBK8Yk)
 	[9/19](https://youtu.be/jX0lx03exBM)
+	[9/26a](https://youtu.be/dC-raZ3Y0vY)
+	[9/26b](https://youtu.be/IhoZleOwmP8)
 - YY
 	[5/9](https://youtu.be/CctpL2GFv-A)
 	[5/30a](https://youtu.be/7FLqCXfwV-c)

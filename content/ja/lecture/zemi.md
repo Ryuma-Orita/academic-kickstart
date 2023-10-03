@@ -55,6 +55,7 @@ profile: false  # Show author profile?
 	[9/19](https://youtu.be/jX0lx03exBM)
 	[9/26a](https://youtu.be/dC-raZ3Y0vY)
 	[9/26b](https://youtu.be/IhoZleOwmP8)
+	[10/3](https://youtu.be/JB6qCaZc7C4)
 - YY
 	[5/9](https://youtu.be/CctpL2GFv-A)
 	[5/30a](https://youtu.be/7FLqCXfwV-c)
@@ -65,6 +66,7 @@ profile: false  # Show author profile?
 	[8/9](https://youtu.be/ScOpfqSduQ0)
 	[8/24](https://youtu.be/A_kq0yh0cl8)
 	[9/13](https://youtu.be/fXzK5KmWmlA)
+	[10/3](https://youtu.be/V5F8kTXh9yM)
 
 ### M1
 - KY

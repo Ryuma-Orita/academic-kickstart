@@ -98,6 +98,7 @@ profile: false  # Show author profile?
 	[7/3](https://youtu.be/2-7GnixBeQw)
 	[7/20](https://youtu.be/LCZwyohneZc)
 	[7/24](https://youtu.be/JRWBF-hL2Yc)
+	[10/16](https://youtu.be/EJFrGB0tbhM)
 - YS, TH: Morse理論の基礎（松本幸夫 著）
 	[4/17a](https://youtu.be/MfC_B9R7YVI)
 	[4/17b](https://youtu.be/3zSVTCdqAO8)
@@ -117,6 +118,7 @@ profile: false  # Show author profile?
 	[6/5](https://youtu.be/0sOjjgKBrd0)
 	[6/26](https://youtu.be/q3_NcdNy-2o)
 	[7/10](https://youtu.be/Xif_O93RFVY)
+	[10/16](https://youtu.be/R7aOcAZEDfc)
 - Mathematical Methods of Classical Mechanics（Vladimir I. Arnold 著）
 	[2/14](https://youtu.be/gvKVgNMdbPw)
 	[2/21](https://youtu.be/y1AVovIZnQI)

@@ -31,6 +31,7 @@ profile: false  # Show author profile?
 1. 多様体の定義
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/6Uaoirwt4Mg)
 2. 多様体の例
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/ndRDRRRwyz8)
 3. $C^{\\infty}$級関数
 4. $C^{\\infty}$級写像，方向微分
 5. 接ベクトル空間

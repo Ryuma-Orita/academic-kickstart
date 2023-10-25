@@ -43,6 +43,7 @@ profile: false  # Show author profile?
 	[9/19](https://youtu.be/k-6mcKXh9qc)
 	[10/10](https://youtu.be/W05q2-t66JE)
 	[10/17](https://youtu.be/dUuDyeyvsuQ)
+	[10/24](https://youtu.be/uccXrxkI67s)
 - KY
 	[4/11](https://youtu.be/_zm-zHka1iw)
 	[5/9](https://youtu.be/0OGcATB_Hl4)
@@ -63,6 +64,7 @@ profile: false  # Show author profile?
 	[9/26b](https://youtu.be/IhoZleOwmP8)
 	[10/3](https://youtu.be/JB6qCaZc7C4)
 	[10/17](https://youtu.be/OWSxBSjYoX8)
+	[10/24](https://youtu.be/lU-t941UGTc)
 - YY
 	[5/9](https://youtu.be/CctpL2GFv-A)
 	[5/30a](https://youtu.be/7FLqCXfwV-c)
@@ -86,6 +88,7 @@ profile: false  # Show author profile?
 	[7/11](https://youtu.be/y3EnWIH3iiY)
 	[7/25](https://youtu.be/yhxLfyAAMXE)
 	[10/10](https://youtu.be/G-qciJEG6v4)
+	[10/24](https://youtu.be/cdqx2HU_yME)
 
 ### B4
 - KO（2023年9月20日卒業）

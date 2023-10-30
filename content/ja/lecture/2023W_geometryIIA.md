@@ -33,6 +33,7 @@ profile: false  # Show author profile?
 2. 多様体の例
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/ndRDRRRwyz8)
 3. $C^{\\infty}$級関数
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/7gFEW1ubgd4)
 4. $C^{\\infty}$級写像，方向微分
 5. 接ベクトル空間
 6. $C^{\\infty}$級写像の微分

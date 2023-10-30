@@ -27,6 +27,7 @@ profile: false  # Show author profile?
 	[10/12b](https://youtu.be/qz_UgLGPxRk)
 	[10/19](https://youtu.be/G0fMOBI9LkE)
 	[10/20](https://youtu.be/TW7hpFFXp1M)
+	[10/26](https://youtu.be/F6UD7sdU3M0)
 	
 ### M2
 - KK
@@ -107,6 +108,7 @@ profile: false  # Show author profile?
 	[7/24](https://youtu.be/JRWBF-hL2Yc)
 	[10/16](https://youtu.be/EJFrGB0tbhM)
 	[10/23](https://youtu.be/4hKz9rSJNDI)
+	[10/30](https://youtu.be/AUj-jj1N9Tk)
 - YS, TH: Morse理論の基礎（松本幸夫 著）
 	[4/17a](https://youtu.be/MfC_B9R7YVI)
 	[4/17b](https://youtu.be/3zSVTCdqAO8)
@@ -120,6 +122,7 @@ profile: false  # Show author profile?
 	[7/10](https://youtu.be/PZlHdTT_SQA)
 	[7/20](https://youtu.be/pjuBIQA_eWk)
 	[7/24](https://youtu.be/FNq7Bw_uT3Y)
+	[10/30](https://youtu.be/26YwrzFS7Yk)
 - SE: 結び目の理論（河内明夫 著）
 	[4/24](https://youtu.be/smacQjU34tA)
 	[5/22](https://youtu.be/s_aHCSblLpM)

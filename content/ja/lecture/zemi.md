@@ -31,7 +31,7 @@ profile: false  # Show author profile?
 	[11/2](https://youtu.be/3_Rb6P5zw2I)
 	
 ### M2
-- KK
+- KK: マルチパラメーターパーシステンス加群
 	[4/18](https://youtu.be/dH6ZNh0tB00)
 	[5/16](https://youtu.be/lM0Imp3-QQE)
 	[5/16](https://youtu.be/lM0Imp3-QQE)
@@ -47,7 +47,7 @@ profile: false  # Show author profile?
 	[10/17](https://youtu.be/dUuDyeyvsuQ)
 	[10/24](https://youtu.be/uccXrxkI67s)
 	[10/31](https://youtu.be/k-A-Zwz9KnM)
-- KY
+- KY: 代数的トポロジーとMorse理論
 	[4/11](https://youtu.be/_zm-zHka1iw)
 	[5/9](https://youtu.be/0OGcATB_Hl4)
 	[5/23](https://youtu.be/9-R5kULspYg)
@@ -69,7 +69,7 @@ profile: false  # Show author profile?
 	[10/17](https://youtu.be/OWSxBSjYoX8)
 	[10/24](https://youtu.be/lU-t941UGTc)
 	[10/31](https://youtu.be/yAf-CUfU-mI)
-- YY
+- YY: シンプレクティック多様体上の関数論
 	[5/9](https://youtu.be/CctpL2GFv-A)
 	[5/30a](https://youtu.be/7FLqCXfwV-c)
 	[5/30b](https://youtu.be/U0RzezgwSoo)

@@ -28,6 +28,7 @@ profile: false  # Show author profile?
 	[10/19](https://youtu.be/G0fMOBI9LkE)
 	[10/20](https://youtu.be/TW7hpFFXp1M)
 	[10/26](https://youtu.be/F6UD7sdU3M0)
+	[11/2](https://youtu.be/3_Rb6P5zw2I)
 	
 ### M2
 - KK
@@ -45,6 +46,7 @@ profile: false  # Show author profile?
 	[10/10](https://youtu.be/W05q2-t66JE)
 	[10/17](https://youtu.be/dUuDyeyvsuQ)
 	[10/24](https://youtu.be/uccXrxkI67s)
+	[10/31](https://youtu.be/k-A-Zwz9KnM)
 - KY
 	[4/11](https://youtu.be/_zm-zHka1iw)
 	[5/9](https://youtu.be/0OGcATB_Hl4)
@@ -66,6 +68,7 @@ profile: false  # Show author profile?
 	[10/3](https://youtu.be/JB6qCaZc7C4)
 	[10/17](https://youtu.be/OWSxBSjYoX8)
 	[10/24](https://youtu.be/lU-t941UGTc)
+	[10/31](https://youtu.be/yAf-CUfU-mI)
 - YY
 	[5/9](https://youtu.be/CctpL2GFv-A)
 	[5/30a](https://youtu.be/7FLqCXfwV-c)
@@ -79,6 +82,7 @@ profile: false  # Show author profile?
 	[10/3](https://youtu.be/V5F8kTXh9yM)
 	[10/10](https://youtu.be/R-PCOffYMDU)
 	[10/17](https://youtu.be/s7J-7-uSq8c)
+	[10/31](https://youtu.be/mEs_V5sZuAU)
 ### M1
 - KY
 	[4/11](https://youtu.be/uYyZkOuBykc)
@@ -123,6 +127,7 @@ profile: false  # Show author profile?
 	[7/20](https://youtu.be/pjuBIQA_eWk)
 	[7/24](https://youtu.be/FNq7Bw_uT3Y)
 	[10/30](https://youtu.be/26YwrzFS7Yk)
+	[11/1](https://youtu.be/7APooy87-88)
 - SE: 結び目の理論（河内明夫 著）
 	[4/24](https://youtu.be/smacQjU34tA)
 	[5/22](https://youtu.be/s_aHCSblLpM)

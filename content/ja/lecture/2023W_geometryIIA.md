@@ -34,7 +34,8 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/ndRDRRRwyz8)
 3. $C^{\\infty}$級関数
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/7gFEW1ubgd4)
-4. $C^{\\infty}$級写像，方向微分
+4. $C^{\\infty}$級写像
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/X5hmCcaxnxA)
 5. 接ベクトル空間
 6. $C^{\\infty}$級写像の微分
 7. $C^{\\infty}$級写像の微分の例，写像の局所的性質その１

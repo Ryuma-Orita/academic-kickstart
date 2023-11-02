@@ -84,7 +84,7 @@ profile: false  # Show author profile?
 	[10/17](https://youtu.be/s7J-7-uSq8c)
 	[10/31](https://youtu.be/mEs_V5sZuAU)
 ### M1
-- KY
+- KY: Riemann面
 	[4/11](https://youtu.be/uYyZkOuBykc)
 	[4/18](https://youtu.be/f_0wHjgKFmM)
 	[5/16](https://youtu.be/adQHiV-VVAE)

@@ -69,6 +69,7 @@ profile: false  # Show author profile?
 	[10/17](https://youtu.be/OWSxBSjYoX8)
 	[10/24](https://youtu.be/lU-t941UGTc)
 	[10/31](https://youtu.be/yAf-CUfU-mI)
+	[11/7](https://youtu.be/TOCkQpr539Q)
 - YY: シンプレクティック多様体上の関数論
 	[5/9](https://youtu.be/CctpL2GFv-A)
 	[5/30a](https://youtu.be/7FLqCXfwV-c)
@@ -83,6 +84,7 @@ profile: false  # Show author profile?
 	[10/10](https://youtu.be/R-PCOffYMDU)
 	[10/17](https://youtu.be/s7J-7-uSq8c)
 	[10/31](https://youtu.be/mEs_V5sZuAU)
+	[11/7](https://youtu.be/DCT8LeZxaXk)
 ### M1
 - KY: Riemann面
 	[4/11](https://youtu.be/uYyZkOuBykc)
@@ -94,6 +96,7 @@ profile: false  # Show author profile?
 	[7/25](https://youtu.be/yhxLfyAAMXE)
 	[10/10](https://youtu.be/G-qciJEG6v4)
 	[10/24](https://youtu.be/cdqx2HU_yME)
+	[11/7](https://youtu.be/ma9UZduNlBw)
 
 ### B4
 - KO（2023年9月20日卒業）
@@ -113,6 +116,7 @@ profile: false  # Show author profile?
 	[10/16](https://youtu.be/EJFrGB0tbhM)
 	[10/23](https://youtu.be/4hKz9rSJNDI)
 	[10/30](https://youtu.be/AUj-jj1N9Tk)
+	[11/6](https://youtu.be/sg7f5_ttGnQ)
 - YS, TH: Morse理論の基礎（松本幸夫 著）
 	[4/17a](https://youtu.be/MfC_B9R7YVI)
 	[4/17b](https://youtu.be/3zSVTCdqAO8)
@@ -128,6 +132,7 @@ profile: false  # Show author profile?
 	[7/24](https://youtu.be/FNq7Bw_uT3Y)
 	[10/30](https://youtu.be/26YwrzFS7Yk)
 	[11/1](https://youtu.be/7APooy87-88)
+	[11/13](https://youtu.be/Hl1NxEGXwFY)
 - SE: 結び目の理論（河内明夫 著）
 	[4/24](https://youtu.be/smacQjU34tA)
 	[5/22](https://youtu.be/s_aHCSblLpM)

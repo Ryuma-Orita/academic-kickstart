@@ -37,6 +37,8 @@ profile: false  # Show author profile?
 4. $C^{\\infty}$級写像
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/X5hmCcaxnxA)
 5. 接ベクトル空間
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/KWiHXBpFhyc)
 6. $C^{\\infty}$級写像の微分
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/kjNu2JZK5YM)
 7. $C^{\\infty}$級写像の微分の例，写像の局所的性質その１
 8. 写像の局所的性質その２，射影空間

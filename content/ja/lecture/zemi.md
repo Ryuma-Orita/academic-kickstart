@@ -47,6 +47,7 @@ profile: false  # Show author profile?
 	[10/17](https://youtu.be/dUuDyeyvsuQ)
 	[10/24](https://youtu.be/uccXrxkI67s)
 	[10/31](https://youtu.be/k-A-Zwz9KnM)
+	[11/14](https://youtu.be/RkCEuYO6qOI)
 - KY: 代数的トポロジーとMorse理論
 	[4/11](https://youtu.be/_zm-zHka1iw)
 	[5/9](https://youtu.be/0OGcATB_Hl4)
@@ -70,6 +71,8 @@ profile: false  # Show author profile?
 	[10/24](https://youtu.be/lU-t941UGTc)
 	[10/31](https://youtu.be/yAf-CUfU-mI)
 	[11/7](https://youtu.be/TOCkQpr539Q)
+	[11/14a](https://youtu.be/ZX_F_67fNUk)
+	[11/14b](https://youtu.be/lVV_wy2rYkQ)
 - YY: シンプレクティック多様体上の関数論
 	[5/9](https://youtu.be/CctpL2GFv-A)
 	[5/30a](https://youtu.be/7FLqCXfwV-c)

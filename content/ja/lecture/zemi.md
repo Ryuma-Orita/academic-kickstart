@@ -48,6 +48,7 @@ profile: false  # Show author profile?
 	[10/24](https://youtu.be/uccXrxkI67s)
 	[10/31](https://youtu.be/k-A-Zwz9KnM)
 	[11/14](https://youtu.be/RkCEuYO6qOI)
+	[11/21](https://youtu.be/jksWD3NIjVI)
 - KY: 代数的トポロジーとMorse理論
 	[4/11](https://youtu.be/_zm-zHka1iw)
 	[5/9](https://youtu.be/0OGcATB_Hl4)
@@ -88,6 +89,7 @@ profile: false  # Show author profile?
 	[10/17](https://youtu.be/s7J-7-uSq8c)
 	[10/31](https://youtu.be/mEs_V5sZuAU)
 	[11/7](https://youtu.be/DCT8LeZxaXk)
+	[11/21](https://youtu.be/Bq5liGBHdTw)
 ### M1
 - KY: Riemann面
 	[4/11](https://youtu.be/uYyZkOuBykc)
@@ -100,6 +102,7 @@ profile: false  # Show author profile?
 	[10/10](https://youtu.be/G-qciJEG6v4)
 	[10/24](https://youtu.be/cdqx2HU_yME)
 	[11/7](https://youtu.be/ma9UZduNlBw)
+	[11/21](https://youtu.be/8id_yhD5wp0)
 
 ### B4
 - KO（2023年9月20日卒業）

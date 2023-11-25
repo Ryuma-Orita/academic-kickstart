@@ -5,7 +5,7 @@ date = "2021-03-27"
 publication = "Journal of the Mathematical Society of Japan, to appear"
 publication_short = "J. Math. Soc. Japan, to appear"
 
-featured = true
+featured = false
 
 reading_time = false  # Show estimated reading time?
 share = false  # Show social sharing links?

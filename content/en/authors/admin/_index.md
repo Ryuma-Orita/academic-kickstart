@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include Hamiltonian dynamics in Symplectic Geometry.
 
 interests:
-- Morse theory
-- Floer theory
+- Morse theory and Floer theory
 - Persistence modules
+- Topological complexity and LS category
 
 education:
   courses:

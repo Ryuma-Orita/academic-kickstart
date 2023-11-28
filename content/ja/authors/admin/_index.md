@@ -23,7 +23,7 @@ bio: シンプレクティック多様体上のハミルトン力学系につい
 interests:
 - Morse理論とFloer理論
 - パーシステンス加群
-- Topological complexityとLS category
+- Topological complexity
 
 education:
   courses:

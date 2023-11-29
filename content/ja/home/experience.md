@@ -26,14 +26,6 @@ date_format = "2006-01"
   date_end = ""
 
 [[experience]]
-  title = "非常勤助手"
-  company = "青山学院大学 理工学部"
-  company_url = "http://www.agnes.aoyama.ac.jp/"
-  location = "神奈川県相模原市"
-  date_start = "2019-04-01"
-  date_end = "2020-02-29"
-
-[[experience]]
   title = "日本学術振興会 特別研究員 (PD)"
   company = "首都大学東京 大学院理学研究科"
   company_url = "http://www.se.tmu.ac.jp/mis/"
@@ -43,7 +35,7 @@ date_format = "2006-01"
 
 [[experience]]
   title = "博士研究員"
-  company = "国立台湾大学 国家理論科学研究中心 (NCTS)"
+  company = "國立台灣大學 國家理論科學研究中心 數學組"
   company_url = "http://www.ncts.ntu.edu.tw/"
   location = "台湾台北市"
   date_start = "2017-08-01"

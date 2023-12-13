@@ -26,7 +26,7 @@ profile = false  # Show author profile?
 # 8 = Patent (v4.2+ required)
 publication_types = ["3"]
 
-abstract = "In this paper, we show that the pointwise finite-dimensional two-parameter persistence module $\\mathbb{HF}_{\ast}^{(\\bullet,\\bullet]}$."
+abstract = "In this paper, we show that the pointwise finite-dimensional two-parameter persistence module $\\mathbb{HF}_{\\ast}^{(\\bullet,\\bullet]}$."
 #abstract_short = ""
 
 links = [

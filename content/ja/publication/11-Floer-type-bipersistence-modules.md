@@ -26,7 +26,7 @@ profile = false  # Show author profile?
 # 8 = Patent (v4.2+ required)
 publication_types = ["3"]
 
-abstract = "This allows for the definition of a barcode $\\mathcal{B}_{\\ast}^{(\\bullet,\\bullet]}$ consisting solely of rectangles in $\\mathbb{R}^2$ associated with $\\mathbb{HF}_{\\ast}^{(\\bullet,\\bullet]}$. We observe that this rectangle barcode contains information about Usher's boundary depth and spectral invariants developed by Oh, Schwarz, and Viterbo. Moreover, we introduce a novel invariant extracted from $\\mathcal{B}_{\\ast}^{(\\bullet,\\bullet]}$, which proves instrumental in detecting periodic solutions of Hamiltonian systems. Additionally, we establish relevant stability results, particularly concerning the bottleneck distance and Hofer's distance."
+abstract = "This allows for the definition of a barcode $\\mathcal{B}_{\\ast}^{(\\bullet,\\bullet]}$ consisting solely of rectangles in $\\mathbb{R}^2$ associated with $\\mathbb{HF}_{\\ast}^{(\\bullet,\\bullet]}$."
 #abstract_short = ""
 
 links = [

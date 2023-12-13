@@ -26,7 +26,7 @@ profile = false  # Show author profile?
 # 8 = Patent (v4.2+ required)
 publication_types = ["3"]
 
-abstract = "This allows for the definition of a barcode $\\mathcal{B}_{\\ast}^{(\\bullet,\\bullet]}$ consisting solely of rectangles in $\\mathbb{R}^2$ associated with $\\mathbb{HF}_{\\ast}^{(\\bullet,\\bullet]}$."
+abstract = "This allows for the definition of a barcode $\\mathcal{B}_{\\ast}^{(\\bullet,\\bullet]}$."
 #abstract_short = ""
 
 links = [

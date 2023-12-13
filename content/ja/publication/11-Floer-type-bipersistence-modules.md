@@ -26,7 +26,7 @@ profile = false  # Show author profile?
 # 8 = Patent (v4.2+ required)
 publication_types = ["3"]
 
-abstract = "In this paper, we show that the pointwise finite-dimensional two-parameter persistence module $\\mathbb{HF}_{\\ast}^{(\\bullet,\\bullet]}$, defined in terms of interlevel filtered Floer homology, is rectangle-decomposable."
+abstract = "In this paper, we show that the pointwise finite-dimensional two-parameter persistence module $\\mathbb{HF}_{\\ast}^{(\\bullet,\\bullet]}$, defined in terms of interlevel filtered Floer homology, is rectangle-decomposable. This allows for the definition of a barcode $\\mathcal{B}_{\\ast}^{(\\bullet,\\bullet]}$ consisting solely of rectangles in $\\mathbb{R}^2$ associated with $\\mathbb{HF}_{\\ast}^{(\\bullet,\\bullet]}$."
 #abstract_short = ""
 
 links = [

@@ -26,8 +26,8 @@ profile = false  # Show author profile?
 # 8 = Patent (v4.2+ required)
 publication_types = ["3"]
 
-abstract = "In this paper, we show that the pointwise finite-dimensional two-parameter persistence module $\\mathbb{HF}_{\\ast}^{(\\bullet,\\bullet]}$, defined in terms of interlevel filtered Floer homology, is rectangle-decomposable. This allows for the definition of a barcode consisting solely of rectangles in $\\mathbb{R}^2$ associated with the bipersistence module. We observe that this rectangle barcode contains information about Usher's boundary depth and spectral invariants developed by Oh, Schwarz, and Viterbo. Moreover, we introduce a novel invariant extracted from the rectangle barcode, which proves instrumental in detecting periodic solutions of Hamiltonian systems. Additionally, we establish relevant stability results, particularly concerning the bottleneck distance and Hofer's distance."
-#abstract_short = ""
+abstract = " We observe that this rectangle barcode contains information about Usher's boundary depth and spectral invariants developed by Oh, Schwarz, and Viterbo. Moreover, we introduce a novel invariant extracted from the rectangle barcode, which proves instrumental in detecting periodic solutions of Hamiltonian systems. Additionally, we establish relevant stability results, particularly concerning the bottleneck distance and Hofer's distance."
+abstract_short = "In this paper, we show that the pointwise finite-dimensional two-parameter persistence module $\\mathbb{HF}_{\\ast}^{(\\bullet,\\bullet]}$, defined in terms of interlevel filtered Floer homology, is rectangle-decomposable. This allows for the definition of a barcode consisting solely of rectangles in $\\mathbb{R}^2$ associated with the bipersistence module."
 
 links = [
   {icon = "arxiv", icon_pack = "ai", name = "arXiv", url = "https://arxiv.org/"},

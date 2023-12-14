@@ -49,6 +49,9 @@ profile: false  # Show author profile?
 	[10/31](https://youtu.be/k-A-Zwz9KnM)
 	[11/14](https://youtu.be/RkCEuYO6qOI)
 	[11/21](https://youtu.be/jksWD3NIjVI)
+	[11/30](https://youtu.be/-TxQETChVN0)
+	[12/5](https://youtu.be/3j_wRclNVDE)
+	[12/12](https://youtu.be/Fp8n1xwfXxY)
 - KY: 代数的トポロジーとMorse理論
 	[4/11](https://youtu.be/_zm-zHka1iw)
 	[5/9](https://youtu.be/0OGcATB_Hl4)
@@ -74,6 +77,9 @@ profile: false  # Show author profile?
 	[11/7](https://youtu.be/TOCkQpr539Q)
 	[11/14a](https://youtu.be/ZX_F_67fNUk)
 	[11/14b](https://youtu.be/lVV_wy2rYkQ)
+	[11/30](https://youtu.be/TCc63gIAMCw)
+	[12/5](https://youtu.be/JormkigQnBE)
+	[12/12](https://youtu.be/Ap0wL89n1ok)
 - YY: シンプレクティック多様体上の関数論
 	[5/9](https://youtu.be/CctpL2GFv-A)
 	[5/30a](https://youtu.be/7FLqCXfwV-c)
@@ -90,6 +96,8 @@ profile: false  # Show author profile?
 	[10/31](https://youtu.be/mEs_V5sZuAU)
 	[11/7](https://youtu.be/DCT8LeZxaXk)
 	[11/21](https://youtu.be/Bq5liGBHdTw)
+	[11/30](https://youtu.be/5vdRGx-KZGw)
+	[12/12](https://youtu.be/LuJKjVRls78)
 ### M1
 - KY: Riemann面
 	[4/11](https://youtu.be/uYyZkOuBykc)
@@ -124,6 +132,8 @@ profile: false  # Show author profile?
 	[10/30](https://youtu.be/AUj-jj1N9Tk)
 	[11/6](https://youtu.be/sg7f5_ttGnQ)
 	[11/20](https://youtu.be/6wgERTXQjb8)
+	[12/4](https://youtu.be/ckQnPWf3lV4)
+	[12/11](https://youtu.be/s2nQOuxupO8)
 - YS, TH: Morse理論の基礎（松本幸夫 著）
 	[4/17a](https://youtu.be/MfC_B9R7YVI)
 	[4/17b](https://youtu.be/3zSVTCdqAO8)
@@ -141,6 +151,7 @@ profile: false  # Show author profile?
 	[11/1](https://youtu.be/7APooy87-88)
 	[11/13](https://youtu.be/Hl1NxEGXwFY)
 	[11/20](https://youtu.be/e9kzt7-ZnUg)
+	[12/11](https://youtu.be/5zFAt25FT44)
 - SE: 結び目の理論（河内明夫 著）
 	[4/24](https://youtu.be/smacQjU34tA)
 	[5/22](https://youtu.be/s_aHCSblLpM)
@@ -149,6 +160,7 @@ profile: false  # Show author profile?
 	[7/10](https://youtu.be/Xif_O93RFVY)
 	[10/16](https://youtu.be/R7aOcAZEDfc)
 	[10/23](https://youtu.be/g6EorGqEZvo)
+	[12/4]
 - Mathematical Methods of Classical Mechanics（Vladimir I. Arnold 著）
 	[2/14](https://youtu.be/gvKVgNMdbPw)
 	[2/21](https://youtu.be/y1AVovIZnQI)

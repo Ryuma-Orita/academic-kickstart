@@ -2,8 +2,8 @@
 title = "Floer-type bipersistence modules and rectangle barcodes"
 authors = ["Kanta Koeda", "Ryuma Orita", "Kanon Yashiro"]
 date = "2023-12-13"
-publication = "arXiv:2312.xxxxx"
-#publication_short = "arXiv:2312.xxxxx"
+publication = "arXiv:2312.07847"
+#publication_short = "arXiv:2312.07847"
 
 featured = true
 
@@ -30,7 +30,7 @@ abstract = "In this paper, we show that the pointwise finite-dimensional two-par
 abstract_short = "In this paper, we show that the pointwise finite-dimensional two-parameter persistence module $\\mathbb{HF}_{\\ast}^{(\\bullet,\\bullet]}$, defined in terms of interlevel filtered Floer homology, is rectangle-decomposable. This allows for the definition of a barcode consisting solely of rectangles in $\\mathbb{R}^2$ associated with the bipersistence module."
 
 links = [
-  {icon = "arxiv", icon_pack = "ai", name = "arXiv", url = "https://arxiv.org/"},
+  {icon = "arxiv", icon_pack = "ai", name = "arXiv", url = "https://doi.org/10.48550/arXiv.2312.07847"},
   ]
 
 # Featured image thumbnail (optional)

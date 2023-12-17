@@ -1,7 +1,7 @@
 +++
 title = "Rigid fibers of integrable systems on cotangent bundles"
 authors = ["Morimichi Kawasaki", "Ryuma Orita"]
-date = "2022-07"
+date = "2022-07-01"
 publication = "Journal of the Mathematical Society of Japan, vol. **74** (2022), no. 3, pp. 829–847"
 publication_short = "*J. Math. Soc. Japan*, vol. **74**, no. 3, pp. 829–847"
 

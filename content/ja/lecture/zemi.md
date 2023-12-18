@@ -152,6 +152,7 @@ profile: false  # Show author profile?
 	[11/13](https://youtu.be/Hl1NxEGXwFY)
 	[11/20](https://youtu.be/e9kzt7-ZnUg)
 	[12/11](https://youtu.be/5zFAt25FT44)
+	[12/18](https://youtu.be/jOpJTVHFF5Y)
 - SE: 結び目の理論（河内明夫 著）
 	[4/24](https://youtu.be/smacQjU34tA)
 	[5/22](https://youtu.be/s_aHCSblLpM)

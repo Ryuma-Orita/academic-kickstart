@@ -36,6 +36,7 @@ profile: false  # Show author profile?
 2. 埋め込み定理，正則点と臨界点その１
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/4sO0yJ7Pyd0)
 3. 正則点と臨界点その２
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/iYtCtpyErZY)
 4. ベクトル場その１
 5. ベクトル場その２
 6. 微分形式その１

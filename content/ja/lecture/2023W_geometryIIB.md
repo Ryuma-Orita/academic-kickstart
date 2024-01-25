@@ -40,6 +40,8 @@ profile: false  # Show author profile?
 4. ベクトル場その１
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/xVaCl-6e07A)
 5. ベクトル場その２
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/B5nyCz0e0g4)
 6. 微分形式その１
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/g-eD3zPumps)
 7. 微分形式その２
 8. 微分形式その３

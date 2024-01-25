@@ -19,7 +19,7 @@ date_format = "2006-01"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "助教"
-  company = "新潟大学 理学部"
+  company = "新潟大学 自然科学系（理学部）"
   company_url = "http://mathweb.sc.niigata-u.ac.jp/"
   location = "新潟県新潟市"
   date_start = "2020-03-01"
@@ -35,7 +35,7 @@ date_format = "2006-01"
 
 [[experience]]
   title = "博士研究員"
-  company = "國立台灣大學 國家理論科學研究中心 數學組"
+  company = "國家理論科學研究中心 (NCTS) 數學組"
   company_url = "http://www.ncts.ntu.edu.tw/"
   location = "台湾台北市"
   date_start = "2017-08-01"

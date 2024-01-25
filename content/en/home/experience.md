@@ -35,7 +35,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Postdoctoral Fellow"
-  company = "National Center for Theoretical Sciences, National Taiwan University"
+  company = "National Center for Theoretical Sciences (NCTS)"
   company_url = "http://www.ncts.ntu.edu.tw/"
   location = "Taipei"
   date_start = "2017-08-01"

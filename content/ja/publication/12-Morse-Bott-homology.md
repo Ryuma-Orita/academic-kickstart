@@ -1,7 +1,7 @@
 +++
 title = "Computing Morse-Bott homology with singular simplicial chains"
 authors = ["Ryuma Orita", "Kanon Yashiro"]
-date = "2024-1-25"
+date = "2024-01-25"
 publication = "arXiv:2401.xxxxx"
 #publication_short = "arXiv:2401.xxxxx"
 

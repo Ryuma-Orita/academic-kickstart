@@ -52,6 +52,7 @@ profile: false  # Show author profile?
 	[11/30](https://youtu.be/-TxQETChVN0)
 	[12/5](https://youtu.be/3j_wRclNVDE)
 	[12/12](https://youtu.be/Fp8n1xwfXxY)
+	[12/26](https://youtu.be/-4ULC4_zm-E)
 - KY: 代数的トポロジーとMorse理論
 	[4/11](https://youtu.be/_zm-zHka1iw)
 	[5/9](https://youtu.be/0OGcATB_Hl4)
@@ -81,6 +82,7 @@ profile: false  # Show author profile?
 	[12/5](https://youtu.be/JormkigQnBE)
 	[12/12](https://youtu.be/Ap0wL89n1ok)
 	[12/19](https://youtu.be/GUTf-gsqbNE)
+	[12/26](https://youtu.be/m3m4rZ10mqk)
 - YY: シンプレクティック多様体上の関数論
 	[5/9](https://youtu.be/CctpL2GFv-A)
 	[5/30a](https://youtu.be/7FLqCXfwV-c)
@@ -100,6 +102,7 @@ profile: false  # Show author profile?
 	[11/30](https://youtu.be/5vdRGx-KZGw)
 	[12/12](https://youtu.be/LuJKjVRls78)
 	[12/19](https://youtu.be/yYznkUFu6jk)
+	[12/26](https://youtu.be/IeRcqbtphVE)
 ### M1
 - KY: Riemann面
 	[4/11](https://youtu.be/uYyZkOuBykc)
@@ -138,6 +141,7 @@ profile: false  # Show author profile?
 	[12/4](https://youtu.be/ckQnPWf3lV4)
 	[12/11](https://youtu.be/s2nQOuxupO8)
 	[12/25](https://youtu.be/OZqFNR0o3Rs)
+	[1/16](https://youtu.be/jCXZk8ciW2U)
 - YS, TH: Morse理論の基礎（松本幸夫 著）
 	[4/17a](https://youtu.be/MfC_B9R7YVI)
 	[4/17b](https://youtu.be/3zSVTCdqAO8)
@@ -158,6 +162,7 @@ profile: false  # Show author profile?
 	[12/11](https://youtu.be/5zFAt25FT44)
 	[12/18](https://youtu.be/jOpJTVHFF5Y)
 	[12/25](https://youtu.be/vraR2WjVoEA)
+	[1/22](https://youtu.be/_9ceUf0yVqY)
 - SE: 結び目の理論（河内明夫 著）
 	[4/24](https://youtu.be/smacQjU34tA)
 	[5/22](https://youtu.be/s_aHCSblLpM)
@@ -167,6 +172,7 @@ profile: false  # Show author profile?
 	[10/16](https://youtu.be/R7aOcAZEDfc)
 	[10/23](https://youtu.be/g6EorGqEZvo)
 	[12/4]
+	[1/22](https://youtu.be/sfrKjhSan6w)
 - Mathematical Methods of Classical Mechanics（Vladimir I. Arnold 著）
 	[2/14](https://youtu.be/gvKVgNMdbPw)
 	[2/21](https://youtu.be/y1AVovIZnQI)

@@ -143,6 +143,7 @@ profile: false  # Show author profile?
 	[12/11](https://youtu.be/s2nQOuxupO8)
 	[12/25](https://youtu.be/OZqFNR0o3Rs)
 	[1/16](https://youtu.be/jCXZk8ciW2U)
+	[1/30](https://youtu.be/S22RQRNanH0)
 - YS, TH: Morse理論の基礎（松本幸夫 著）
 	[4/17a](https://youtu.be/MfC_B9R7YVI)
 	[4/17b](https://youtu.be/3zSVTCdqAO8)
@@ -164,7 +165,8 @@ profile: false  # Show author profile?
 	[12/18](https://youtu.be/jOpJTVHFF5Y)
 	[12/25](https://youtu.be/vraR2WjVoEA)
 	[1/22](https://youtu.be/_9ceUf0yVqY)
-- SE: 結び目の理論（河内明夫 著）
+-	[1/30](https://youtu.be/yj8kAiRnfr4)
+ SE: 結び目の理論（河内明夫 著）
 	[4/24](https://youtu.be/smacQjU34tA)
 	[5/22](https://youtu.be/s_aHCSblLpM)
 	[6/5](https://youtu.be/0sOjjgKBrd0)

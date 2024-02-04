@@ -2,8 +2,8 @@
 title = "Computing Morse-Bott homology with singular simplicial chains"
 authors = ["Ryuma Orita", "Kanon Yashiro"]
 date = "2024-01-25"
-publication = "in preparation"
-#publication_short = "in preparation"
+publication = "In preparation"
+#publication_short = "In preparation"
 
 featured = false
 

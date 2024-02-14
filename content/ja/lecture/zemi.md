@@ -118,6 +118,8 @@ profile: false  # Show author profile?
 	[11/21](https://youtu.be/8id_yhD5wp0)
 	[12/19](https://youtu.be/mGPPKvjjuEE)
 	[1/25](https://youtu.be/H6GM8Fy0gg0)
+	[2/6](https://youtu.be/ol0-XxHvcnk)
+	[2/13](https://youtu.be/5wh6elGxROo)
 
 ### B4
 - KO（2023年9月20日卒業）

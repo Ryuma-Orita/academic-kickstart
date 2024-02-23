@@ -83,6 +83,7 @@ profile: false  # Show author profile?
 	[12/12](https://youtu.be/Ap0wL89n1ok)
 	[12/19](https://youtu.be/GUTf-gsqbNE)
 	[12/26](https://youtu.be/m3m4rZ10mqk)
+	[2/20](https://youtu.be/nSTlRLeYl4E)
 - YY: シンプレクティック多様体上の関数論
 	[5/9](https://youtu.be/CctpL2GFv-A)
 	[5/30a](https://youtu.be/7FLqCXfwV-c)
@@ -120,6 +121,7 @@ profile: false  # Show author profile?
 	[1/25](https://youtu.be/H6GM8Fy0gg0)
 	[2/6](https://youtu.be/ol0-XxHvcnk)
 	[2/13](https://youtu.be/5wh6elGxROo)
+	[2/22](https://youtu.be/mvnODJDod9o)
 
 ### B4
 - KO（2023年9月20日卒業）

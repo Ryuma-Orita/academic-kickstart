@@ -6,8 +6,8 @@ location: 新潟大学 理学部・大学院自然科学研究科
 summary: "M2: 3名，M1: 1名，B4: 6名（2023年度）"
 # abstract: ""
 
-date: "2023-04-01"
-date_end: "2024-03-31"
+date: "2024-04-01"
+date_end: "2025-03-31"
 all_day: true
 
 publishDate: "2022-02-01T00:00:00Z"
@@ -17,6 +17,8 @@ publishDate: "2022-02-01T00:00:00Z"
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
+## 2024年度
+
 ## 2023年度
 
 - 折田

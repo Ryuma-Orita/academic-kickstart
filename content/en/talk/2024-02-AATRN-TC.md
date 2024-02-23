@@ -1,6 +1,6 @@
 ---
 title: Topological complexity of monotone symplectic manifolds
-event: Seminar
+event: AATRN Topological Complexity Seminar
 event_url: https://sites.google.com/view/aatrn-tc-seminar/home
 
 location: Zoom

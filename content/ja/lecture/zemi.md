@@ -10,7 +10,7 @@ date: "2024-04-01"
 date_end: "2025-03-31"
 all_day: true
 
-publishDate: "2022-02-01T00:00:00Z"
+publishDate: "2023-02-01T00:00:00Z"
 
 # authors: ["admin"]
 

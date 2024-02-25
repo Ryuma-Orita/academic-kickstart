@@ -16,6 +16,12 @@ publishDate: "2023-01-01T00:00:00Z"
 
 authors: ["admin"]
 
+links:
+ - name: YouTube
+   url: https://youtu.be/tWV-tS4rLxQ
+   icon_pack: fab
+   icon: youtube
+
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---

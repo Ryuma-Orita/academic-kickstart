@@ -1,5 +1,5 @@
 +++
-title = "Computing Morse-Bott homology with singular simplicial chains"
+title = "The simplicial Morse–Bott–Smale chain complex"
 authors = ["Ryuma Orita", "Kanon Yashiro"]
 date = "2024-01-25"
 publication = "In preparation"
@@ -26,7 +26,7 @@ profile = false  # Show author profile?
 # 8 = Patent (v4.2+ required)
 publication_types = ["3"]
 
-abstract = "In this paper, we define Morse--Bott homology on oriented compact smooth Riemannian manifolds by using smooth singular simplicial chains and compactified moduli spaces determined by  Morse-Bott-Smale function. This allows for a simpler definition of Morse-Bott homology and more computable examples."
+# abstract = "In this paper, we define Morse--Bott homology on oriented compact smooth Riemannian manifolds by using smooth singular simplicial chains and compactified moduli spaces determined by  Morse-Bott-Smale function. This allows for a simpler definition of Morse-Bott homology and more computable examples."
 # abstract_short = ""
 
 #links = [

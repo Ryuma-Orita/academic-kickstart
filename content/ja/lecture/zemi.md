@@ -86,6 +86,8 @@ profile: false  # Show author profile?
 	[12/19](https://youtu.be/GUTf-gsqbNE)
 	[12/26](https://youtu.be/m3m4rZ10mqk)
 	[2/20](https://youtu.be/nSTlRLeYl4E)
+	[3/5](https://youtu.be/abIAMpLljXY)
+	[3/12](https://youtu.be/_0SFzJaVNxc)
 - YY: シンプレクティック多様体上の関数論
 	[5/9](https://youtu.be/CctpL2GFv-A)
 	[5/30a](https://youtu.be/7FLqCXfwV-c)

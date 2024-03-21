@@ -3,7 +3,7 @@ title: ゼミ
 
 location: 新潟大学 理学部・大学院自然科学研究科
 
-summary: "M2: 3名，M1: 1名，B4: 6名（2023年度）"
+summary: "D1: 1名，M2: 1名，M1: 1名，B4: 4名（2024年度）"
 # abstract: ""
 
 date: "2024-04-01"
@@ -18,6 +18,19 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
 ## 2024年度
+
+### D1
+- KY
+### M2
+- KY
+### M1
+- SY
+### B4
+- JG, KS: An Introduction to Algebraic Topology（Joseph J. Rotman 著）
+- CT: Morse Theory（John W. Milnor 著）
+- RK: 位相的データ解析から構造発見へ *パーシステントホモロジーを中心に*（池・エスカラ・大林・鍛冶 共著）
+
+
 
 ## 2023年度
 

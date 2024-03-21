@@ -28,7 +28,7 @@ profile: false  # Show author profile?
 ### B4
 - JG, KS: An Introduction to Algebraic Topology（Joseph J. Rotman 著）
 - CT: Morse Theory（John W. Milnor 著）
-- RK: 位相的データ解析から構造発見へ *パーシステントホモロジーを中心に*（池・エスカラ・大林・鍛冶 共著）
+- RK: 位相的データ解析から構造発見へ（池・エスカラ・大林・鍛冶 共著）
 
 ## 2023年度
 

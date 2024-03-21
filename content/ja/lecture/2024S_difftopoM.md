@@ -20,6 +20,10 @@ publishDate: "2024-01-28T00:00:00Z"
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
+{{% alert warning %}}
+本講義は集中講義の予定です。
+{{% /alert %}}
+
 **テキスト**
 
 **講義内容**

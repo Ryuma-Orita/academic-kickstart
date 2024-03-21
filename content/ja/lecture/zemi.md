@@ -30,8 +30,6 @@ profile: false  # Show author profile?
 - CT: Morse Theory（John W. Milnor 著）
 - RK: 位相的データ解析から構造発見へ *パーシステントホモロジーを中心に*（池・エスカラ・大林・鍛冶 共著）
 
-
-
 ## 2023年度
 
 - 折田

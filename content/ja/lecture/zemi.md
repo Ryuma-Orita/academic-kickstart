@@ -183,7 +183,7 @@ profile: false  # Show author profile?
 	[7/10](https://youtu.be/Xif_O93RFVY)
 	[10/16](https://youtu.be/R7aOcAZEDfc)
 	[10/23](https://youtu.be/g6EorGqEZvo)
-	[12/4]
+	12/4
 	[1/22](https://youtu.be/sfrKjhSan6w)
 - Mathematical Methods of Classical Mechanics（Vladimir I. Arnold 著）
 	[2/14](https://youtu.be/gvKVgNMdbPw)

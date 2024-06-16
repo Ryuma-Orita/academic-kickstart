@@ -1,7 +1,7 @@
 +++
 title = "The simplicial Morse–Bott–Smale chain complex"
 authors = ["Ryuma Orita", "Kanon Yashiro"]
-date = "2024-01-25"
+date = "2024-12-31"
 publication = "In preparation"
 #publication_short = "In preparation"
 

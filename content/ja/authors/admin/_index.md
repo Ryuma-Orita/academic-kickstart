@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 助教
+role: 准教授
 
 # Organizations/Affiliations
 organizations:
@@ -73,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-新潟大学理学部数学教室の助教です。
+新潟大学理学部数学教室の准教授です。
 幾何学，特にトポロジーやシンプレクティック幾何学が専門です。
 Morse理論の応用を主軸に，シンプレクティック多様体上のハミルトン力学系について研究しています。

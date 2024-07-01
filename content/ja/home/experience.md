@@ -18,12 +18,20 @@ date_format = "2006-01"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "准教授"
+  company = "新潟大学 自然科学系 (理学部)"
+  company_url = "https://www.sc.niigata-u.ac.jp/sc/"
+  location = "新潟"
+  date_start = "2024-07-01"
+  date_end = ""
+
+[[experience]]
   title = "助教"
   company = "新潟大学 自然科学系 (理学部)"
   company_url = "https://www.sc.niigata-u.ac.jp/sc/"
   location = "新潟"
   date_start = "2020-03-01"
-  date_end = ""
+  date_end = "2024-06-30"
 
 [[experience]]
   title = "日本学術振興会 特別研究員-PD"

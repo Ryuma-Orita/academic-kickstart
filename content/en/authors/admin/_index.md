@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -73,5 +73,5 @@ user_groups:
 - Visitors
 ---
 
-I am an Assistant Professor in the Department of Mathematics at Niigata University.
+I am an Associate Professor in the Department of Mathematics at Niigata University.
 My research interests include Hamiltonian dynamics in Symplectic Geometry.

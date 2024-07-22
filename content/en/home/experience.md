@@ -19,24 +19,24 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Associate Professor"
-  company = "Faculty of Science, Niigata University"
-  company_url = "https://www.sc.niigata-u.ac.jp/sc/English/index.html"
+  company = "Niigata University"
+  company_url = "https://www.niigata-u.ac.jp/en/"
   location = "Niigata"
   date_start = "2024-07-01"
   date_end = ""
 
 [[experience]]
   title = "Assistant Professor"
-  company = "Faculty of Science, Niigata University"
-  company_url = "https://www.sc.niigata-u.ac.jp/sc/English/index.html"
+  company = "Niigata University"
+  company_url = "https://www.niigata-u.ac.jp/en/"
   location = "Niigata"
   date_start = "2020-03-01"
   date_end = "2024-06-30"
 
 [[experience]]
   title = "JSPS Research Fellow (PD)"
-  company = "Graduate School of Science, Tokyo Metropolitan University"
-  company_url = "http://www.se.tmu.ac.jp/en/index.html"
+  company = "Tokyo Metropolitan University"
+  company_url = "https://www.tmu.ac.jp/english/index.html"
   location = "Tokyo"
   date_start = "2018-04-01"
   date_end = "2020-02-29"
@@ -50,17 +50,9 @@ date_format = "January 2006"
   date_end = "2018-03-31"
 
 [[experience]]
-  title = "Postdoctoral Researcher"
-  company = "Institute of Mathematics for Industry, Kyushu University"
-  company_url = "https://www.imi.kyushu-u.ac.jp/eng/"
-  location = "Fukuoka"
-  date_start = "2017-04-01"
-  date_end = "2017-07-31"
-
-[[experience]]
   title = "JSPS Research Fellow (DC1)"
-  company = "Graduate School of Mathematical Sciences, The University of Tokyo"
-  company_url = "https://www.ms.u-tokyo.ac.jp/index.html"
+  company = "The University of Tokyo"
+  company_url = "https://www.u-tokyo.ac.jp/en/"
   location = "Tokyo"
   date_start = "2014-04-01"
   date_end = "2017-03-01"

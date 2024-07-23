@@ -1,5 +1,5 @@
 ---
-title: TBA
+title: Floer-type bipersistence modules and rectangle barcodes
 event: 葉層構造の幾何学とその応用
 event_url: ""
 

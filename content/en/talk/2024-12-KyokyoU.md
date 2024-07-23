@@ -3,7 +3,7 @@ title: Floer-type bipersistence modules and rectangle barcodes
 event: Workshop on geometry of foliations and its applications
 event_url: ""
 
-location: Kyoto University of Education
+location: Kyoto University of Education, Japan
 
 summary: "Workshop on geometry of foliations and its applications"
 abstract: ""

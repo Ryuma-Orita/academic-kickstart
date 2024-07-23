@@ -3,7 +3,7 @@ title: Morse bipersistence modules and rectangle barcodes
 event: Singularity Theory and its related fields
 event_url: ""
 
-location: Chitose Arcadia Plaza, Hokkaido
+location: Chitose Arcadia Plaza, Japan
 
 summary: "Singularity Theory and its related fields"
 abstract: ""

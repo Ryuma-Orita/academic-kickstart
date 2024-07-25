@@ -59,7 +59,7 @@ date_format = "2006-01"
 
 [[experience]]
   title = "日本学術振興会 特別研究員-DC1"
-  company = "東京大学"
+  company = "東京大学 大学院数理科学研究科"
   company_url = "https://www.u-tokyo.ac.jp/"
   location = "東京都目黒区"
   date_start = "2014-04-01"

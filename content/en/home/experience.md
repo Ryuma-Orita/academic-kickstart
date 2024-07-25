@@ -50,6 +50,14 @@ date_format = "January 2006"
   date_end = "2018-03-31"
 
 [[experience]]
+  title = "Postdoctoral Researcher"
+  company = "Kyushu University"
+  company_url = "https://www.kyushu-u.ac.jp/en/"
+  location = "Taipei"
+  date_start = "2017-04-01"
+  date_end = "2017-07-31"
+
+[[experience]]
   title = "JSPS Research Fellow (DC1)"
   company = "The University of Tokyo"
   company_url = "https://www.u-tokyo.ac.jp/en/"

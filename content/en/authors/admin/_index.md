@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ryuma Orita
+name: Ryuma ORITA
 
 # Username (this should match the folder name)
 authors:

@@ -53,7 +53,7 @@ date_format = "January 2006"
   title = "Postdoctoral Researcher"
   company = "Kyushu University"
   company_url = "https://www.kyushu-u.ac.jp/en/"
-  location = "Taipei"
+  location = "Fukuoka"
   date_start = "2017-04-01"
   date_end = "2017-07-31"
 

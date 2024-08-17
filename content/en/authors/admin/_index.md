@@ -33,7 +33,7 @@ education:
   - course: Master of Mathematical Sciences
     institution: The University of Tokyo
     year: 2014
-  - course: B.S. in Mathematics
+  - course: Bachelor of Science
     institution: Kyushu University
     year: 2012
 

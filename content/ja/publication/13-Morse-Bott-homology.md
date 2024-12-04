@@ -1,7 +1,7 @@
 +++
 title = "The simplicial Morse–Bott–Smale chain complex"
 authors = ["Ryuma Orita", "Kanon Yashiro"]
-date = "2024-12-31"
+date = "2025-12-31"
 publication = "In preparation"
 #publication_short = "In preparation"
 
@@ -30,7 +30,7 @@ publication_types = ["3"]
 # abstract_short = ""
 
 #links = [
-#  {icon = "arxiv", icon_pack = "ai", name = "arXiv", url = "https://doi.org/10.48550/arXiv.2401.xxxxx"},
+#  {icon = "arxiv", icon_pack = "ai", name = "arXiv", url = ""},
 #  ]
 
 # Featured image thumbnail (optional)

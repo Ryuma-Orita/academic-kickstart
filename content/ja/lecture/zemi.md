@@ -17,20 +17,30 @@ publishDate: "2023-02-01T00:00:00Z"
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
-## 2024年度
+## メンバー
 
-### D1
+### 2024年度
+
+#### D1
 - KY
-### M2
+#### M2
 - KY
-### M1
+#### M1
 - SY
-### B4
+#### B4
 - JG, KS: An Introduction to Algebraic Topology（Joseph J. Rotman 著）
 - CT: Morse Theory（John W. Milnor 著）
 - RK: 位相的データ解析から構造発見へ（池・エスカラ・大林・鍛冶 共著）
 
-## 2023年度
+## 修士論文・博士論文
+
+- KK, 修士（理学）, 2024年3月
+- KY, 修士（理学）, 2024年3月
+- YY, 修士（理学）, 2024年3月
+
+## メンバー（過年度）
+
+### 2023年度
 
 - 折田
 	[9/19](https://youtu.be/iSVb2upt5eY)
@@ -43,7 +53,7 @@ profile: false  # Show author profile?
 	[10/26](https://youtu.be/F6UD7sdU3M0)
 	[11/2](https://youtu.be/3_Rb6P5zw2I)
 	
-### M2
+#### M2
 - KK: マルチパラメーターパーシステンス加群
 	[4/18](https://youtu.be/dH6ZNh0tB00)
 	[5/16](https://youtu.be/lM0Imp3-QQE)
@@ -120,7 +130,7 @@ profile: false  # Show author profile?
 	[12/12](https://youtu.be/LuJKjVRls78)
 	[12/19](https://youtu.be/yYznkUFu6jk)
 	[12/26](https://youtu.be/IeRcqbtphVE)
-### M1
+#### M1
 - KY: Riemann面
 	[4/11](https://youtu.be/uYyZkOuBykc)
 	[4/18](https://youtu.be/f_0wHjgKFmM)
@@ -139,7 +149,7 @@ profile: false  # Show author profile?
 	[2/13](https://youtu.be/5wh6elGxROo)
 	[2/22](https://youtu.be/mvnODJDod9o)
 
-### B4
+#### B4
 - KO（2023年9月20日卒業）
 - RS, SY: Algebraic Topology（Allen Hatcher 著）
 	[4/10a](https://youtu.be/TpH7QtV-Css)
@@ -205,7 +215,7 @@ profile: false  # Show author profile?
 	[5/9](https://youtu.be/Gntx0JIfVs4)
 	[5/16](https://youtu.be/lWJE6igJuXI)
 
-## 2022年度
+### 2022年度
 
 - 折田
 	[6/6a](https://youtu.be/Aj0m83gpPgo)
@@ -216,7 +226,7 @@ profile: false  # Show author profile?
 	[12/19c](https://youtu.be/jrKfXx9wPxk)
 	[12/19c](https://youtu.be/jrKfXx9wPxk)
 
-### M1
+#### M1
 - KK
 	[4/12](https://youtu.be/NftPHvxnO0U)
 	[4/26](https://youtu.be/et28g5RvbQA)
@@ -301,7 +311,7 @@ profile: false  # Show author profile?
 	[1/17](https://youtu.be/ip6grvY8Uhw)
 	[1/31](https://youtu.be/Af2eV8IVqA4)
 
-### B4
+#### B4
 - KO
 - RC: Algebraic Topology（Allen Hatcher 著）
 	[4/11](https://youtu.be/PARFjvoAgho)
@@ -362,9 +372,9 @@ profile: false  # Show author profile?
 	[2/6](https://youtu.be/I3tsGjQKYSQ)
 	[2/13](https://youtu.be/_uPFLdPSDUs)
 
-## 2021年度
+### 2021年度
 
-### B4
+#### B4
 - KO, YY: 多様体の基礎（松本幸夫 著）
 	4/14
 	4/21

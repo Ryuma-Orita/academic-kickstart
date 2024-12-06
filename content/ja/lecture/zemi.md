@@ -17,9 +17,7 @@ publishDate: "2023-02-01T00:00:00Z"
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 ---
-## メンバー
-
-### 2024年度
+### メンバー（2024年度）
 
 #### D1
 - KY: 代数的トポロジーと種々のMorse理論
@@ -32,8 +30,9 @@ profile: false  # Show author profile?
 - CT: Morse Theory（John W. Milnor 著）
 - RK: 位相的データ解析から構造発見へ（池・エスカラ・大林・鍛冶 共著）
 
+***
 
-## 修士論文・博士論文
+### 修士論文・博士論文
 
 - KK, 修士（理学）, 2024年3月
 - KY, 修士（理学）, 2024年3月
@@ -41,9 +40,7 @@ profile: false  # Show author profile?
 
 ***
 
-## メンバー（過年度）
-
-### 2023年度
+### メンバー（2023年度）
 
 - 折田
 	[9/19](https://youtu.be/iSVb2upt5eY)
@@ -218,7 +215,7 @@ profile: false  # Show author profile?
 	[5/9](https://youtu.be/Gntx0JIfVs4)
 	[5/16](https://youtu.be/lWJE6igJuXI)
 
-### 2022年度
+### メンバー（2022年度）
 
 - 折田
 	[6/6a](https://youtu.be/Aj0m83gpPgo)
@@ -375,7 +372,7 @@ profile: false  # Show author profile?
 	[2/6](https://youtu.be/I3tsGjQKYSQ)
 	[2/13](https://youtu.be/_uPFLdPSDUs)
 
-### 2021年度
+### メンバー（2021年度）
 
 #### B4
 - KO, YY: 多様体の基礎（松本幸夫 著）

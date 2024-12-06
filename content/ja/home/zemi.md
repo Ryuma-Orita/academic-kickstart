@@ -23,6 +23,6 @@ title = "研究室（ゼミ）"
 
 ### 学位
 
-- KK，修士（理学），2024年3月
-- KY，修士（理学），2024年3月
-- YY，修士（理学），2024年3月
+- 小枝 幹汰，「長方形によるMorse双パーシステンス加群の分解」，令和5年度修士論文
+- 矢代 海音，"Computing Morse-Bott homology with singular simplicial chains"，令和5年度修士論文
+- 山本 祐己，「固有な運動量写像のpseudoheavyファイバーの存在」，令和5年度修士論文

@@ -21,7 +21,7 @@ title = "研究室（ゼミ）"
 
 ***
 
-### 修士論文・博士論文
+### 学位論文
 
 - 小枝 幹汰，「長方形によるMorse双パーシステンス加群の分解」，令和5年度修士論文
 - 矢代 海音，"Computing Morse-Bott homology with singular simplicial chains"，令和5年度修士論文
@@ -32,11 +32,11 @@ title = "研究室（ゼミ）"
 ### 過去に4年生ゼミで扱ったテキスト
 - 松本幸夫 著「多様体の基礎」東京大学出版会
 - 枡田幹也 著「代数的トポロジー」朝倉書店
-- Allen Hatcher, _Algebraic Topology_, Cambridge U. Press
-- Loring W. Tu, An Introduction to Manifolds, Springer
+- Allen Hatcher, "Algebraic Topology", Cambridge U. Press
+- Loring W. Tu, "An Introduction to Manifolds", Springer
 - 松本幸夫 著「Morse理論の基礎」岩波書店
 - 河内明夫 著「結び目の理論」共立出版
-- Vladimir I. Arnold, _Mathematical Methods of Classical Mechanics_, Springer
-- Joseph J. Rotman, _An Introduction to Algebraic Topology_, Springer
-- John W. Milnor, _Morse Theory_, Springer
+- Vladimir I. Arnold, "Mathematical Methods of Classical Mechanics", Springer
+- Joseph J. Rotman, "An Introduction to Algebraic Topology", Springer
+- John W. Milnor, "Morse Theory", Springer
 - 池・エスカラ・大林・鍛冶 共著「位相的データ解析から構造発見へ」サイエンス社

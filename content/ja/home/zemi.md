@@ -1,21 +1,11 @@
-weight: 120
-title: 研究室（ゼミ）
++++
+widget = "pages"  
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 120  # Order that this section will appear.
 
-location: 新潟大学 理学部・大学院自然科学研究科
-
-summary: "D1: 1名，M2: 1名，M1: 1名，B4: 4名（2024年度）"
-# abstract: ""
-
-date: "2024-04-01"
-date_end: "2025-03-31"
-all_day: true
-
-publishDate: "2023-02-01T00:00:00Z"
-
-# authors: ["admin"]
-
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
+title = "研究室（ゼミ）"
++++
 ---
 ### メンバー（2024年度）
 

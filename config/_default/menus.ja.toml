@@ -24,6 +24,11 @@
   weight = 50
 
 [[main]]
+  name = "研究室（ゼミ）"
+  url = "#zemi"
+  weight = 55
+
+[[main]]
   name = "連絡先"
   url = "#contact"
   weight = 60

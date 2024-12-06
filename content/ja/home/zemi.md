@@ -6,7 +6,7 @@ weight = 120  # Order that this section will appear.
 
 title = "研究室（ゼミ）"
 +++
-![ゼミ風景(2021-06-02)](zemi_fukei.JPG)
+![ゼミ風景(2021-06-02)](content/home/zemi_fukei.JPG)
 ### メンバー（2024年度）
 
 #### D1

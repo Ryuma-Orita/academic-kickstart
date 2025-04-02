@@ -6,23 +6,25 @@ weight = 120  # Order that this section will appear.
 
 title = "研究室（ゼミ）"
 +++
-### メンバー（2024年度）
+### メンバー（2025年度）
 
-#### D1
+#### D2
 - KY: 代数的トポロジーとMorse理論の応用
-#### M2
+#### D1
 - KY: Teichmüller空間とThurston spine
-#### M1
+#### M2
 - SY: 擬リーマン幾何学と相対性理論
+#### M1
+- CT: Morseホモロジー
 #### B4
-- JG, KS: An Introduction to Algebraic Topology（Joseph J. Rotman 著）
-- CT: Morse Theory（John W. Milnor 著）
-- RK: 位相的データ解析から構造発見へ（池・エスカラ・大林・鍛冶 共著）
+- JG
+- SH, SK, TM, SO: 位相的データ解析から構造発見へ（池・エスカラ・大林・鍛冶 共著）
 
 ***
 
 ### 学位論文
 
+- 山田 耕平，「一般化systoleのeutaxy」，令和6年度修士論文
 - 小枝 幹汰，「長方形によるMorse双パーシステンス加群の分解」，令和5年度修士論文
 - 矢代 海音，"Computing Morse-Bott homology with singular simplicial chains"，令和5年度修士論文
 - 山本 祐己，「固有な運動量写像のpseudoheavyファイバーの存在」，令和5年度修士論文

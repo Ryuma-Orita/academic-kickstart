@@ -76,3 +76,8 @@ user_groups:
 新潟大学理学部にて，数学の教育・研究を行っています。
 専門はトポロジーやシンプレクティック幾何学です。
 特に，Morse理論，ハミルトン力学系，パーシステンス加群に興味があります。
+
+https://youtu.be/mVaxo0VFeNs?si=RLp1sVtbiNVWF8xy
+
+https://www.niigata-u.ac.jp/webmagazine/717251/
+

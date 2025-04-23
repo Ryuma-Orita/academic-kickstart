@@ -3,9 +3,9 @@ title = "Floer-type bipersistence modules and rectangle barcodes"
 authors = ["Kanta Koeda", "Ryuma Orita", "Kanon Yashiro"]
 date = "2023-12-13"
 publication = "arXiv:2312.07847"
-#publication_short = "arXiv:2312.07847"
+publication_short = "arXiv:2312.07847"
 
-featured = true
+featured = false
 
 reading_time = false  # Show estimated reading time?
 share = false  # Show social sharing links?

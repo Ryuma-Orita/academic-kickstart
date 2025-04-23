@@ -3,7 +3,7 @@ title = "Relative simplicity of the universal coverings of transformation groups
 authors = ["Morimichi Kawasaki", "Mitsuaki Kimura", "Hiroki Kodama", "Yoshifumi Matsuda", "Takahiro Matsushita", "admin"]
 date = "2024-12-01"
 publication = "arXiv:2412.00839"
-#publication_short = "arXiv:2412.00839"
+publication_short = "arXiv:2412.00839"
 
 featured = true
 

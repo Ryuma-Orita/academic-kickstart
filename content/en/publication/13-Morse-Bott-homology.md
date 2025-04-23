@@ -1,11 +1,11 @@
 +++
-title = "The simplicial Morse–Bott–Smale chain complex"
+title = "Simplified Morse-Bott-Smale chain complex"
 authors = ["admin", "Kanon Yashiro"]
-date = "2025-12-31"
-publication = "In preparation"
-#publication_short = "In preparation"
+date = "2025-04-23"
+publication = "preprint"
+publication_short = "preprint"
 
-featured = false
+featured = true
 
 reading_time = false  # Show estimated reading time?
 share = false  # Show social sharing links?
@@ -26,7 +26,7 @@ profile = false  # Show author profile?
 # 8 = Patent (v4.2+ required)
 publication_types = ["3"]
 
-# abstract = "In this paper, we define Morse--Bott homology on oriented compact smooth Riemannian manifolds by using smooth singular simplicial chains and compactified moduli spaces determined by  Morse-Bott-Smale function. This allows for a simpler definition of Morse-Bott homology and more computable examples."
+abstract = "Banyaga and Hurtubise defined the Morse--Bott--Smale chain complex as a quotient of a large chain complex by introducing five degeneracy relations. In this paper, we unify the five conditions into only one degeneracy condition. This allows for a simpler definition of Morse--Bott homology and more computable examples. Moreover, we show that our chain complex for a Morse--Smale function is quasi-isomorphic to the Morse--Smale--Witten chain complex. As a result, we obtain another proof of the Morse Homology Theorem."
 # abstract_short = ""
 
 #links = [

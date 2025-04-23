@@ -1,5 +1,5 @@
 +++
-title = "Morse–Bott inequalities for manifolds with boundary"
+title = "Morse-Bott inequalities for manifolds with boundary"
 authors = ["admin"]
 date = "2017-12-18"
 publication = "Tokyo Journal of Mathematics, vol. **41** (2018), no. 1, pp. 113–130"

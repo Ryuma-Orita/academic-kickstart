@@ -1,7 +1,7 @@
 +++
 title = "Simplified Morse-Bott-Smale chain complex"
 authors = ["admin", "Kanon Yashiro"]
-date = "2025-04-23"
+date = "2025-04-25"
 publication = "preprint"
 publication_short = "preprint"
 

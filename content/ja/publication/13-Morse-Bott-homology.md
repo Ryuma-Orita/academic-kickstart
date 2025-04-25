@@ -2,8 +2,8 @@
 title = "Simplified Morse-Bott-Smale chain complex"
 authors = ["Ryuma Orita", "Kanon Yashiro"]
 date = "2025-04-23"
-publication = "preprint"
-publication_short = "preprint"
+publication = "arXiv:2504.16962"
+publication_short = "arXiv:2504.16962"
 
 featured = true
 

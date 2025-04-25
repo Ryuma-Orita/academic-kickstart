@@ -30,7 +30,7 @@ abstract = "Banyaga and Hurtubise defined the Morse--Bott--Smale chain complex a
 # abstract_short = ""
 
 links = [
-  {icon = "arxiv", icon_pack = "ai", name = "arXiv:2504.16962", url = "https://doi.org/10.48550/arXiv.2504.16962"},
+  {icon = "arxiv", icon_pack = "ai", name = "arXiv", url = "https://arxiv.org/abs/2504.16962"},
   ]
 
 # Featured image thumbnail (optional)

@@ -1,5 +1,5 @@
 +++
-title = "Simplified Morse-Bott-Smale chain complex"
+title = "Morse-Bott-Smale chain complex"
 authors = ["admin", "Kanon Yashiro"]
 date = "2025-04-23"
 publication = "arXiv:2504.16962"
@@ -26,7 +26,7 @@ profile = false  # Show author profile?
 # 8 = Patent (v4.2+ required)
 publication_types = ["3"]
 
-abstract = "Banyaga and Hurtubise defined the Morse--Bott--Smale chain complex as a quotient of a large chain complex by introducing five degeneracy relations. In this paper, we unify the five conditions into only one degeneracy condition. This allows for a simpler definition of Morse--Bott homology and more computable examples. Moreover, we show that our chain complex for a Morse--Smale function is quasi-isomorphic to the Morse--Smale--Witten chain complex. As a result, we obtain another proof of the Morse Homology Theorem."
+abstract = "Banyaga and Hurtubise defined the Morse--Bott--Smale chain complex as a quotient of a large chain complex by introducing five degeneracy relations. However, their five degeneracy relations are in fact redundant. In the present paper, we unify these five conditions into a single degeneracy condition and resolve the issue of the well-definedness of the Morse--Bott--Smale chain complex. This provides an appropriate definition of the Morse--Bott homology and more computable examples. Moreover, we show that our chain complex for a Morse--Smale function is quasi-isomorphic to the usual Morse--Smale--Witten chain complex. As a consequence, we obtain an alternative proof of the Morse Homology Theorem."
 # abstract_short = ""
 
 links = [

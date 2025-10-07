@@ -5,10 +5,10 @@ event_url: "https://syllabus.niigata-u.ac.jp/syllabusHtml/2025/06/06_250S0593_ja
 
 location: 新潟大学 理学部
 
-summary: "第1学期集中講義，共同担当"
+summary: "集中講義，共同担当"
 # abstract: ""
 
-date: "2025-04-01"
+date: "2025-08-21"
 date_end: "2025-09-30"
 all_day: true
 tag: "2025S"

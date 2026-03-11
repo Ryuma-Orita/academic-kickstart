@@ -28,19 +28,18 @@ profile: false  # Show author profile?
 - John W. Milnor 著「Morse Theory」Princeton University Press
 
 **講義内容**
-1. 有限次元多様体に対するMorse理論の復習
-2. Riemann幾何学の復習
-3. 道の空間に対するMorse理論の復習
-4. Lie群と対称空間への応用
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
+1. 道の空間に対するMorse理論(§19)までの復習
+2. 対称空間(§20)
+3. 対称空間としてのLie群(§21)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/GjF9J7cexCA)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/-Tyoi-AcXMQ)
+4. 最短測地線全体の多様体(§22)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/_N_zlbgg8nk)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/YJHfbRi4Wi0)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/c7n5jpUDf_I)
+5. ユニタリー群に対するBott周期性定理(§23)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/n-6SXvLln1M)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/xMz7KqRThG8)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/UDcrLbfwcAg)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/DYBd9z3Wquo)
+6. 直交群に対するBott周期性定理(§24)

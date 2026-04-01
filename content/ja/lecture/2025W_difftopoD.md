@@ -44,3 +44,7 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/DYBd9z3Wquo)
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/8M8d0rYGcvY)
 6. 直交群に対するBott周期性定理 (§24)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/tQyJqTDDZyg)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/DMP6amn63_w)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/lBUk7e0Z2_k)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/qXjyEyr7-_4)

@@ -6,19 +6,20 @@ weight = 120  # Order that this section will appear.
 
 title = "研究室（ゼミ）"
 +++
-### メンバー（2025年度）
+### メンバー（2026年度）
 
-#### D2
+#### D3
 - KY: 代数的トポロジーとMorse理論の応用
-#### D1
+#### D2
 - KY: Teichmüller空間とThurston spine
 #### M2
 - SY: 擬リーマン幾何学と相対性理論
-#### M1
 - CT: Morseホモロジー
+#### M1
+- SK, SO: パーシステンス理論
 #### B4
-- JG（2025年9月22日卒業）
-- SH, SK, TM, SO: 位相的データ解析から構造発見へ（池・エスカラ・大林・鍛冶 共著）
+- SF
+- HI: 手を動かしてまなぶ 集合と位相（藤岡敦 著）
 
 ***
 
@@ -43,3 +44,4 @@ title = "研究室（ゼミ）"
 - Joseph J. Rotman, "An Introduction to Algebraic Topology", Springer
 - John W. Milnor, "Morse Theory", Princeton University Press
 - 池・エスカラ・大林・鍛冶 共著「位相的データ解析から構造発見へ」サイエンス社
+- 藤岡敦 著「手を動かしてまなぶ 集合と位相」裳華房

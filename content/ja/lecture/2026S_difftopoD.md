@@ -24,7 +24,7 @@ profile: false  # Show author profile?
 - Audin and Damian 著「Morse Theory and Floer Homology」Springer
 
 **講義内容**
-1. Arzelà-Ascoliの定理
+1. Arzelà--Ascoliの定理
 2. Fredholm理論
 3. 超関数空間、弱解
 4. $\\mathbb{R}^n$ 上のSobolev空間

@@ -8,8 +8,8 @@ location: 新潟大学 大学院自然科学研究科
 summary: "D向け，第1学期木曜3限"
 # abstract: ""
 
-date: "2026-4-01"
-date_end: "2026-9-30"
+date: "2026-04-01"
+date_end: "2026-09-30"
 all_day: true
 tag: "2026S"
 

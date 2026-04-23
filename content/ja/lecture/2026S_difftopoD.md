@@ -25,7 +25,10 @@ profile: false  # Show author profile?
 
 **講義内容**
 1. Arzelà--Ascoliの定理
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/_ynUKK4DzG4)
 2. Fredholm理論
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/E1SXKXF4PtU)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/x-8nOwEh4sw)
 3. 超関数空間、弱解
 4. $\\mathbb{R}^n$ 上のSobolev空間
 5. Cauchy--Riemann方程式

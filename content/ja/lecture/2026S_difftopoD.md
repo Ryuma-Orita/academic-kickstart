@@ -29,6 +29,10 @@ profile: false  # Show author profile?
 2. Fredholm理論
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/E1SXKXF4PtU)
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/x-8nOwEh4sw)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/k7WsHj2eLIM)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/Uz6VziCHTKs)
 3. 超関数空間、弱解
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/vVUjbJH1iME)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/c9_REJH1Xgw)
 4. $\\mathbb{R}^n$ 上のSobolev空間
 5. Cauchy--Riemann方程式

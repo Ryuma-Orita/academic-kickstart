@@ -77,6 +77,7 @@ user_groups:
 専門はトポロジーやシンプレクティック幾何学です。
 特に，Morse理論，ハミルトン力学系，パーシステンス加群に興味があります。
 
-- にいがた“知の革新”STELLAプログラムの[動画](https://www.youtube.com/watch?v=mVaxo0VFeNs)
+- にいがた“知の革新”STELLAプログラムの[動画（トポロジー）](https://www.youtube.com/watch?v=mVaxo0VFeNs)
+- にいがた“知の革新”STELLAプログラムの[動画（Morse理論）](https://www.youtube.com/watch?v=qUGHlm9EC68)
 - 新潟大学ウェブマガジンの[記事](https://www.niigata-u.ac.jp/webmagazine/717251/)
 

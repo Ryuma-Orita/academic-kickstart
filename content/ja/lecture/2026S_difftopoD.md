@@ -34,5 +34,9 @@ profile: false  # Show author profile?
 3. 超関数空間、弱解
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/vVUjbJH1iME)
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/c9_REJH1Xgw)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/x5YI3tKr8Ts)
 4. $\\mathbb{R}^n$ 上のSobolev空間
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/80S25zkk8Qg)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/6QjXpJlgcGk)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/qp6931fRPzw)
 5. Cauchy--Riemann方程式

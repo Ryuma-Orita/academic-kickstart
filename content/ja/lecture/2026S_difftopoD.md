@@ -40,3 +40,7 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/6QjXpJlgcGk)
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/qp6931fRPzw)
 5. Cauchy--Riemann方程式
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/66XjUPDzmdg)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/bsNHyZYhcWQ)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/AB7vGFQdbXw)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/hvD7BNM2FWg)

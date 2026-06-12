@@ -1,7 +1,7 @@
 +++
 title = "Relative simplicity of the universal coverings of transformation groups and Tsuboi's metric"
 authors = ["Morimichi Kawasaki", "Mitsuaki Kimura", "Hiroki Kodama", "Yoshifumi Matsuda", "Takahiro Matsushita", "Ryuma Orita"]
-date = "2026-12-01"
+date = "2024-12-01"
 publication = "Journal of Topology and Analysis, to appear"
 publication_short = "*J. Topol. Anal.*, to appear"
 

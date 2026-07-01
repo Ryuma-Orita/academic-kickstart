@@ -1,9 +1,9 @@
 +++
 title = "Relative simplicity of the universal coverings of transformation groups and Tsuboi's metric"
 authors = ["Morimichi Kawasaki", "Mitsuaki Kimura", "Hiroki Kodama", "Yoshifumi Matsuda", "Takahiro Matsushita", "Ryuma Orita"]
-date = "2024-12-01"
-publication = "Journal of Topology and Analysis, to appear"
-publication_short = "*J. Topol. Anal.*, to appear"
+date = "2026-06-30"
+publication = "Journal of Topology and Analysis, Online Ready"
+publication_short = "*J. Topol. Anal.*, Online Ready"
 
 featured = true
 
@@ -31,6 +31,7 @@ abstract = "Many transformation groups on manifolds are simple, but their univer
 
 links = [
   {icon = "arxiv", icon_pack = "ai", name = "arXiv", url = "https://doi.org/10.48550/arXiv.2412.00839"},
+  {icon = "book", icon_pack = "fas", name = "Journal Page", url = "https://doi.org/10.1142/S1793525326500445"},
   ]
 
 # Featured image thumbnail (optional)

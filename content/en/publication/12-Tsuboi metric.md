@@ -5,7 +5,7 @@ date = "2026-06-30"
 publication = "Journal of Topology and Analysis, Online Ready"
 publication_short = "*J. Topol. Anal.*, Online Ready"
 
-featured = true
+featured = false
 
 reading_time = false  # Show estimated reading time?
 share = false  # Show social sharing links?

@@ -5,7 +5,7 @@ date = "2025-04-23"
 publication = "arXiv:2504.16962"
 publication_short = "arXiv:2504.16962"
 
-featured = true
+featured = false
 
 reading_time = false  # Show estimated reading time?
 share = false  # Show social sharing links?

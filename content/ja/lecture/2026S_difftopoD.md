@@ -47,3 +47,4 @@ profile: false  # Show author profile?
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/EG4PVKKzfX4)
 6. Banach多様体 $\\mathcal{P}^{1,p}(x,y)$
 	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/M941oTVfl-k)
+	[{{< icon name="youtube" pack="fab" >}}](https://youtu.be/-hiozW58Bdw)
